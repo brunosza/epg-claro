@@ -35,8 +35,19 @@ jobs:
                       print(f"::notice::{url.split('/')[2]} {nomes[cid]}: " + " | ".join(linha[:8]))
               except Exception as e:
                   print(f"::notice::{url} falhou {e}")
-          ids = ("espn 2", "espn 2 hd", "espn 2.br", "espn2.br")
+          ids = ("espn", "espn hd", "espn 2", "espn 2 hd", "espn 4", "espn 4 hd")
           fonte("https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz", ids)
-          fonte("https://epg.pw/xmltv/epg_BR.xml.gz", ids)
-          fonte("https://www.open-epg.com/files/brazil1.xml", ids + ("espn brasil.br",))
+          # sobreposições na Claro
+          h = agora.astimezone(br)
+          u = (f"https://programacao.claro.com.br/gatekeeper/exibicao/select?q=id_revel:(*)+AND+id_cidade:1&wt=json&rows=20000"
+               f"&sort=id_canal+asc,dh_inicio+asc&fl=dh_inicio+dh_fim+id_canal&fq=dh_inicio:[{h.year}-{h.month}-{h.day}T00:00:00Z+TO+{h.year}-{h.month}-{h.day}T23:59:00Z]")
+          docs = json.load(urllib.request.urlopen(u))["response"]["docs"]
+          nomes = {str(x["id_canal"]): x["nome"] for x in json.load(urllib.request.urlopen("https://programacao.claro.com.br/gatekeeper/canal/select?q=id_cidade:1&rows=1000&wt=json&fl=id_canal+nome"))["response"]["docs"]}
+          por = {}
+          for d in docs: por.setdefault(str(d["id_canal"]), []).append((d["dh_inicio"], d["dh_fim"]))
+          ruins = []
+          for cid, l in por.items():
+              l.sort(); ov = sum(1 for a, b in zip(l, l[1:]) if b[0] < a[1])
+              if ov: ruins.append(f"{nomes.get(cid, cid)}={ov}/{len(l)}")
+          print(f"::notice::SOBREPOSTOS ({len(ruins)} de {len(por)}): " + " ; ".join(ruins)[:3500])
           PY
