@@ -18,11 +18,25 @@ jobs:
               return " | ".join(f"{x['dh_inicio'][11:16]}-{x['dh_fim'][11:16]} {x['titulo']}" for x in d[:8])
           for cid, nome in ((426, "ESPN"), (2432, "ESPN 2 HD"), (1049, "ESPN HD")):
               print(f"::notice::CLARO {nome}#{cid}: {claro(cid)}")
-          b = gzip.decompress(urllib.request.urlopen("https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz").read())
-          t = ET.fromstring(b)
-          for p in t.findall("programme"):
-              if p.get("channel") in ("ESPN.2.br", "ESPN.br"):
-                  ini = dt.datetime.strptime(p.get("start"), "%Y%m%d%H%M%S %z"); fim = dt.datetime.strptime(p.get("stop"), "%Y%m%d%H%M%S %z")
-                  if ini - dt.timedelta(hours=2) <= agora < fim + dt.timedelta(hours=2):
-                      print(f"::notice::EPGSHARE {p.get('channel')} {ini.astimezone(br):%H:%M}-{fim.astimezone(br):%H:%M} {p.findtext('title')}")
+          def fonte(url, ids):
+              try:
+                  b = urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}), timeout=120).read()
+                  if b[:2] == b"\x1f\x8b": b = gzip.decompress(b)
+                  t = ET.fromstring(b)
+                  nomes = {c.get("id"): c.findtext("display-name") for c in t.findall("channel")}
+                  sel = [i for i, n in nomes.items() if any(k == (n or "").split("  ")[-1].strip().lower() for k in ids)]
+                  for cid in sel:
+                      linha = []
+                      for p in t.findall("programme"):
+                          if p.get("channel") != cid: continue
+                          ini = dt.datetime.strptime(p.get("start").strip(), "%Y%m%d%H%M%S %z"); fim = dt.datetime.strptime(p.get("stop").strip(), "%Y%m%d%H%M%S %z")
+                          if ini - dt.timedelta(hours=3) <= agora < fim + dt.timedelta(hours=3):
+                              linha.append(f"{ini.astimezone(br):%H:%M}-{fim.astimezone(br):%H:%M} {p.findtext('title')}")
+                      print(f"::notice::{url.split('/')[2]} {nomes[cid]}: " + " | ".join(linha[:8]))
+              except Exception as e:
+                  print(f"::notice::{url} falhou {e}")
+          ids = ("espn 2", "espn 2 hd", "espn 2.br", "espn2.br")
+          fonte("https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz", ids)
+          fonte("https://epg.pw/xmltv/epg_BR.xml.gz", ids)
+          fonte("https://www.open-epg.com/files/brazil1.xml", ids + ("espn brasil.br",))
           PY
