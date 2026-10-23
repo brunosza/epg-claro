@@ -415,6 +415,25 @@ def main():
             json.dump(enxuto, f, ensure_ascii=False, indent=0)
         print(f"OK: {len(enxuto)} canais salvos em {a.exportar_lista}", file=sys.stderr)
         return
+    hoje = datetime.now(TZ_BR).replace(hour=0, minute=0, second=0, microsecond=0)
+    programas = []
+    for d in range(a.dias):
+        ini = hoje + timedelta(days=d)
+        fim = ini + timedelta(days=1) - timedelta(minutes=1)
+        lote = buscar_programas(a.cidade, ini, fim)
+        print(f"{ini:%d/%m}: {len(lote)} exibições", file=sys.stderr)
+        programas.extend(lote)
+
+    # A Claro tem canais duplicados (ex.: "ESPN 2" sem grade e "ESPN 2 HD" com grade) e
+    # alguns sem grade nenhuma. Fica só quem tem programação, o mais completo primeiro.
+    qtd = {}
+    for p in programas:
+        qtd[str(p.get("id_canal"))] = qtd.get(str(p.get("id_canal")), 0) + 1
+    vazios = [c.get("nome", "") for c in canais if not qtd.get(str(c["id_canal"]))]
+    if vazios:
+        print(f"Canais sem grade na Claro: {', '.join(sorted(vazios))}", file=sys.stderr)
+    canais = sorted((c for c in canais if qtd.get(str(c["id_canal"]))), key=lambda c: -qtd[str(c["id_canal"])])
+
     streams = None
     if a.lista:
         with open(a.lista, encoding="utf-8") as f:
@@ -454,14 +473,6 @@ def main():
     else:
         saidas = saidas_padrao(canais, ler_mapa(a.mapa) if a.mapa else {})
 
-    hoje = datetime.now(TZ_BR).replace(hour=0, minute=0, second=0, microsecond=0)
-    programas = []
-    for d in range(a.dias):
-        ini = hoje + timedelta(days=d)
-        fim = ini + timedelta(days=1) - timedelta(minutes=1)
-        lote = buscar_programas(a.cidade, ini, fim)
-        print(f"{ini:%d/%m}: {len(lote)} exibições", file=sys.stderr)
-        programas.extend(lote)
 
     xml, total = gerar_xmltv(saidas, programas)
     dados = xml.encode("utf-8")

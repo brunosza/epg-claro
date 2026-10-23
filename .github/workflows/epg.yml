@@ -54,13 +54,6 @@ jobs:
           t = ET.fromstring(gzip.open("site/epg_claro.xml.gz").read())
           c = collections.Counter(p.get("channel") for p in t.findall("programme"))
           print("::notice::" + " | ".join(f"{k}={v}" for k, v in sorted(c.items()) if "espn" in k.lower()))
-          import datetime as dt
-          hoje = dt.date.today()
-          for cid in (427, 2432, 2251, 1091, 1034, 426, 1049):
-              u = (f"https://programacao.claro.com.br/gatekeeper/exibicao/select?q=id_revel:(1_{cid})+AND+id_cidade:1"
-                   f"&wt=json&rows=3&fl=dh_inicio+titulo+id_canal&fq=dh_inicio:[{hoje.year}-{hoje.month}-{hoje.day}T00:00:00Z+TO+{hoje.year}-{hoje.month}-{hoje.day}T23:59:00Z]")
-              r = json.load(urllib.request.urlopen(u))["response"]
-              print(f"::notice::canal {cid}: {r['numFound']} hoje; ex: {[d.get('titulo') for d in r['docs']]}")
           PY
       - name: Guardar relatório no repositório
         run: |
