@@ -2,9 +2,9 @@ TVG-ID ERRADO NA LISTA (4) - acerte o EPG destes à mão no TiviMate
   Cartoonito H265  (tvg-id CartoonNetwork.br = Cartoon Network)
   ESPN FHD²  (tvg-id ESPN4.br = Espn 4)
   ESPN HD²  (tvg-id ESPN4.br = Espn 4)
-  ESPN HD³  (tvg-id ESPN2.br = ESPN 2)
+  ESPN HD³  (tvg-id ESPN2.br = ESPN 2 HD )
 
-CASADOS (828)
+CASADOS (754)
   A&E 4K  ->  A&E
   A&E FHD  ->  A&E
   A&E H265  ->  A&E
@@ -136,11 +136,6 @@ CASADOS (828)
   Combate HD  ->  Combate
   Combate SD  ->  Combate
   Combate UHD  ->  Combate
-  Comedy Central FHD  ->  Comedy Central
-  Comedy Central H265  ->  Comedy Central
-  Comedy Central HD  ->  Comedy Central
-  Comedy Central SD  ->  Comedy Central
-  Comedy Central UHD  ->  Comedy Central
   Cultura FHD  ->  Cultura
   Cultura H265  ->  Cultura
   Cultura HD  ->  Cultura
@@ -203,28 +198,17 @@ CASADOS (828)
   E! HD  ->  E! 
   E! SD  ->  E! 
   E! UHD  ->  E! 
-  ESPN 2 FHD²  ->  ESPN 2
-  ESPN 2 FHD³  ->  ESPN 2
-  ESPN 2 FHD¹  ->  ESPN 2
-  ESPN 2 H265  ->  ESPN 2
-  ESPN 2 HD²  ->  ESPN 2
-  ESPN 2 HD³  ->  ESPN 2
-  ESPN 2 HD¹  ->  ESPN 2
-  ESPN 2 SD²  ->  ESPN 2
-  ESPN 2 SD³  ->  ESPN 2
-  ESPN 2 SD¹  ->  ESPN 2
-  ESPN 2 UHD  ->  ESPN 2
-  ESPN 3  SD¹  ->  ESPN 3 HD
-  ESPN 3 FHD²  ->  ESPN 3 HD
-  ESPN 3 FHD³  ->  ESPN 3 HD
-  ESPN 3 FHD¹  ->  ESPN 3 HD
-  ESPN 3 H265  ->  ESPN 3 HD
-  ESPN 3 HD²  ->  ESPN 3 HD
-  ESPN 3 HD³  ->  ESPN 3 HD
-  ESPN 3 HD¹  ->  ESPN 3 HD
-  ESPN 3 SD²  ->  ESPN 3 HD
-  ESPN 3 SD³  ->  ESPN 3 HD
-  ESPN 3 UHD  ->  ESPN 3 HD
+  ESPN 2 FHD²  ->  ESPN 2 HD 
+  ESPN 2 FHD³  ->  ESPN 2 HD 
+  ESPN 2 FHD¹  ->  ESPN 2 HD 
+  ESPN 2 H265  ->  ESPN 2 HD 
+  ESPN 2 HD²  ->  ESPN 2 HD 
+  ESPN 2 HD³  ->  ESPN 2 HD 
+  ESPN 2 HD¹  ->  ESPN 2 HD 
+  ESPN 2 SD²  ->  ESPN 2 HD 
+  ESPN 2 SD³  ->  ESPN 2 HD 
+  ESPN 2 SD¹  ->  ESPN 2 HD 
+  ESPN 2 UHD  ->  ESPN 2 HD 
   ESPN 4 4K  ->  Espn 4
   ESPN 4 FHD²  ->  Espn 4
   ESPN 4 FHD¹  ->  Espn 4
@@ -241,11 +225,6 @@ CASADOS (828)
   ESPN 5 HD¹  ->  ESPN 5 HD
   ESPN 5 SD²  ->  ESPN 5 HD
   ESPN 5 SD¹  ->  ESPN 5 HD
-  ESPN 6 FHD²  ->  ESPN 6 HD
-  ESPN 6 FHD¹  ->  ESPN 6 HD
-  ESPN 6 HD²  ->  ESPN 6 HD
-  ESPN 6 HD¹  ->  ESPN 6 HD
-  ESPN 6 SD¹  ->  ESPN 6 HD
   ESPN FHD²  ->  ESPN
   ESPN FHD³  ->  ESPN
   ESPN FHD¹  ->  ESPN
@@ -269,11 +248,11 @@ CASADOS (828)
   Fashion TV H265  ->  Fashion TV HD
   Fashion TV HD  ->  Fashion TV HD
   Fashion TV SD  ->  Fashion TV HD
-  Film&Arts FHD  ->  Film&Arts
-  Film&Arts H265  ->  Film&Arts
-  Film&Arts HD  ->  Film&Arts
-  Film&Arts SD  ->  Film&Arts
-  Film&Arts UHD  ->  Film&Arts
+  Film&Arts FHD  ->  Film&Arts HD
+  Film&Arts H265  ->  Film&Arts HD
+  Film&Arts HD  ->  Film&Arts HD
+  Film&Arts SD  ->  Film&Arts HD
+  Film&Arts UHD  ->  Film&Arts HD
   Fish TV FHD  ->  FISH TV
   Fish TV H265  ->  FISH TV
   Fish TV HD  ->  FISH TV
@@ -284,11 +263,6 @@ CASADOS (828)
   Food Network HD  ->  Food Network
   Food Network SD  ->  Food Network
   Food Network UHD  ->  Food Network
-  France 24 FHD  ->  France 24
-  France 24 H265  ->  France 24
-  France 24 HD  ->  France 24
-  France 24 SD  ->  France 24
-  France 24 UHD  ->  France 24
   Futura FHD  ->  Futura
   Futura H265  ->  Futura
   Futura HD  ->  Futura
@@ -332,29 +306,29 @@ CASADOS (828)
   HBO 2 HD  ->  HBO 2
   HBO 2 SD  ->  HBO 2
   HBO 2 UHD  ->  HBO 2
-  HBO 4K  ->  HBO
-  HBO FHD  ->  HBO
-  HBO FHD [LEG]  ->  HBO
+  HBO 4K  ->  HBO HD ³
+  HBO FHD  ->  HBO HD ³
+  HBO FHD [LEG]  ->  HBO HD ³
   HBO Family FHD  ->  HBO Family
   HBO Family H265  ->  HBO Family
   HBO Family HD  ->  HBO Family
   HBO Family SD  ->  HBO Family
   HBO Family UHD  ->  HBO Family
-  HBO H264 ( CANAIS LEGENDADOS )  ->  HBO
-  HBO H265  ->  HBO
-  HBO HD  ->  HBO
-  HBO HD ( CANAIS LENGENDADOS)  ->  HBO
-  HBO HD [LEG]  ->  HBO
-  HBO MUNDI FHD  ->  Hbo Mundi
-  HBO MUNDI FHD ( CANAIS LEGENDADOS )  ->  Hbo Mundi
-  HBO MUNDI H265  ->  Hbo Mundi
-  HBO MUNDI HD  ->  Hbo Mundi
-  HBO MUNDI HD ( CANAIS LEGENDADOS )  ->  Hbo Mundi
-  HBO MUNDI SD  ->  Hbo Mundi
-  HBO MUNDI UHD  ->  Hbo Mundi
-  HBO Mundi FHD [LEG]  ->  Hbo Mundi
-  HBO Mundi HD [LEG]  ->  Hbo Mundi
-  HBO Mundi SD [LEG]  ->  Hbo Mundi
+  HBO H264 ( CANAIS LEGENDADOS )  ->  HBO HD ³
+  HBO H265  ->  HBO HD ³
+  HBO HD  ->  HBO HD ³
+  HBO HD ( CANAIS LENGENDADOS)  ->  HBO HD ³
+  HBO HD [LEG]  ->  HBO HD ³
+  HBO MUNDI FHD  ->  HBO MUNDI HD
+  HBO MUNDI FHD ( CANAIS LEGENDADOS )  ->  HBO MUNDI HD
+  HBO MUNDI H265  ->  HBO MUNDI HD
+  HBO MUNDI HD  ->  HBO MUNDI HD
+  HBO MUNDI HD ( CANAIS LEGENDADOS )  ->  HBO MUNDI HD
+  HBO MUNDI SD  ->  HBO MUNDI HD
+  HBO MUNDI UHD  ->  HBO MUNDI HD
+  HBO Mundi FHD [LEG]  ->  HBO MUNDI HD
+  HBO Mundi HD [LEG]  ->  HBO MUNDI HD
+  HBO Mundi SD [LEG]  ->  HBO MUNDI HD
   HBO PLUS H265 ( CANAIS LEGENDADOS )  ->  HBO +
   HBO PLUS HD ( CANAIS LEGENDADOS )  ->  HBO +
   HBO POP FHD  ->  Hbo Pop
@@ -367,8 +341,8 @@ CASADOS (828)
   HBO Pop FHD [LEG]  ->  Hbo Pop
   HBO Pop HD [LEG]  ->  Hbo Pop
   HBO Pop SD [LEG]  ->  Hbo Pop
-  HBO SD  ->  HBO
-  HBO SD [LEG]  ->  HBO
+  HBO SD  ->  HBO HD ³
+  HBO SD [LEG]  ->  HBO HD ³
   HBO SIGNATURE H265 ( CANAIS LEGENDADOS)  ->  HBO Signature
   HBO SIGNATURE HD ( CANAIS LEGENDADOS )  ->  HBO Signature
   HBO Signature FHD  ->  HBO Signature
@@ -379,7 +353,7 @@ CASADOS (828)
   HBO Signature SD  ->  HBO Signature
   HBO Signature SD [LEG]  ->  HBO Signature
   HBO Signature UHD  ->  HBO Signature
-  HBO UHD  ->  HBO
+  HBO UHD  ->  HBO HD ³
   HBO XTREME H265  ->  HBO Xtreme
   HBO XTREME H265 ( CANAIS LEGENDADOS)  ->  HBO Xtreme
   HBO XTREME UHD  ->  HBO Xtreme
@@ -402,11 +376,6 @@ CASADOS (828)
   HGTV HD  ->  HGTV
   HGTV SD  ->  HGTV
   HGTV UHD  ->  HGTV
-  History 2 FHD  ->  History 2 HD
-  History 2 H265  ->  History 2 HD
-  History 2 HD  ->  History 2 HD
-  History 2 SD  ->  History 2 HD
-  History 2 UHD  ->  History 2 HD
   History FHD  ->  History Hd
   History H265  ->  History Hd
   History HD  ->  History Hd
@@ -417,7 +386,6 @@ CASADOS (828)
   ID HD  ->  ID
   ID SD  ->  ID
   ID UHD  ->  ID
-  JP NEWS 4K  ->  JP News HD
   Lifetime FHD  ->  Lifetime
   Lifetime H265  ->  Lifetime
   Lifetime HD  ->  Lifetime
@@ -426,17 +394,6 @@ CASADOS (828)
   MEGA PIX 4K  ->  Megapix
   MEGAPIX H265 (CANAIS LEGENDADOS)  ->  Megapix
   MEGAPIX HD ( CANAIS LEGENDADOS )  ->  Megapix
-  MTV  UHD  ->  MTV
-  MTV FHD  ->  MTV
-  MTV H265  ->  MTV
-  MTV HD  ->  MTV
-  MTV LIVE  ->  MTV Live HD
-  MTV LIVE  ->  MTV Live HD
-  MTV LIVE FHD  ->  MTV Live HD
-  MTV LIVE HD  ->  MTV Live HD
-  MTV LIVE HD  ->  MTV Live HD
-  MTV LIVE SD  ->  MTV Live HD
-  MTV LIVE UHD  ->  MTV Live HD
   MULTISHOW 4K  ->  Multishow
   Megapix FHD  ->  Megapix
   Megapix FHD [LEG]  ->  Megapix
@@ -463,18 +420,8 @@ CASADOS (828)
   Music Box Brazil UHD  ->  Music Box Brazil
   NATIONAL GEOGRAPHIC  FHD  ->  National Geographic
   NATIONAL GEOGRAPHIC SD  ->  National Geographic
-  NICKELODEON HD  ->  Nickelodeon
   National Geographic H265  ->  National Geographic
   National Geographic UHD  ->  National Geographic
-  Nick Jr. FHD  ->  Nick Jr.
-  Nick Jr. HD  ->  Nick Jr.
-  Nick Jr. SD  ->  Nick Jr.
-  Nick Jr. UHD  ->  Nick Jr.
-  Nickelodeon FHD  ->  Nickelodeon
-  Nickelodeon H265  ->  Nickelodeon
-  Nickelodeon HD  ->  Nickelodeon
-  Nickelodeon SD  ->  Nickelodeon
-  Nickelodeon UHD  ->  Nickelodeon
   OFF FHD  ->  Off
   OFF H265  ->  Off
   OFF HD  ->  Off
@@ -498,17 +445,17 @@ CASADOS (828)
   Premiere 2 SD³  ->  Premiere 2
   Premiere 2 SD¹  ->  Premiere 2
   Premiere 2 UHD  ->  Premiere 2
-  Premiere 3 FHD²  ->  Premiere 3
-  Premiere 3 FHD³  ->  Premiere 3
-  Premiere 3 FHD¹  ->  Premiere 3
-  Premiere 3 H265  ->  Premiere 3
-  Premiere 3 HD²  ->  Premiere 3
-  Premiere 3 HD³  ->  Premiere 3
-  Premiere 3 HD¹  ->  Premiere 3
-  Premiere 3 SD²  ->  Premiere 3
-  Premiere 3 SD³  ->  Premiere 3
-  Premiere 3 SD¹  ->  Premiere 3
-  Premiere 3 UHD  ->  Premiere 3
+  Premiere 3 FHD²  ->  PREMIERE HD 3 ³
+  Premiere 3 FHD³  ->  PREMIERE HD 3 ³
+  Premiere 3 FHD¹  ->  PREMIERE HD 3 ³
+  Premiere 3 H265  ->  PREMIERE HD 3 ³
+  Premiere 3 HD²  ->  PREMIERE HD 3 ³
+  Premiere 3 HD³  ->  PREMIERE HD 3 ³
+  Premiere 3 HD¹  ->  PREMIERE HD 3 ³
+  Premiere 3 SD²  ->  PREMIERE HD 3 ³
+  Premiere 3 SD³  ->  PREMIERE HD 3 ³
+  Premiere 3 SD¹  ->  PREMIERE HD 3 ³
+  Premiere 3 UHD  ->  PREMIERE HD 3 ³
   Premiere 4 FHD²  ->  Premiere 4
   Premiere 4 FHD³  ->  Premiere 4
   Premiere 4 FHD¹  ->  Premiere 4
@@ -595,26 +542,18 @@ CASADOS (828)
   RedeTV! HD  ->  Rede TV
   RedeTV! SD  ->  Rede TV
   RedeTV! UHD  ->  Rede TV
-  SBT SP FHD  ->  SBT
-  SBT SP H265  ->  SBT
-  SBT SP HD  ->  SBT
-  SBT SP SD  ->  SBT
+  SBT SP FHD  ->  SBT HD
+  SBT SP H265  ->  SBT HD
+  SBT SP HD  ->  SBT HD
+  SBT SP SD  ->  SBT HD
   SPACE H265 (CANAIS LEGENDADOS )  ->  Space
   SPACE HD (CANAIS LEGENDADOS )  ->  Space
-  STAR CHANNEL ( HD HEVC )©  ->  Star Channel
-  STAR CHANNEL FHD  ->  Star Channel
-  STAR CHANNEL SD  ->  Star Channel
   STUDIO UNIVERSAL   (LEGENDADOS)  ->  Studio Universal
   STUDIO UNIVERSAL H265 (LEGENDADOS)  ->  Studio Universal
   SYFY  ->  Syfy
   SYFY  ( HD HEVC )©  ->  Syfy
   SYFY FHD  ->  Syfy
   SYFY HD  ->  Syfy
-  Sabor & Arte FHD  ->  Sabor & Arte HD
-  Sabor & Arte H265  ->  Sabor & Arte HD
-  Sabor & Arte HD  ->  Sabor & Arte HD
-  Sabor & Arte SD  ->  Sabor & Arte HD
-  Sabor & Arte UHD  ->  Sabor & Arte HD
   Sexy Hot FHD  ->  Sexy Hot
   Sexy Hot H265  ->  Sexy Hot
   Sexy Hot HD  ->  Sexy Hot
@@ -662,13 +601,6 @@ CASADOS (828)
   SporTV SD³  ->  SporTV
   SporTV SD¹  ->  SporTV
   SporTV UHD  ->  SporTV
-  Star Channel FHD  ->  Star Channel
-  Star Channel FHD [LEG]  ->  Star Channel
-  Star Channel H265  ->  Star Channel
-  Star Channel HD  ->  Star Channel
-  Star Channel HD [LEG]  ->  Star Channel
-  Star Channel SD  ->  Star Channel
-  Star Channel SD [LEG]  ->  Star Channel
   Studio Universal FHD  ->  Studio Universal
   Studio Universal H265  ->  Studio Universal
   Studio Universal HD  ->  Studio Universal
@@ -720,11 +652,11 @@ CASADOS (828)
   TNT Series UHD  ->  TNT SÉRIES HD
   TNT SÉRIES H265 (CANAIS LEGENDADOS)  ->  TNT SÉRIES HD
   TNT UHD  ->  TNT
-  TV Aparecida FHD  ->  Tv Aparecida
-  TV Aparecida H265  ->  Tv Aparecida
-  TV Aparecida HD  ->  Tv Aparecida
-  TV Aparecida SD  ->  Tv Aparecida
-  TV Aparecida UHD  ->  Tv Aparecida
+  TV Aparecida FHD  ->   TV Aparecida (espelho)
+  TV Aparecida H265  ->   TV Aparecida (espelho)
+  TV Aparecida HD  ->   TV Aparecida (espelho)
+  TV Aparecida SD  ->   TV Aparecida (espelho)
+  TV Aparecida UHD  ->   TV Aparecida (espelho)
   TV Brasil FHD  ->  TV Brasil
   TV Brasil H265  ->  TV Brasil
   TV Brasil HD  ->  TV Brasil
@@ -790,11 +722,6 @@ CASADOS (828)
   Telecine Touch SD  ->  Telecine Touch
   Telecine Touch SD [LEG]  ->  Telecine Touch
   Telecine Touch UHD  ->  Telecine Touch
-  Trace Brazuca FHD  ->  Trace Brazuca HD
-  Trace Brazuca H265  ->  Trace Brazuca HD
-  Trace Brazuca HD  ->  Trace Brazuca HD
-  Trace Brazuca SD  ->  Trace Brazuca HD
-  Trace Brazuca UHD  ->  Trace Brazuca HD
   Travel Box Brazil FHD  ->  Travel Box Brasil HD 
   Travel Box Brazil H265  ->  Travel Box Brasil HD 
   Travel Box Brazil HD  ->  Travel Box Brasil HD 
@@ -832,12 +759,9 @@ CASADOS (828)
   Zoomoo HD  ->  ZooMoo
   Zoomoo SD  ->  ZooMoo
   Zoomoo UHD  ->  ZooMoo
-  ֎֎֎֎MUSICA֎֎֎֎  ->  Música
 
-CANAIS DA CLARO SEM PAR NA SUA LISTA (147)
-   TV Aparecida (espelho)
+CANAIS DA CLARO SEM PAR NA SUA LISTA (122)
    TV Brasil 2
-   TV Pai Eterno HD
    Universal TV HD
   A&E HD
   AMC HD
@@ -851,7 +775,6 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (147)
   Band News HD
   Band Sports HD ³
   Boa Vontade TV
-  CANAL DO CLIENTE HD
   CGTN
   CNN Brasil HD
   CNN International
@@ -862,15 +785,11 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (147)
   Canal Legislativo
   Canal Universitário
   Canal de Vendas NET
-  Canal do Boi HD
-  Canal do cliente
   Cartoon Network HD
   Cartoonito HD
   Cinecanal
-  Cinecanal HD
   Cinemax HD ³
   Combate HD
-  Comedy Central HD
   Cultura HD
   Curta! HD
   DW-TV
@@ -881,15 +800,12 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (147)
   Discovery Turbo HD ³
   Disney Channel HD ³
   E! HD
-  ESPN 2 HD 
   ESPN 4 HD
   ESPN HD ³
   FISH TV HD
   FOOD NETWORK HD
   FX
   FX HD ³
-  Film&Arts HD
-  France 24 HD
   Futura HD
   GNT HD ³
   Gazeta HD
@@ -897,20 +813,15 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (147)
   GloboNews HD ³
   Gloob HD ³
   Gloobinho HD
-  HBO + HD
   HBO Family HD ³
   HBO HD 2 ³
-  HBO HD ³
-  HBO MUNDI HD
   HBO POP HD
   HBO Signature HD ³
   HBO Xtreme HD
   HGTV HD
   ID HD ³
-  Jogos Interativos Cartoon
   LIKE HD
   Lifetime HD
-  MTV HD ³
   Mega TV
   Mega TV HD
   Megapix HD ³
@@ -920,23 +831,15 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (147)
   Music Box Brazil HD ³
   NHK World Premium
   National Geographic HD ³
-  Nick Jr HD ³
-  Nickelodeon HD
   Off HD ³
-  PREMIERE HD 3 ³
   PREMIERE HD 4 ³
   PREMIERE HD 5 ³
-  Paramount Network
-  Paramount Network HD 
   Play TV
   Playboy TV 
   Polishop
-  Polishop TV
-  Portal do Futebol
+  Premiere 3
   Premiere Clubes HD
   Premiere HD 2
-  Premiere HD 6
-  Premiere HD 7
   Prime Box Brazil HD ³
   RAI International
   Record HD
@@ -944,12 +847,10 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (147)
   Rede Gospel HD
   Rede TV HD
   Rede Vida HD
-  SBT HD
+  SBT
   SIC International
-  STAR CHANNEL HD
   Sextreme
   Shoptime
-  Shoptime TV
   Sony HD ³
   Space HD ³
   SporTV 2 HD ³
@@ -983,7 +884,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (147)
   Woohoo HD
   ZooMoo HD
 
-SEM GRADE NA CLARO (3471)
+SEM GRADE NA CLARO (3545)
   ##### IT-  MOVIES |#####
   ##### IT- EGLE/ PRIFAMILLA MOVIES |#####
   ##### IT- KIDS|#####
@@ -1567,6 +1468,11 @@ SEM GRADE NA CLARO (3471)
   Cine SKY 10
   Code Geass
   Colegiais Rebeldes
+  Comedy Central FHD
+  Comedy Central H265
+  Comedy Central HD
+  Comedy Central SD
+  Comedy Central UHD
   Comemoração Sexual
   Conexão com Deus 01
   Conexão com Deus 02
@@ -1997,6 +1903,22 @@ SEM GRADE NA CLARO (3471)
   ES: VAMOS M+ FHD
   ES: VIAJAR
   ES: cadena Cope
+  ESPN 3  SD¹
+  ESPN 3 FHD²
+  ESPN 3 FHD³
+  ESPN 3 FHD¹
+  ESPN 3 H265
+  ESPN 3 HD²
+  ESPN 3 HD³
+  ESPN 3 HD¹
+  ESPN 3 SD²
+  ESPN 3 SD³
+  ESPN 3 UHD
+  ESPN 6 FHD²
+  ESPN 6 FHD¹
+  ESPN 6 HD²
+  ESPN 6 HD¹
+  ESPN 6 SD¹
   ESPN Extra FHD
   ESPN Extra H265
   ESPN Extra HD
@@ -2144,6 +2066,11 @@ SEM GRADE NA CLARO (3471)
   Forum 35
   Forum 36
   Forum 37
+  France 24 FHD
+  France 24 H265
+  France 24 HD
+  France 24 SD
+  France 24 UHD
   Free Willy
   Friends
   Friends  - S4
@@ -2589,6 +2516,11 @@ SEM GRADE NA CLARO (3471)
   Hemlock Grove - S1 E S2
   Hemlock Grove - S3
   Historias de uma Gueixa 3
+  History 2 FHD
+  History 2 H265
+  History 2 HD
+  History 2 SD
+  History 2 UHD
   Homem Aranha Acao Sem Limites
   Homem De Ferro
   Homem-Aranha da Marvel
@@ -2709,6 +2641,7 @@ SEM GRADE NA CLARO (3471)
   Irmaos A Obra
   Irmão do Jorel
   JOVEM PAN NEWS 4K
+  JP NEWS 4K
   Jackie Chan - S1
   Jackie Chan - S2
   Jackie Chan - S3
@@ -2939,6 +2872,17 @@ SEM GRADE NA CLARO (3471)
   MF GHOST
   MOTORVISION TV SD
   MSG 2
+  MTV  UHD
+  MTV FHD
+  MTV H265
+  MTV HD
+  MTV LIVE
+  MTV LIVE
+  MTV LIVE FHD
+  MTV LIVE HD
+  MTV LIVE HD
+  MTV LIVE SD
+  MTV LIVE UHD
   MTV PORTUGAL HD
   MTVs 00 FHD
   MTVs 00 HD
@@ -3046,6 +2990,7 @@ SEM GRADE NA CLARO (3471)
   NFL NETWORK HD
   NFL Preseason All Access
   NICK MUSIC
+  NICKELODEON HD
   NOS STUDIOS ( HD HEVC )©
   NOS STUDIOS FHD
   NOS STUDIOS HD
@@ -3067,6 +3012,15 @@ SEM GRADE NA CLARO (3471)
   Netflix Evento HD
   Netflix Evento SD
   Nick +
+  Nick Jr. FHD
+  Nick Jr. HD
+  Nick Jr. SD
+  Nick Jr. UHD
+  Nickelodeon FHD
+  Nickelodeon H265
+  Nickelodeon HD
+  Nickelodeon SD
+  Nickelodeon UHD
   Nicolas Cage - S1
   Nicolas Cage - S2
   Nicolas Cage - S3
@@ -3550,6 +3504,9 @@ SEM GRADE NA CLARO (3471)
   SPORTYNET+ 7 HD
   SPORTYNET+ 8 HD
   SPY X FAMILY
+  STAR CHANNEL ( HD HEVC )©
+  STAR CHANNEL FHD
+  STAR CHANNEL SD
   STAR COMEDY
   STAR COMEDY ( HD HEVC )©
   STAR COMEDY FHD
@@ -3568,6 +3525,11 @@ SEM GRADE NA CLARO (3471)
   STAR MOVIES HD
   STAR WARS (EXCLUSIVO)
   SUNDANCE
+  Sabor & Arte FHD
+  Sabor & Arte H265
+  Sabor & Arte HD
+  Sabor & Arte SD
+  Sabor & Arte UHD
   Sabrina A Aprendiz De Feiticeira
   Sailor Moon
   Salvando Reformas com Jasmine Roth
@@ -3645,6 +3607,13 @@ SEM GRADE NA CLARO (3471)
   Star + 4 FHD
   Star + 4 HD
   Star + 4 SD
+  Star Channel FHD
+  Star Channel FHD [LEG]
+  Star Channel H265
+  Star Channel HD
+  Star Channel HD [LEG]
+  Star Channel SD
+  Star Channel SD [LEG]
   Stargirl - S1 E S2
   Stargirl - S3
   SteinsGate
@@ -3833,6 +3802,11 @@ SEM GRADE NA CLARO (3471)
   Tomei Vinho e Tomei no Cu
   Top 8 Filmes da Semana
   Top 8 Séries da Semana
+  Trace Brazuca FHD
+  Trace Brazuca H265
+  Trace Brazuca HD
+  Trace Brazuca SD
+  Trace Brazuca UHD
   Tratamento de Choque
   Trato Feito
   Trato Feito 2
@@ -4454,4 +4428,5 @@ SEM GRADE NA CLARO (3471)
   ֎֎֎֎FILMES֎֎֎֎
   ֎֎֎֎INFORMAÇÃO֎֎֎֎
   ֎֎֎֎KIDS֎֎֎֎
+  ֎֎֎֎MUSICA֎֎֎֎
   ֎֎֎֎SERIES֎֎֎֎
