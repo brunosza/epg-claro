@@ -1,10 +1,11 @@
-TVG-ID ERRADO NA LISTA (4) - acerte o EPG destes à mão no TiviMate
+TVG-ID ERRADO NA LISTA (5) - acerte o EPG destes à mão no TiviMate
   Cartoonito H265  (tvg-id CartoonNetwork.br = Cartoon Network)
+  ESPN 4K  (tvg-id br#espn-1 = ESPN Extra)
   ESPN FHD²  (tvg-id ESPN4.br = Espn 4)
   ESPN HD²  (tvg-id ESPN4.br = Espn 4)
   ESPN HD³  (tvg-id ESPN2.br = ESPN 2 HD )
 
-CASADOS (754)
+CASADOS (869)
   A&E 4K  ->  A&E
   A&E FHD  ->  A&E
   A&E H265  ->  A&E
@@ -38,6 +39,11 @@ CASADOS (754)
   AXN SD  ->  AXN
   AXN SD [LEG]  ->  AXN
   AXN UHD  ->  AXN
+  Adult Swim FHD  ->  Adult Swim HD  [fonte extra 1]
+  Adult Swim H265  ->  Adult Swim HD  [fonte extra 1]
+  Adult Swim HD  ->  Adult Swim HD  [fonte extra 1]
+  Adult Swim SD  ->  Adult Swim HD  [fonte extra 1]
+  Adult Swim UHD  ->  Adult Swim HD  [fonte extra 1]
   AgroMais FHD  ->  Agro Mais
   AgroMais H265  ->  Agro Mais
   AgroMais HD  ->  Agro Mais
@@ -61,7 +67,11 @@ CASADOS (754)
   BIS HD  ->  BIS
   BIS SD  ->  BIS
   BIS UHD  ->  BIS
-  BLOOMBERG  ->  Bloomberg TV
+  BLOOMBERG  ->  Bloomberg HD  [fonte extra 4]
+  BOOMERANG  ->  Boomerang HD  [fonte extra 4]
+  Band Belém HD  ->  Band Belém  [fonte extra 4]
+  Band Brasília HD  ->  Band Brasília HD  [fonte extra 4]
+  Band Minas FHD  ->  Band Minas HD  [fonte extra 4]
   Band News FHD  ->  Band News
   Band News H265  ->  Band News
   Band News HD  ->  Band News
@@ -79,16 +89,21 @@ CASADOS (754)
   Band Sports UHD  ->  Band Sports
   CANAL SONY FHD H265 (LEGENDADOS)  ->  Sony
   CANAL SONY H265 (LEGENDADOS)  ->  Sony
+  CANÇÃO NOVA  ->  Canção Nova HD  [fonte extra 4]
   CARTOON  NETWORK SD  ->  Cartoon Network
   CARTOON NETWORK 4K  ->  Cartoon Network
   CINEMAX H265 (LEGENDADOS)  ->  Cinemax
   CINEMAX HD (LEGENDADOS)  ->  Cinemax
+  CNN ( HD HEVC )©  ->  CNN  [fonte extra 4]
   CNN BRASIL 4K  ->  CNN Brasil
   CNN Brasil FHD  ->  CNN Brasil
   CNN Brasil H265  ->  CNN Brasil
   CNN Brasil HD  ->  CNN Brasil
   CNN Brasil SD  ->  CNN Brasil
   CNN Brasil UHD  ->  CNN Brasil
+  CNN FHD  ->  CNN  [fonte extra 4]
+  CNN HD  ->  CNN  [fonte extra 4]
+  CNN SD  ->  CNN  [fonte extra 4]
   COMBATE  ->  Combate
   COMBATE 4K  ->  Combate
   COMBATE FHD  ->  Combate
@@ -116,6 +131,11 @@ CASADOS (754)
   Canal do Boi HD  ->  Canal do Boi
   Canal do Boi SD  ->  Canal do Boi
   Canal do Boi UHD  ->  Canal do Boi
+  Cancao Nova FHD  ->  Canção Nova HD  [fonte extra 4]
+  Cancao Nova H265  ->  Canção Nova HD  [fonte extra 4]
+  Cancao Nova HD  ->  Canção Nova HD  [fonte extra 4]
+  Cancao Nova SD  ->  Canção Nova HD  [fonte extra 4]
+  Cancao Nova UHD  ->  Canção Nova HD  [fonte extra 4]
   Cartoon Network FHD  ->  Cartoon Network
   Cartoon Network H265  ->  Cartoon Network
   Cartoon Network HD  ->  Cartoon Network
@@ -209,6 +229,17 @@ CASADOS (754)
   ESPN 2 SD³  ->  ESPN 2 HD 
   ESPN 2 SD¹  ->  ESPN 2 HD 
   ESPN 2 UHD  ->  ESPN 2 HD 
+  ESPN 3  SD¹  ->  ESPN 3 HD  [fonte extra 1]
+  ESPN 3 FHD²  ->  ESPN 3 HD  [fonte extra 1]
+  ESPN 3 FHD³  ->  ESPN 3 HD  [fonte extra 1]
+  ESPN 3 FHD¹  ->  ESPN 3 HD  [fonte extra 1]
+  ESPN 3 H265  ->  ESPN 3 HD  [fonte extra 1]
+  ESPN 3 HD²  ->  ESPN 3 HD  [fonte extra 1]
+  ESPN 3 HD³  ->  ESPN 3 HD  [fonte extra 1]
+  ESPN 3 HD¹  ->  ESPN 3 HD  [fonte extra 1]
+  ESPN 3 SD²  ->  ESPN 3 HD  [fonte extra 1]
+  ESPN 3 SD³  ->  ESPN 3 HD  [fonte extra 1]
+  ESPN 3 UHD  ->  ESPN 3 HD  [fonte extra 1]
   ESPN 4 4K  ->  Espn 4
   ESPN 4 FHD²  ->  Espn 4
   ESPN 4 FHD¹  ->  Espn 4
@@ -225,6 +256,16 @@ CASADOS (754)
   ESPN 5 HD¹  ->  ESPN 5 HD
   ESPN 5 SD²  ->  ESPN 5 HD
   ESPN 5 SD¹  ->  ESPN 5 HD
+  ESPN 6 FHD²  ->  ESPN 6  [fonte extra 1]
+  ESPN 6 FHD¹  ->  ESPN 6  [fonte extra 1]
+  ESPN 6 HD²  ->  ESPN 6  [fonte extra 1]
+  ESPN 6 HD¹  ->  ESPN 6  [fonte extra 1]
+  ESPN 6 SD¹  ->  ESPN 6  [fonte extra 1]
+  ESPN Extra FHD  ->  ESPN Extra  [fonte extra 4]
+  ESPN Extra H265  ->  ESPN Extra  [fonte extra 4]
+  ESPN Extra HD  ->  ESPN Extra  [fonte extra 4]
+  ESPN Extra SD  ->  ESPN Extra  [fonte extra 4]
+  ESPN Extra UHD  ->  ESPN Extra  [fonte extra 4]
   ESPN FHD²  ->  ESPN
   ESPN FHD³  ->  ESPN
   ESPN FHD¹  ->  ESPN
@@ -243,6 +284,11 @@ CASADOS (754)
   Eurochannel UHD  ->  Eurochannel HD
   FASHION TV HD  ->  Fashion TV HD
   FOOD NETWORK  ->  Food Network
+  FOX Sports 2 FHD  ->  FOX Sports 2 HD  [fonte extra 4]
+  FOX Sports 2 H265  ->  FOX Sports 2 HD  [fonte extra 4]
+  FOX Sports 2 HD  ->  FOX Sports 2 HD  [fonte extra 4]
+  FOX Sports 2 SD  ->  FOX Sports 2 HD  [fonte extra 4]
+  FOX Sports 2 UHD  ->  FOX Sports 2 HD  [fonte extra 4]
   Fashion TV  UHD  ->  Fashion TV HD
   Fashion TV FHD  ->  Fashion TV HD
   Fashion TV H265  ->  Fashion TV HD
@@ -263,13 +309,20 @@ CASADOS (754)
   Food Network HD  ->  Food Network
   Food Network SD  ->  Food Network
   Food Network UHD  ->  Food Network
+  France 24 FHD  ->  FRANCE 24 HD  [fonte extra 1]
+  France 24 H265  ->  FRANCE 24 HD  [fonte extra 1]
+  France 24 HD  ->  FRANCE 24 HD  [fonte extra 1]
+  France 24 SD  ->  FRANCE 24 HD  [fonte extra 1]
+  France 24 UHD  ->  FRANCE 24 HD  [fonte extra 1]
   Futura FHD  ->  Futura
   Futura H265  ->  Futura
   Futura HD  ->  Futura
   Futura SD  ->  Futura
   Futura UHD  ->  Futura
+  GLOBO BRASILIA 4K  ->  Globo Brasília HD  [fonte extra 4]
   GLOBO NEWS 4K  ->  GloboNews
-  GLOBO SP 4K  ->  Globo
+  GLOBO RJ 4K  ->  Globo RJ  [fonte extra 4]
+  GLOBO SP 4K  ->  Globo SP  [fonte extra 4]
   GNT 4K  ->  GNT
   GNT FHD  ->  GNT
   GNT H265  ->  GNT
@@ -281,6 +334,9 @@ CASADOS (754)
   Gazeta HD  ->  Gazeta
   Gazeta SD  ->  Gazeta
   Gazeta UHD  ->  Gazeta
+  Globo Nordeste FHD  ->  Globo Nordeste HD  [fonte extra 4]
+  Globo Nordeste HD  ->  Globo Nordeste HD  [fonte extra 4]
+  Globo Nordeste SD  ->  Globo Nordeste HD  [fonte extra 4]
   Globo SP - São Paulo FHD  ->  Globo
   Globo SP - São Paulo H265  ->  Globo
   Globo SP - São Paulo HD  ->  Globo
@@ -376,6 +432,11 @@ CASADOS (754)
   HGTV HD  ->  HGTV
   HGTV SD  ->  HGTV
   HGTV UHD  ->  HGTV
+  History 2 FHD  ->  History 2 HD  [fonte extra 1]
+  History 2 H265  ->  History 2 HD  [fonte extra 1]
+  History 2 HD  ->  History 2 HD  [fonte extra 1]
+  History 2 SD  ->  History 2 HD  [fonte extra 1]
+  History 2 UHD  ->  History 2 HD  [fonte extra 1]
   History FHD  ->  History Hd
   History H265  ->  History Hd
   History HD  ->  History Hd
@@ -386,6 +447,16 @@ CASADOS (754)
   ID HD  ->  ID
   ID SD  ->  ID
   ID UHD  ->  ID
+  Ideal TV H265  ->  Ideal TV HD  [fonte extra 4]
+  Ideal TV HD  ->  Ideal TV HD  [fonte extra 4]
+  Ideal TV SD  ->  Ideal TV HD  [fonte extra 4]
+  Ideal TV UHD  ->  Ideal TV HD  [fonte extra 4]
+  JOVEM PAN NEWS 4K  ->  Jovem Pan News  [fonte extra 1]
+  Jovem Pan News FHD  ->  Jovem Pan News  [fonte extra 1]
+  Jovem Pan News H265  ->  Jovem Pan News  [fonte extra 1]
+  Jovem Pan News HD  ->  Jovem Pan News  [fonte extra 1]
+  Jovem Pan News SD  ->  Jovem Pan News  [fonte extra 1]
+  Jovem Pan News UHD  ->  Jovem Pan News  [fonte extra 1]
   Lifetime FHD  ->  Lifetime
   Lifetime H265  ->  Lifetime
   Lifetime HD  ->  Lifetime
@@ -422,6 +493,10 @@ CASADOS (754)
   NATIONAL GEOGRAPHIC SD  ->  National Geographic
   National Geographic H265  ->  National Geographic
   National Geographic UHD  ->  National Geographic
+  Nick Jr. FHD  ->  Nick Jr. HD  [fonte extra 4]
+  Nick Jr. HD  ->  Nick Jr. HD  [fonte extra 4]
+  Nick Jr. SD  ->  Nick Jr. HD  [fonte extra 4]
+  Nick Jr. UHD  ->  Nick Jr. HD  [fonte extra 4]
   OFF FHD  ->  Off
   OFF H265  ->  Off
   OFF HD  ->  Off
@@ -498,6 +573,13 @@ CASADOS (754)
   Premiere 7 SD²  ->  Premiere 7
   Premiere 7 SD¹  ->  Premiere 7
   Premiere 7 UHD  ->  Premiere 7
+  Premiere 8 FHD¹  ->  Premiere 8 HD  [fonte extra 4]
+  Premiere 8 H265  ->  Premiere 8 HD  [fonte extra 4]
+  Premiere 8 HD¹  ->  Premiere 8 HD  [fonte extra 4]
+  Premiere 8 SD²  ->  Premiere 8 HD  [fonte extra 4]
+  Premiere 8 SD³  ->  Premiere 8 HD  [fonte extra 4]
+  Premiere 8 SD¹  ->  Premiere 8 HD  [fonte extra 4]
+  Premiere 8 UHD  ->  Premiere 8 HD  [fonte extra 4]
   Premiere Clubes FHD²  ->  Premiere Clubes
   Premiere Clubes FHD³  ->  Premiere Clubes
   Premiere Clubes FHD¹  ->  Premiere Clubes
@@ -516,7 +598,7 @@ CASADOS (754)
   Prime Box Brazil UHD  ->  Prime Box Brazil
   RECORD SP 4K  ->  Record
   REDE TV! 4K  ->  Rede TV
-  RIT FHD  ->  RIT TV
+  RIT FHD  ->  RIT HD  [fonte extra 4]
   Record News FHD  ->  Record News 
   Record News H265  ->  Record News 
   Record News HD  ->  Record News 
@@ -527,11 +609,15 @@ CASADOS (754)
   Record SP HD  ->  Record
   Record SP SD  ->  Record
   Record SP UHD  ->  Record
+  Rede Brasil HD  ->  Rede Brasil HD  [fonte extra 1]
+  Rede Familia  ->  Rede Familia HD  [fonte extra 4]
   Rede Gospel FHD  ->  Rede Gospel
   Rede Gospel H265  ->  Rede Gospel
   Rede Gospel HD  ->  Rede Gospel
   Rede Gospel SD  ->  Rede Gospel
   Rede Gospel UHD  ->  Rede Gospel
+  Rede Seculo 21 FHD  ->  Rede Século 21 HD  [fonte extra 4]
+  Rede Super HD  ->  Rede Super HD  [fonte extra 4]
   Rede Vida FHD  ->  Rede Vida
   Rede Vida H265  ->  Rede Vida
   Rede Vida HD  ->  Rede Vida
@@ -542,10 +628,17 @@ CASADOS (754)
   RedeTV! HD  ->  Rede TV
   RedeTV! SD  ->  Rede TV
   RedeTV! UHD  ->  Rede TV
+  SBT Brasília HD  ->  SBT Brasília HD  [fonte extra 4]
+  SBT RS FHD  ->  SBT RS HD  [fonte extra 4]
+  SBT RS HD  ->  SBT RS HD  [fonte extra 4]
   SBT SP FHD  ->  SBT HD
   SBT SP H265  ->  SBT HD
   SBT SP HD  ->  SBT HD
   SBT SP SD  ->  SBT HD
+  SIC ( HD HEVC )©  ->  SIC  [fonte extra 4]
+  SIC FHD  ->  SIC  [fonte extra 4]
+  SIC HD  ->  SIC  [fonte extra 4]
+  SIC SD  ->  SIC  [fonte extra 4]
   SPACE H265 (CANAIS LEGENDADOS )  ->  Space
   SPACE HD (CANAIS LEGENDADOS )  ->  Space
   STUDIO UNIVERSAL   (LEGENDADOS)  ->  Studio Universal
@@ -554,6 +647,11 @@ CASADOS (754)
   SYFY  ( HD HEVC )©  ->  Syfy
   SYFY FHD  ->  Syfy
   SYFY HD  ->  Syfy
+  Sabor & Arte FHD  ->  Sabor & Arte  [fonte extra 1]
+  Sabor & Arte H265  ->  Sabor & Arte  [fonte extra 1]
+  Sabor & Arte HD  ->  Sabor & Arte  [fonte extra 1]
+  Sabor & Arte SD  ->  Sabor & Arte  [fonte extra 1]
+  Sabor & Arte UHD  ->  Sabor & Arte  [fonte extra 1]
   Sexy Hot FHD  ->  Sexy Hot
   Sexy Hot H265  ->  Sexy Hot
   Sexy Hot HD  ->  Sexy Hot
@@ -665,6 +763,11 @@ CASADOS (754)
   TV GLOBO FHD  ->  Globo
   TV GLOBO HD  ->  Globo
   TV GLOBO SD  ->  Globo
+  TV Novo Tempo FHD  ->  TV Novo Tempo HD  [fonte extra 4]
+  TV Novo Tempo H265  ->  TV Novo Tempo HD  [fonte extra 4]
+  TV Novo Tempo HD  ->  TV Novo Tempo HD  [fonte extra 4]
+  TV Novo Tempo SD  ->  TV Novo Tempo HD  [fonte extra 4]
+  TV Novo Tempo UHD  ->  TV Novo Tempo HD  [fonte extra 4]
   TV Pai Eterno FHD  ->  TV Pai Eterno
   TV Pai Eterno FHD  ->  TV Pai Eterno
   TV RECORD HD  ->  Record
@@ -673,6 +776,14 @@ CASADOS (754)
   TV Ra Tim Bum HD  ->  TV Rá Tim Bum
   TV Ra Tim Bum SD  ->  TV Rá Tim Bum
   TV Ra Tim Bum UHD  ->  TV Rá Tim Bum
+  TV Uniao FHD  ->  TV União HD  [fonte extra 4]
+  TV Uniao H265  ->  TV União HD  [fonte extra 4]
+  TV Uniao HD  ->  TV União HD  [fonte extra 4]
+  TV Uniao SD  ->  TV União HD  [fonte extra 4]
+  TV Uniao UHD  ->  TV União HD  [fonte extra 4]
+  TVE Bahia FHD  ->  TVE Bahia  [fonte extra 4]
+  TVE Bahia HD  ->  TVE Bahia  [fonte extra 4]
+  TVE Bahia SD  ->  TVE Bahia  [fonte extra 4]
   TVE INTERNACIONAL  ->  TVE International
   Telecine Action FHD  ->  Telecine Action
   Telecine Action FHD [LEG]  ->  Telecine Action
@@ -722,11 +833,16 @@ CASADOS (754)
   Telecine Touch SD  ->  Telecine Touch
   Telecine Touch SD [LEG]  ->  Telecine Touch
   Telecine Touch UHD  ->  Telecine Touch
-  Travel Box Brazil FHD  ->  Travel Box Brasil HD 
-  Travel Box Brazil H265  ->  Travel Box Brasil HD 
-  Travel Box Brazil HD  ->  Travel Box Brasil HD 
-  Travel Box Brazil SD  ->  Travel Box Brasil HD 
-  Travel Box Brazil UHD  ->  Travel Box Brasil HD 
+  Trace Brazuca FHD  ->  Trace Brazuca  [fonte extra 4]
+  Trace Brazuca H265  ->  Trace Brazuca  [fonte extra 4]
+  Trace Brazuca HD  ->  Trace Brazuca  [fonte extra 4]
+  Trace Brazuca SD  ->  Trace Brazuca  [fonte extra 4]
+  Trace Brazuca UHD  ->  Trace Brazuca  [fonte extra 4]
+  Travel Box Brazil FHD  ->  Travel Box Brazil HD  [fonte extra 4]
+  Travel Box Brazil H265  ->  Travel Box Brazil HD  [fonte extra 4]
+  Travel Box Brazil HD  ->  Travel Box Brazil HD  [fonte extra 4]
+  Travel Box Brazil SD  ->  Travel Box Brazil HD  [fonte extra 4]
+  Travel Box Brazil UHD  ->  Travel Box Brazil HD  [fonte extra 4]
   UNIVERSAL TV FHD H265 (LEGENDADO)  ->  Universal TV
   UNIVERSAL TV H265 (LEGENDADOS)  ->  Universal TV
   Universal TV FHD  ->  Universal TV
@@ -760,7 +876,7 @@ CASADOS (754)
   Zoomoo SD  ->  ZooMoo
   Zoomoo UHD  ->  ZooMoo
 
-CANAIS DA CLARO SEM PAR NA SUA LISTA (122)
+CANAIS DA CLARO SEM PAR NA SUA LISTA (125)
    TV Brasil 2
    Universal TV HD
   A&E HD
@@ -774,6 +890,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (122)
   Band HD
   Band News HD
   Band Sports HD ³
+  Bloomberg TV
   Boa Vontade TV
   CGTN
   CNN Brasil HD
@@ -842,6 +959,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (122)
   Premiere HD 2
   Prime Box Brazil HD ³
   RAI International
+  RIT TV
   Record HD
   Rede 21
   Rede Gospel HD
@@ -878,13 +996,14 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (122)
   Terra Viva
   The History Channel
   Tnt novelas HD
+  Travel Box Brasil HD 
   Venus
   Viva HD
   Warner Channel HD
   Woohoo HD
   ZooMoo HD
 
-SEM GRADE NA CLARO (3545)
+SEM GRADE NA CLARO (3430)
   ##### IT-  MOVIES |#####
   ##### IT- EGLE/ PRIFAMILLA MOVIES |#####
   ##### IT- KIDS|#####
@@ -1016,11 +1135,6 @@ SEM GRADE NA CLARO (3545)
   Adan Sandler - S1
   Adan Sandler - S2
   Adan Sandler - S3
-  Adult Swim FHD
-  Adult Swim H265
-  Adult Swim HD
-  Adult Swim SD
-  Adult Swim UHD
   After - Depois da Balada
   After - Depois da Balada 2
   Agente K.C
@@ -1094,7 +1208,6 @@ SEM GRADE NA CLARO (3545)
   BM&C SD
   BM&C UHD
   BOM SOM HD
-  BOOMERANG
   BORU - Esquadrão Lobo
   BR: Apple TV 01
   BR: Apple TV 02
@@ -1118,8 +1231,6 @@ SEM GRADE NA CLARO (3545)
   Band AC Capital HD
   Band AL Capital HD
   Band BA Capital HD
-  Band Belém HD
-  Band Brasília HD
   Band CE FHD
   Band CE H265
   Band CE HD
@@ -1129,7 +1240,6 @@ SEM GRADE NA CLARO (3545)
   Band ES Capital HD
   Band MG Capital HD
   Band MG Triângulo Mineiro HD
-  Band Minas FHD
   Band PA Capital HD
   Band PB Capital HD
   Band PE Capital HD
@@ -1260,7 +1370,6 @@ SEM GRADE NA CLARO (3545)
   CANAL PANDA HD
   CANAL PANDA SD
   CANAL Q SD
-  CANÇÃO NOVA
   CASA E COZINHA ( HEVEC )©
   CASA E COZINHA SD
   CAÇA & PESCA HD
@@ -1315,15 +1424,11 @@ SEM GRADE NA CLARO (3545)
   CNBC Brasil SD
   CNBC Brasil UHD
   CNBC EUROPE
-  CNN ( HD HEVC )©
   CNN Brasil Money FHD
   CNN Brasil Money H265
   CNN Brasil Money HD
   CNN Brasil Money SD
   CNN Brasil Money UHD
-  CNN FHD
-  CNN HD
-  CNN SD
   COMET
   CONCACAF 1
   CONCACAF 2
@@ -1387,11 +1492,6 @@ SEM GRADE NA CLARO (3545)
   Canal UOL FHD
   Canal UOL HD
   Canal UOL SD
-  Cancao Nova FHD
-  Cancao Nova H265
-  Cancao Nova HD
-  Cancao Nova SD
-  Cancao Nova UHD
   Capitao Planeta
   Capitão America
   Capitão Caverna e as Panterinhas
@@ -1903,27 +2003,6 @@ SEM GRADE NA CLARO (3545)
   ES: VAMOS M+ FHD
   ES: VIAJAR
   ES: cadena Cope
-  ESPN 3  SD¹
-  ESPN 3 FHD²
-  ESPN 3 FHD³
-  ESPN 3 FHD¹
-  ESPN 3 H265
-  ESPN 3 HD²
-  ESPN 3 HD³
-  ESPN 3 HD¹
-  ESPN 3 SD²
-  ESPN 3 SD³
-  ESPN 3 UHD
-  ESPN 6 FHD²
-  ESPN 6 FHD¹
-  ESPN 6 HD²
-  ESPN 6 HD¹
-  ESPN 6 SD¹
-  ESPN Extra FHD
-  ESPN Extra H265
-  ESPN Extra HD
-  ESPN Extra SD
-  ESPN Extra UHD
   EURONEWS
   EUROSPORT 1 FHD
   EUROSPORT 1 HD
@@ -2014,11 +2093,6 @@ SEM GRADE NA CLARO (3545)
   FILOUFITT
   FIREMAN SAM HD
   FOX NEWS
-  FOX Sports 2 FHD
-  FOX Sports 2 H265
-  FOX Sports 2 HD
-  FOX Sports 2 SD
-  FOX Sports 2 UHD
   FUEL TV FHD
   FUEL TV HD
   FXX
@@ -2066,11 +2140,6 @@ SEM GRADE NA CLARO (3545)
   Forum 35
   Forum 36
   Forum 37
-  France 24 FHD
-  France 24 H265
-  France 24 HD
-  France 24 SD
-  France 24 UHD
   Free Willy
   Friends
   Friends  - S4
@@ -2103,10 +2172,8 @@ SEM GRADE NA CLARO (3545)
   GETV HD
   GINX ESPORTS TV
   GLOBO BAHIA 4K
-  GLOBO BRASILIA 4K
   GLOBO MINAS 4K
   GLOBO RBS TV 4K
-  GLOBO RJ 4K
   Game Shakers
   Game of Thrones
   Gang Bang 2024
@@ -2203,9 +2270,6 @@ SEM GRADE NA CLARO (3545)
   Globo NSC TV Joinville FHD
   Globo NSC TV Joinville HD
   Globo NSC TV Joinville SD
-  Globo Nordeste FHD
-  Globo Nordeste HD
-  Globo Nordeste SD
   Globo PA - Belem FHD
   Globo PA - Belem HD
   Globo PA - Belem SD
@@ -2516,11 +2580,6 @@ SEM GRADE NA CLARO (3545)
   Hemlock Grove - S1 E S2
   Hemlock Grove - S3
   Historias de uma Gueixa 3
-  History 2 FHD
-  History 2 H265
-  History 2 HD
-  History 2 SD
-  History 2 UHD
   Homem Aranha Acao Sem Limites
   Homem De Ferro
   Homem-Aranha da Marvel
@@ -2622,10 +2681,6 @@ SEM GRADE NA CLARO (3545)
   ITTV Plus - Sergipao 3 FHD
   ITTV Plus - Sergipao 3 HD
   ITTV Plus - Sergipao 3 SD
-  Ideal TV H265
-  Ideal TV HD
-  Ideal TV SD
-  Ideal TV UHD
   Igreja Maranata HD
   Igreja Mundial
   Igreja Universal
@@ -2640,7 +2695,6 @@ SEM GRADE NA CLARO (3545)
   Invencível
   Irmaos A Obra
   Irmão do Jorel
-  JOVEM PAN NEWS 4K
   JP NEWS 4K
   Jackie Chan - S1
   Jackie Chan - S2
@@ -2668,11 +2722,6 @@ SEM GRADE NA CLARO (3545)
   Jonny Quest Homem Monolitico
   Jorge e Mateus
   Jose do Egito
-  Jovem Pan News FHD
-  Jovem Pan News H265
-  Jovem Pan News HD
-  Jovem Pan News SD
-  Jovem Pan News UHD
   Juia Fit
   Jujutsu Kaisen
   Juliana Bonde
@@ -3012,10 +3061,6 @@ SEM GRADE NA CLARO (3545)
   Netflix Evento HD
   Netflix Evento SD
   Nick +
-  Nick Jr. FHD
-  Nick Jr. HD
-  Nick Jr. SD
-  Nick Jr. UHD
   Nickelodeon FHD
   Nickelodeon H265
   Nickelodeon HD
@@ -3231,13 +3276,6 @@ SEM GRADE NA CLARO (3545)
   Power Rangers Tempestade Ninja
   Power Rangers Turbo
   Power Rangers Zeo
-  Premiere 8 FHD¹
-  Premiere 8 H265
-  Premiere 8 HD¹
-  Premiere 8 SD²
-  Premiere 8 SD³
-  Premiere 8 SD¹
-  Premiere 8 UHD
   Prison Break
   Provocacoes
   Que Bunda e Essa
@@ -3345,12 +3383,8 @@ SEM GRADE NA CLARO (3545)
   Record Uberlandia SD
   Record Vila Real FHD
   Record Vila Real HD
-  Rede Brasil HD
-  Rede Familia
   Rede Mais Familia FHD
   Rede Mao Amiga SD
-  Rede Seculo 21 FHD
-  Rede Super HD
   Retro cartoon
   Rezero Starting Life in Another World
   Rick e Morty
@@ -3376,7 +3410,6 @@ SEM GRADE NA CLARO (3545)
   SANTIAGO DOS MARES HD
   SBT AC Capital HD
   SBT AL Capital HD
-  SBT Brasília HD
   SBT CE Capital HD
   SBT Curitiba H265
   SBT Curitiba HD
@@ -3393,8 +3426,6 @@ SEM GRADE NA CLARO (3545)
   SBT RJ SD
   SBT RN HD
   SBT RO Capital HD
-  SBT RS FHD
-  SBT RS HD
   SBT SC Capital HD
   SBT TV Aratu BA Capital FHD
   SBT TV Aratu BA Capital HD
@@ -3406,10 +3437,7 @@ SEM GRADE NA CLARO (3545)
   SBT VTV Santos Campinas SD
   SBT+ KIDS
   SBT+ NOVELAS
-  SIC ( HD HEVC )©
   SIC Caras HD
-  SIC FHD
-  SIC HD
   SIC KIDS HD
   SIC MULHER HD
   SIC NOTICIAS ( HD HEVC )©
@@ -3419,7 +3447,6 @@ SEM GRADE NA CLARO (3545)
   SIC RADICAL FHD
   SIC RADICAL HD
   SIC RADICAL SD
-  SIC SD
   SMITHSONIAN
   SPORT TV 1  HD
   SPORT TV 1  SD
@@ -3525,11 +3552,6 @@ SEM GRADE NA CLARO (3545)
   STAR MOVIES HD
   STAR WARS (EXCLUSIVO)
   SUNDANCE
-  Sabor & Arte FHD
-  Sabor & Arte H265
-  Sabor & Arte HD
-  Sabor & Arte SD
-  Sabor & Arte UHD
   Sabrina A Aprendiz De Feiticeira
   Sailor Moon
   Salvando Reformas com Jasmine Roth
@@ -3701,11 +3723,6 @@ SEM GRADE NA CLARO (3545)
   TV Imaculada FHD
   TV LAND HD
   TV Mundo Maior FHD
-  TV Novo Tempo FHD
-  TV Novo Tempo H265
-  TV Novo Tempo HD
-  TV Novo Tempo SD
-  TV Novo Tempo UHD
   TV Otimista FHD
   TV Otimista H265
   TV Otimista HD
@@ -3713,11 +3730,6 @@ SEM GRADE NA CLARO (3545)
   TV Otimista UHD
   TV Quack
   TV Terceiro Anjo SD
-  TV Uniao FHD
-  TV Uniao H265
-  TV Uniao HD
-  TV Uniao SD
-  TV Uniao UHD
   TVA HD | EXCLUSIVO MEO BOX
   TVC CABO VERDE
   TVCINE + HD
@@ -3738,9 +3750,6 @@ SEM GRADE NA CLARO (3545)
   TVCINE TOP HD
   TVCINE TOP SD
   TVE 24H
-  TVE Bahia FHD
-  TVE Bahia HD
-  TVE Bahia SD
   TVI  ( HD HEVC )©
   TVI FHD
   TVI HD
@@ -3802,11 +3811,6 @@ SEM GRADE NA CLARO (3545)
   Tomei Vinho e Tomei no Cu
   Top 8 Filmes da Semana
   Top 8 Séries da Semana
-  Trace Brazuca FHD
-  Trace Brazuca H265
-  Trace Brazuca HD
-  Trace Brazuca SD
-  Trace Brazuca UHD
   Tratamento de Choque
   Trato Feito
   Trato Feito 2
