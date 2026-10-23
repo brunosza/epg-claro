@@ -1,3 +1,9 @@
+TVG-ID ERRADO NA LISTA (4) - acerte o EPG destes à mão no TiviMate
+  Cartoonito H265  (tvg-id CartoonNetwork.br = Cartoon Network)
+  ESPN FHD²  (tvg-id ESPN4.br = Espn 4)
+  ESPN HD²  (tvg-id ESPN4.br = Espn 4)
+  ESPN HD³  (tvg-id ESPN2.br = ESPN 2)
+
 CASADOS (828)
   A&E 4K  ->  A&E
   A&E FHD  ->  A&E
