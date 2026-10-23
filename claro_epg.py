@@ -334,7 +334,13 @@ def main():
 
     if a.xc:
         servidor, usuario, senha = pedir_login()
-        streams = buscar_xc(servidor, usuario, senha)
+        try:
+            streams = buscar_xc(servidor, usuario, senha)
+        except Exception as e:
+            # Se o servidor da lista recusar, ainda gera o EPG com os nomes da Claro.
+            print(f"Não consegui ler a lista XC ({type(e).__name__}); gerando EPG sem casar canais.", file=sys.stderr)
+            a.xc = False
+    if a.xc:
         apelidos = {normalizar(k): normalizar(v) for k, v in (ler_mapa(a.apelidos) if a.apelidos else {}).items()}
         saidas, casados, sem_par = saidas_xc(canais, streams, apelidos)
         with open("relatorio_canais.txt", "w", encoding="utf-8") as f:
