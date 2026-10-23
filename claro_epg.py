@@ -214,6 +214,27 @@ def saidas_xc(canais, streams, mapa_nomes):
     return list(saidas.values()), casados, sem_par, conflitos
 
 
+def _slug(texto):
+    t = unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "", t)
+
+
+def limpar_titulo(titulo):
+    """'Mundo F - Ao Vivo: mundo_f_ao_vivo' -> 'Mundo F - Ao Vivo'.
+
+    Corta o que vem depois do último ':' quando é só o nome repetido em forma de código."""
+    titulo = titulo.strip()
+    while ":" in titulo:
+        antes, depois = titulo.rsplit(":", 1)
+        d = _slug(depois)
+        if d and (d == _slug(antes) or (re.fullmatch(r"\s*[\w\-]+\s*", depois) and "_" in depois)
+                  or (len(d) >= 4 and _slug(antes).startswith(d))):
+            titulo = antes.strip()
+        else:
+            break
+    return titulo
+
+
 def gerar_xmltv(saidas, programas):
     linhas = ['<?xml version="1.0" encoding="UTF-8"?>',
               '<tv generator-info-name="claro_epg.py" source-info-url="https://www.claro.com.br/tv-por-assinatura/programacao/grade">']
@@ -227,7 +248,7 @@ def gerar_xmltv(saidas, programas):
             linhas.append(f"    <icon src={quoteattr(s['icone'])}/>")
         linhas.append("  </channel>")
 
-    vistos, total = set(), 0
+    vistos, total, limpos = set(), 0, 0
     for p in programas:
         canal = str(p.get("id_canal"))
         if canal not in por_claro or not p.get("dh_inicio") or not p.get("dh_fim"):
@@ -238,13 +259,15 @@ def gerar_xmltv(saidas, programas):
             continue
         vistos.add(chave)
         # st_titulo é só um código interno (ex.: "vai_que_cola"), não o episódio.
-        titulo = p.get("titulo") or "Sem título"
+        titulo = limpar_titulo(p.get("titulo") or "") or "Sem título"
+        limpos += titulo != (p.get("titulo") or "").strip()
         for xml_id in por_claro[canal]:
             linhas.append(f"  <programme start=\"{xmltv_hora(ini)}\" stop=\"{xmltv_hora(fim)}\" channel={quoteattr(xml_id)}>")
             linhas.append(f"    <title lang=\"pt\">{escape(titulo)}</title>")
             linhas.append("  </programme>")
             total += 1
     linhas.append("</tv>")
+    print(f"{limpos} títulos com código da Claro limpos", file=sys.stderr)
     return "\n".join(linhas) + "\n", total
 
 
