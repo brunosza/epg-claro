@@ -46,6 +46,21 @@ jobs:
           date -u "+Atualizado em %Y-%m-%d %H:%M UTC" >> site/status.txt
           while read -r linha; do echo "::notice::$linha"; done < site/status.txt
           echo '<meta charset="utf-8"><p>EPG Claro: <a href="epg_claro.xml.gz">epg_claro.xml.gz</a></p>' > site/index.html
+      - name: Conferir ESPN agora
+        continue-on-error: true
+        run: |
+          python3 - <<'PY'
+          import gzip, xml.etree.ElementTree as ET, datetime as dt
+          t = ET.fromstring(gzip.open("site/epg_claro.xml.gz").read())
+          agora = dt.datetime.now(dt.timezone.utc)
+          for p in t.findall("programme"):
+              if "espn" not in p.get("channel").lower():
+                  continue
+              ini = dt.datetime.strptime(p.get("start"), "%Y%m%d%H%M%S %z")
+              fim = dt.datetime.strptime(p.get("stop"), "%Y%m%d%H%M%S %z")
+              if ini <= agora < fim:
+                  print(f"::notice::{p.get('channel')}: {p.findtext('title')}")
+          PY
       - name: Guardar relatório no repositório
         run: |
           git config user.name "github-actions[bot]"

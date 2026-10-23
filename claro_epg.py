@@ -167,29 +167,51 @@ def saidas_xc(canais, streams, mapa_nomes):
     por_nome = {}
     for c in canais:
         por_nome.setdefault(normalizar(c.get("nome", "")), c)
-    grupos, casados, sem_par = {}, [], []
+    por_id = {str(c["id_canal"]): c for c in canais}
+    # votos[tvg-id][id_canal da Claro ou None] = nomes da sua lista com esse tvg-id
+    votos, casados, sem_par = {}, [], []
     for s in streams:
         nome = (s.get("name") or "").strip()
         if not nome:
             continue
-        if estrangeiro(nome):
+        tvg_id = (s.get("epg_channel_id") or "").strip()
+        c = None
+        if not estrangeiro(nome):
+            chave = normalizar(nome)
+            if chave not in por_nome:
+                chave = mapa_nomes.get(chave, chave)
+            c = por_nome.get(chave)
+        if c:
+            casados.append((nome, c.get("nome", "")))
+        else:
             sem_par.append(nome)
-            continue
-        chave = normalizar(nome)
-        if chave not in por_nome:
-            chave = mapa_nomes.get(chave, chave)
-        c = por_nome.get(chave)
-        if not c:
-            sem_par.append(nome)
-            continue
-        casados.append((nome, c.get("nome", "")))
-        # O TiviMate procura primeiro pelo tvg-id (epg_channel_id) e depois pelo nome.
-        xml_id = (s.get("epg_channel_id") or "").strip() or nome
-        g = grupos.setdefault(xml_id, {"id": xml_id, "nomes": [], "icone": c.get("url_imagem"),
-                                       "claro": str(c["id_canal"])})
-        if nome not in g["nomes"]:
-            g["nomes"].append(nome)
-    return list(grupos.values()), casados, sem_par
+        if tvg_id or c:
+            votos.setdefault(tvg_id, {}).setdefault(str(c["id_canal"]) if c else None, []).append(nome)
+
+    # O TiviMate procura primeiro pelo tvg-id e depois pelo nome. O provedor às vezes repete
+    # um tvg-id em canais diferentes (ex.: "ESPN FHD2" com o tvg-id do ESPN 4, ou um id
+    # genérico em 30 canais). Um tvg-id só entra no EPG se pelo menos 2/3 dos canais com ele
+    # forem o mesmo canal da Claro; senão, cada canal casado entra pelo próprio nome.
+    saidas, conflitos = {}, []
+
+    def adicionar(xml_id, claro, nomes):
+        g = saidas.setdefault(xml_id, {"id": xml_id, "nomes": [], "claro": claro,
+                                       "icone": por_id[claro].get("url_imagem")})
+        g["nomes"] += [n for n in nomes if n not in g["nomes"]]
+
+    for tvg_id, por_claro in votos.items():
+        total = sum(len(n) for n in por_claro.values())
+        ranking = sorted(((k, n) for k, n in por_claro.items() if k), key=lambda kv: -len(kv[1]))
+        if tvg_id and ranking and len(ranking[0][1]) * 3 >= total * 2:
+            vencedor, nomes = ranking[0]
+            adicionar(tvg_id, vencedor, nomes)
+            for claro, outros in ranking[1:]:
+                conflitos += [(n, tvg_id, por_id[vencedor].get("nome", "")) for n in outros]
+        else:
+            for claro, nomes in ranking:
+                for n in nomes:
+                    adicionar(n, claro, [n])
+    return list(saidas.values()), casados, sem_par, conflitos
 
 
 def gerar_xmltv(saidas, programas):
@@ -386,8 +408,13 @@ def main():
     if a.xc:
         apelidos = dict(APELIDOS_PADRAO)
         apelidos.update({normalizar(k): normalizar(v) for k, v in (ler_mapa(a.apelidos) if a.apelidos else {}).items()})
-        saidas, casados, sem_par = saidas_xc(canais, streams, apelidos)
+        saidas, casados, sem_par, conflitos = saidas_xc(canais, streams, apelidos)
         with open("relatorio_canais.txt", "w", encoding="utf-8") as f:
+            if conflitos:
+                f.write(f"TVG-ID ERRADO NA LISTA ({len(conflitos)}) - acerte o EPG destes à mão no TiviMate\n")
+                for nome, tid, claro in sorted(conflitos):
+                    f.write(f"  {nome}  (tvg-id {tid} = {claro})\n")
+                f.write("\n")
             f.write(f"CASADOS ({len(casados)})\n")
             for nome, claro in sorted(casados):
                 f.write(f"  {nome}  ->  {claro}\n")
