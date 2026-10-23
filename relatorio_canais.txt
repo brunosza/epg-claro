@@ -1,9 +1,9 @@
 TVG-ID ERRADO NA LISTA (5) - acerte o EPG destes à mão no TiviMate
   Cartoonito H265  (tvg-id CartoonNetwork.br = Cartoon Network)
   ESPN 4K  (tvg-id br#espn-1 = ESPN Extra)
-  ESPN FHD²  (tvg-id ESPN4.br = Espn 4)
-  ESPN HD²  (tvg-id ESPN4.br = Espn 4)
-  ESPN HD³  (tvg-id ESPN2.br = ESPN 2 HD )
+  ESPN FHD²  (tvg-id ESPN4.br = ESPN 4 HD)
+  ESPN HD²  (tvg-id ESPN4.br = ESPN 4 HD)
+  ESPN HD³  (tvg-id ESPN2.br = ESPN 2)
 
 CASADOS (869)
   A&E 4K  ->  A&E
@@ -218,17 +218,17 @@ CASADOS (869)
   E! HD  ->  E! 
   E! SD  ->  E! 
   E! UHD  ->  E! 
-  ESPN 2 FHD²  ->  ESPN 2 HD 
-  ESPN 2 FHD³  ->  ESPN 2 HD 
-  ESPN 2 FHD¹  ->  ESPN 2 HD 
-  ESPN 2 H265  ->  ESPN 2 HD 
-  ESPN 2 HD²  ->  ESPN 2 HD 
-  ESPN 2 HD³  ->  ESPN 2 HD 
-  ESPN 2 HD¹  ->  ESPN 2 HD 
-  ESPN 2 SD²  ->  ESPN 2 HD 
-  ESPN 2 SD³  ->  ESPN 2 HD 
-  ESPN 2 SD¹  ->  ESPN 2 HD 
-  ESPN 2 UHD  ->  ESPN 2 HD 
+  ESPN 2 FHD²  ->  ESPN 2  [fonte extra 1]
+  ESPN 2 FHD³  ->  ESPN 2  [fonte extra 1]
+  ESPN 2 FHD¹  ->  ESPN 2  [fonte extra 1]
+  ESPN 2 H265  ->  ESPN 2  [fonte extra 1]
+  ESPN 2 HD²  ->  ESPN 2  [fonte extra 1]
+  ESPN 2 HD³  ->  ESPN 2  [fonte extra 1]
+  ESPN 2 HD¹  ->  ESPN 2  [fonte extra 1]
+  ESPN 2 SD²  ->  ESPN 2  [fonte extra 1]
+  ESPN 2 SD³  ->  ESPN 2  [fonte extra 1]
+  ESPN 2 SD¹  ->  ESPN 2  [fonte extra 1]
+  ESPN 2 UHD  ->  ESPN 2  [fonte extra 1]
   ESPN 3  SD¹  ->  ESPN 3 HD  [fonte extra 1]
   ESPN 3 FHD²  ->  ESPN 3 HD  [fonte extra 1]
   ESPN 3 FHD³  ->  ESPN 3 HD  [fonte extra 1]
@@ -240,22 +240,22 @@ CASADOS (869)
   ESPN 3 SD²  ->  ESPN 3 HD  [fonte extra 1]
   ESPN 3 SD³  ->  ESPN 3 HD  [fonte extra 1]
   ESPN 3 UHD  ->  ESPN 3 HD  [fonte extra 1]
-  ESPN 4 4K  ->  Espn 4
-  ESPN 4 FHD²  ->  Espn 4
-  ESPN 4 FHD¹  ->  Espn 4
-  ESPN 4 H265  ->  Espn 4
-  ESPN 4 HD²  ->  Espn 4
-  ESPN 4 HD¹  ->  Espn 4
-  ESPN 4 SD²  ->  Espn 4
-  ESPN 4 SD¹  ->  Espn 4
-  ESPN 4 UHD  ->  Espn 4
-  ESPN 4K  ->  ESPN
-  ESPN 5 FHD²  ->  ESPN 5 HD
-  ESPN 5 FHD¹  ->  ESPN 5 HD
-  ESPN 5 HD²  ->  ESPN 5 HD
-  ESPN 5 HD¹  ->  ESPN 5 HD
-  ESPN 5 SD²  ->  ESPN 5 HD
-  ESPN 5 SD¹  ->  ESPN 5 HD
+  ESPN 4 4K  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 FHD²  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 FHD¹  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 H265  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 HD²  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 HD¹  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 SD²  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 SD¹  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 UHD  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4K  ->  ESPN  [fonte extra 1]
+  ESPN 5 FHD²  ->  ESPN 5  [fonte extra 1]
+  ESPN 5 FHD¹  ->  ESPN 5  [fonte extra 1]
+  ESPN 5 HD²  ->  ESPN 5  [fonte extra 1]
+  ESPN 5 HD¹  ->  ESPN 5  [fonte extra 1]
+  ESPN 5 SD²  ->  ESPN 5  [fonte extra 1]
+  ESPN 5 SD¹  ->  ESPN 5  [fonte extra 1]
   ESPN 6 FHD²  ->  ESPN 6  [fonte extra 1]
   ESPN 6 FHD¹  ->  ESPN 6  [fonte extra 1]
   ESPN 6 HD²  ->  ESPN 6  [fonte extra 1]
@@ -266,17 +266,17 @@ CASADOS (869)
   ESPN Extra HD  ->  ESPN Extra  [fonte extra 2]
   ESPN Extra SD  ->  ESPN Extra  [fonte extra 2]
   ESPN Extra UHD  ->  ESPN Extra  [fonte extra 2]
-  ESPN FHD²  ->  ESPN
-  ESPN FHD³  ->  ESPN
-  ESPN FHD¹  ->  ESPN
-  ESPN H265  ->  ESPN
-  ESPN HD²  ->  ESPN
-  ESPN HD³  ->  ESPN
-  ESPN HD¹  ->  ESPN
-  ESPN SD²  ->  ESPN
-  ESPN SD³  ->  ESPN
-  ESPN SD¹  ->  ESPN
-  ESPN UHD  ->  ESPN
+  ESPN FHD²  ->  ESPN  [fonte extra 1]
+  ESPN FHD³  ->  ESPN  [fonte extra 1]
+  ESPN FHD¹  ->  ESPN  [fonte extra 1]
+  ESPN H265  ->  ESPN  [fonte extra 1]
+  ESPN HD²  ->  ESPN  [fonte extra 1]
+  ESPN HD³  ->  ESPN  [fonte extra 1]
+  ESPN HD¹  ->  ESPN  [fonte extra 1]
+  ESPN SD²  ->  ESPN  [fonte extra 1]
+  ESPN SD³  ->  ESPN  [fonte extra 1]
+  ESPN SD¹  ->  ESPN  [fonte extra 1]
+  ESPN UHD  ->  ESPN  [fonte extra 1]
   Eurochannel FHD  ->  Eurochannel HD
   Eurochannel H265  ->  Eurochannel HD
   Eurochannel HD  ->  Eurochannel HD
@@ -876,7 +876,7 @@ CASADOS (869)
   Zoomoo SD  ->  ZooMoo
   Zoomoo UHD  ->  ZooMoo
 
-CANAIS DA CLARO SEM PAR NA SUA LISTA (125)
+CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
    TV Brasil 2
    Universal TV HD
   A&E HD
@@ -898,9 +898,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (125)
   CONMEBOL TV 4 HD
   Canal 2
   Canal Brasil HD ³
-  Canal Comunitário
   Canal Legislativo
-  Canal Universitário
   Canal de Vendas NET
   Cartoon Network HD
   Cartoonito HD
@@ -917,8 +915,6 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (125)
   Discovery Turbo HD ³
   Disney Channel HD ³
   E! HD
-  ESPN 4 HD
-  ESPN HD ³
   FISH TV HD
   FOOD NETWORK HD
   FX
