@@ -129,6 +129,9 @@ APELIDOS_PADRAO = {
 }
 
 
+# Canais em que a Claro publica a grade de outro canal; usam as fontes extras (nomes normalizados).
+PREFERIR_OUTRA_FONTE = {"espn", "espn2", "espn4", "espn5"}
+
 # "[CA] HBO", "USL- HBO", "LAT | HBO": canais de outros países, com outra grade.
 PREFIXO_PAIS = re.compile(r"^\s*(?:\[([a-z]{2,3})\]|([a-z]{2,3})\s*[|:\-])", re.I)
 
@@ -477,6 +480,24 @@ def main():
     if vazios:
         print(f"Canais sem grade na Claro: {', '.join(sorted(vazios))}", file=sys.stderr)
     canais = sorted((c for c in canais if qtd.get(str(c["id_canal"]))), key=lambda c: -qtd[str(c["id_canal"])])
+    if a.extra and (a.xc or a.lista):
+        # Canais em que a grade da Claro vem errada: programas sobrepostos (a Claro mistura
+        # duas grades no mesmo canal, como no ESPN) ou grade de outro canal (PREFERIR_OUTRA_FONTE).
+        # Esses saem da Claro e ficam para as fontes extras.
+        horarios = {}
+        for p in programas:
+            if p.get("dh_inicio") and p.get("dh_fim"):
+                horarios.setdefault(str(p.get("id_canal")), []).append((parse_hora(p["dh_inicio"]), parse_hora(p["dh_fim"])))
+        ruins = set()
+        for cid, h in horarios.items():
+            h.sort()
+            sobrepostos = sum(1 for x, y in zip(h, h[1:]) if y[0] < x[1])
+            if sobrepostos * 10 > len(h):
+                ruins.add(cid)
+        tirar = [c for c in canais if str(c["id_canal"]) in ruins or normalizar(c.get("nome", "")) in PREFERIR_OUTRA_FONTE]
+        if tirar:
+            print(f"Grade da Claro ignorada (errada): {', '.join(c.get('nome', '') for c in tirar)}", file=sys.stderr)
+            canais = [c for c in canais if c not in tirar]
     n_claro = len(canais)
 
     # Fontes extras: só completam o que a Claro não tem (a Claro vem antes na hora de casar).
