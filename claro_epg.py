@@ -29,6 +29,7 @@ import unicodedata
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
+import xml.etree.ElementTree as ET
 from xml.sax.saxutils import escape, quoteattr
 
 BASE = "https://programacao.claro.com.br/gatekeeper"
@@ -182,7 +183,8 @@ def saidas_xc(canais, streams, mapa_nomes):
                 chave = mapa_nomes.get(chave, chave)
             c = por_nome.get(chave)
         if c:
-            casados.append((nome, c.get("nome", "")))
+            fonte = str(c["id_canal"]).split(":")[0] if str(c["id_canal"]).startswith("x") else ""
+            casados.append((nome, c.get("nome", "") + (f"  [fonte extra {fonte[1:]}]" if fonte else "")))
         else:
             sem_par.append(nome)
         if tvg_id or c:
@@ -235,6 +237,39 @@ def limpar_titulo(titulo):
     return titulo
 
 
+def buscar_extra(url, n, inicio, fim):
+    """Lê um EPG XMLTV de outra fonte, no mesmo formato de canais/programas da Claro."""
+    req = urllib.request.Request(url, headers={"User-Agent": HEADERS["User-Agent"]})
+    with urllib.request.urlopen(req, timeout=180) as r:
+        dados = r.read()
+    if dados[:2] == b"\x1f\x8b":
+        dados = gzip.decompress(dados)
+    raiz = ET.fromstring(dados)
+    canais = {}
+    for c in raiz.findall("channel"):
+        nome = (c.findtext("display-name") or "").strip()
+        nome = re.sub(r"^[^/]+/[A-Z]{2}\s+", "", nome)  # "São Paulo/SP  ESPN 3 HD"
+        nome = re.sub(r"\.br$", "", nome, flags=re.I)  # "ESPN 3.br"
+        icone = c.find("icon")
+        canais[c.get("id")] = {"id_canal": f"x{n}:{c.get('id')}", "nome": nome,
+                               "url_imagem": icone.get("src") if icone is not None else None,
+                               "sp": "São Paulo" in (c.findtext("display-name") or "")}
+    programas = []
+    for p in raiz.findall("programme"):
+        c = canais.get(p.get("channel"))
+        try:
+            ini = datetime.strptime(p.get("start", "").strip(), "%Y%m%d%H%M%S %z")
+            fim_p = datetime.strptime(p.get("stop", "").strip(), "%Y%m%d%H%M%S %z")
+        except ValueError:
+            continue
+        if not c or fim_p < inicio or ini > fim:
+            continue
+        programas.append({"id_canal": c["id_canal"], "_ini": ini, "_fim": fim_p,
+                          "titulo": p.findtext("title") or "", "desc": (p.findtext("desc") or "").strip()})
+    # Canais de São Paulo primeiro, para ganharem de outras cidades com o mesmo nome.
+    return sorted(canais.values(), key=lambda c: not c["sp"]), programas
+
+
 def gerar_xmltv(saidas, programas):
     linhas = ['<?xml version="1.0" encoding="UTF-8"?>',
               '<tv generator-info-name="claro_epg.py" source-info-url="https://www.claro.com.br/tv-por-assinatura/programacao/grade">']
@@ -251,9 +286,14 @@ def gerar_xmltv(saidas, programas):
     vistos, total, limpos = set(), 0, 0
     for p in programas:
         canal = str(p.get("id_canal"))
-        if canal not in por_claro or not p.get("dh_inicio") or not p.get("dh_fim"):
+        if canal not in por_claro:
             continue
-        ini, fim = parse_hora(p["dh_inicio"]), parse_hora(p["dh_fim"])
+        if "_ini" in p:  # fonte extra, horário já convertido
+            ini, fim = p["_ini"], p["_fim"]
+        elif p.get("dh_inicio") and p.get("dh_fim"):
+            ini, fim = parse_hora(p["dh_inicio"]), parse_hora(p["dh_fim"])
+        else:
+            continue
         chave = (canal, ini)
         if chave in vistos or fim <= ini:
             continue
@@ -264,6 +304,8 @@ def gerar_xmltv(saidas, programas):
         for xml_id in por_claro[canal]:
             linhas.append(f"  <programme start=\"{xmltv_hora(ini)}\" stop=\"{xmltv_hora(fim)}\" channel={quoteattr(xml_id)}>")
             linhas.append(f"    <title lang=\"pt\">{escape(titulo)}</title>")
+            if p.get("desc"):
+                linhas.append(f"    <desc lang=\"pt\">{escape(p['desc'])}</desc>")
             linhas.append("  </programme>")
             total += 1
     linhas.append("</tv>")
@@ -389,6 +431,8 @@ def main():
     ap.add_argument("--xc", action="store_true", help="casa o EPG com sua lista Xtream Codes (pergunta servidor, usuário e senha)")
     ap.add_argument("--exportar-lista", metavar="ARQ", help="salva os nomes dos canais da sua lista XC (sem login) num arquivo")
     ap.add_argument("--lista", metavar="ARQ", help="usa os canais salvos com --exportar-lista em vez de entrar na lista XC")
+    ap.add_argument("--extra", action="append", default=[], metavar="URL",
+                    help="EPG XMLTV de outra fonte, usado só para canais que a Claro não tem (pode repetir; ordem = prioridade)")
     ap.add_argument("--apelidos", help="CSV 'nome na sua lista,nome na Claro' para casos que não casam sozinhos")
     ap.add_argument("--instalar", action="store_true", help="Mac: atualiza o EPG todo dia e serve por URL na rede de casa")
     ap.add_argument("--desinstalar", action="store_true", help="Mac: remove a atualização automática")
@@ -433,6 +477,20 @@ def main():
     if vazios:
         print(f"Canais sem grade na Claro: {', '.join(sorted(vazios))}", file=sys.stderr)
     canais = sorted((c for c in canais if qtd.get(str(c["id_canal"]))), key=lambda c: -qtd[str(c["id_canal"])])
+    n_claro = len(canais)
+
+    # Fontes extras: só completam o que a Claro não tem (a Claro vem antes na hora de casar).
+    if a.extra and (a.xc or a.lista):
+        for n, url in enumerate(a.extra, 1):
+            try:
+                ext_canais, ext_progs = buscar_extra(url, n, hoje, hoje + timedelta(days=a.dias))
+            except Exception as e:
+                print(f"Fonte extra {url} falhou ({type(e).__name__})", file=sys.stderr)
+                continue
+            com_grade = {p["id_canal"] for p in ext_progs}
+            canais += [c for c in ext_canais if c["id_canal"] in com_grade]
+            programas += ext_progs
+            print(f"Fonte extra {n}: {len(com_grade)} canais com grade", file=sys.stderr)
 
     streams = None
     if a.lista:
@@ -461,7 +519,7 @@ def main():
             for nome, claro in sorted(casados):
                 f.write(f"  {nome}  ->  {claro}\n")
             usados = {claro for _, claro in casados}
-            sobra = sorted(c.get("nome", "") for c in canais if c.get("nome", "") not in usados)
+            sobra = sorted(c.get("nome", "") for c in canais[:n_claro] if c.get("nome", "") not in usados)
             f.write(f"\nCANAIS DA CLARO SEM PAR NA SUA LISTA ({len(sobra)})\n")
             for nome in sobra:
                 f.write(f"  {nome}\n")

@@ -35,7 +35,14 @@ jobs:
           set -o pipefail
           mkdir -p site
           if [ -f canais_lista.json ]; then
-            python3 claro_epg.py --lista canais_lista.json --dias 7 --saida site/epg_claro.xml.gz 2>&1 | tee site/status.txt
+            # Fontes extras (só para canais que a Claro não tem), na ordem de prioridade.
+            python3 claro_epg.py --lista canais_lista.json --dias 7 --saida site/epg_claro.xml.gz \
+              --extra https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz \
+              --extra https://raw.githubusercontent.com/globetvapp/epg/main/Brazil/brazil2.xml \
+              --extra https://raw.githubusercontent.com/globetvapp/epg/main/Brazil/brazil1.xml \
+              --extra https://www.open-epg.com/files/brazil1.xml \
+              --extra https://epg.pw/xmltv/epg_BR.xml.gz \
+              2>&1 | tee site/status.txt
           elif [ -n "$XC_SERVIDOR" ]; then
             python3 claro_epg.py --xc --dias 7 --saida site/epg_claro.xml.gz 2>&1 | tee site/status.txt
           else
