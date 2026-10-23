@@ -34,12 +34,15 @@ jobs:
         run: |
           set -o pipefail
           mkdir -p site
-          if [ -n "$XC_SERVIDOR" ]; then
+          if [ -f canais_lista.json ]; then
+            python3 claro_epg.py --lista canais_lista.json --dias 7 --saida site/epg_claro.xml.gz 2>&1 | tee site/status.txt
+          elif [ -n "$XC_SERVIDOR" ]; then
             python3 claro_epg.py --xc --dias 7 --saida site/epg_claro.xml.gz 2>&1 | tee site/status.txt
           else
             echo "Segredos XC_* não cadastrados." | tee site/status.txt
             python3 claro_epg.py --dias 7 --saida site/epg_claro.xml.gz 2>&1 | tee -a site/status.txt
           fi
+          cp relatorio_canais.txt site/ 2>/dev/null || true
           date -u "+Atualizado em %Y-%m-%d %H:%M UTC" >> site/status.txt
           while read -r linha; do echo "::notice::$linha"; done < site/status.txt
           echo '<meta charset="utf-8"><p>EPG Claro: <a href="epg_claro.xml.gz">epg_claro.xml.gz</a></p>' > site/index.html

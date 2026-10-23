@@ -7,6 +7,8 @@ Uso:
     python3 claro_epg.py --listar-canais    # mostra id e nome de cada canal
     python3 claro_epg.py --mapa mapa.csv    # usa seus tvg-id (CSV: id_canal_claro,tvg-id)
     python3 claro_epg.py --xc               # liga todas as versões dos canais da sua lista XC
+    python3 claro_epg.py --exportar-lista canais_lista.json   # salva só os nomes dos canais (sem login)
+    python3 claro_epg.py --lista canais_lista.json            # casa usando esse arquivo
     python3 claro_epg.py --instalar         # Mac: atualiza todo dia e serve por URL ao TiviMate
 
 Só usa a biblioteca padrão do Python 3.8+. O site da Claro costuma bloquear
@@ -313,6 +315,8 @@ def main():
     ap.add_argument("--canais", help="só estes id_canal (separados por vírgula)")
     ap.add_argument("--listar-canais", action="store_true")
     ap.add_argument("--xc", action="store_true", help="casa o EPG com sua lista Xtream Codes (pergunta servidor, usuário e senha)")
+    ap.add_argument("--exportar-lista", metavar="ARQ", help="salva os nomes dos canais da sua lista XC (sem login) num arquivo")
+    ap.add_argument("--lista", metavar="ARQ", help="usa os canais salvos com --exportar-lista em vez de entrar na lista XC")
     ap.add_argument("--apelidos", help="CSV 'nome na sua lista,nome na Claro' para casos que não casam sozinhos")
     ap.add_argument("--instalar", action="store_true", help="Mac: atualiza o EPG todo dia e serve por URL na rede de casa")
     ap.add_argument("--desinstalar", action="store_true", help="Mac: remove a atualização automática")
@@ -332,7 +336,19 @@ def main():
         filtro = {x.strip() for x in a.canais.split(",")}
         canais = [c for c in canais if str(c["id_canal"]) in filtro]
 
-    if a.xc:
+    if a.exportar_lista:
+        streams = buscar_xc(*pedir_login())
+        enxuto = [{"name": x.get("name"), "epg_channel_id": x.get("epg_channel_id")} for x in streams if x.get("name")]
+        with open(a.exportar_lista, "w", encoding="utf-8") as f:
+            json.dump(enxuto, f, ensure_ascii=False, indent=0)
+        print(f"OK: {len(enxuto)} canais salvos em {a.exportar_lista}", file=sys.stderr)
+        return
+    streams = None
+    if a.lista:
+        with open(a.lista, encoding="utf-8") as f:
+            streams = json.load(f)
+        a.xc = True
+    elif a.xc:
         servidor, usuario, senha = pedir_login()
         try:
             streams = buscar_xc(servidor, usuario, senha)
