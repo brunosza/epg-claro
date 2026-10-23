@@ -1,0 +1,373 @@
+#!/usr/bin/env python3
+"""Gera um EPG (XMLTV) a partir da grade da Claro TV para usar no TiviMate.
+
+Uso:
+    python3 claro_epg.py                    # 7 dias, todos os canais -> epg_claro.xml.gz
+    python3 claro_epg.py --dias 7 --saida epg.xml
+    python3 claro_epg.py --listar-canais    # mostra id e nome de cada canal
+    python3 claro_epg.py --mapa mapa.csv    # usa seus tvg-id (CSV: id_canal_claro,tvg-id)
+    python3 claro_epg.py --xc               # liga todas as versões dos canais da sua lista XC
+    python3 claro_epg.py --instalar         # Mac: atualiza todo dia e serve por URL ao TiviMate
+
+Só usa a biblioteca padrão do Python 3.8+. O site da Claro costuma bloquear
+acessos de fora do Brasil, então rode de uma conexão brasileira.
+"""
+import argparse
+import csv
+import getpass
+import gzip
+import json
+import os
+import re
+import shutil
+import subprocess
+import sys
+import time
+import unicodedata
+import urllib.parse
+import urllib.request
+from datetime import datetime, timedelta, timezone
+from xml.sax.saxutils import escape, quoteattr
+
+BASE = "https://programacao.claro.com.br/gatekeeper"
+TZ_BR = timezone(timedelta(hours=-3))  # Brasília, sem horário de verão desde 2019
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Accept": "application/json",
+    "Referer": "https://www.claro.com.br/tv-por-assinatura/programacao/grade",
+}
+
+
+def get_json(endpoint, params, tentativas=3):
+    url = f"{BASE}/{endpoint}?" + urllib.parse.urlencode(params, safe=":*()[]_,", quote_via=urllib.parse.quote)
+    for i in range(tentativas):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return json.loads(r.read().decode("utf-8"))
+        except Exception as e:
+            if i == tentativas - 1:
+                raise RuntimeError(f"Falha ao acessar {url}: {e}") from e
+            time.sleep(2 * (i + 1))
+
+
+def buscar_canais(cidade):
+    data = get_json("canal/select", [
+        ("q", f"id_cidade:{cidade}"), ("rows", "1000"), ("wt", "json"),
+        ("sort", "cn_canal asc"),
+        ("fl", "id_canal st_canal cn_canal nome url_imagem id_cidade"),
+        ("fq", "nome:*"), ("fq", "id_categoria:*"),
+    ])
+    return data["response"]["docs"]
+
+
+def fmt_solr(dt):
+    # Mesmo formato que o site usa: ano-mês-dia sem zeros à esquerda.
+    return f"{dt.year}-{dt.month}-{dt.day}T{dt:%H:%M:%S}Z"
+
+
+def buscar_programas(cidade, inicio, fim, lote=5000):
+    docs, start = [], 0
+    while True:
+        data = get_json("exibicao/select", [
+            ("q", f"id_revel:(*) AND id_cidade:{cidade}"), ("wt", "json"),
+            ("rows", str(lote)), ("start", str(start)),
+            ("sort", "id_canal asc,dh_inicio asc"),
+            ("fl", "dh_fim dh_inicio st_titulo titulo id_programa id_canal id_cidade"),
+            ("fq", f"dh_inicio:[{fmt_solr(inicio)} TO {fmt_solr(fim)}]"),
+        ])
+        resp = data["response"]
+        docs.extend(resp["docs"])
+        start += len(resp["docs"])
+        if not resp["docs"] or start >= resp.get("numFound", 0):
+            return docs
+
+
+def parse_hora(valor):
+    # O site manda "2026-10-23T14:30Z", mas o horário é de Brasília (o "Z" é enganoso).
+    valor = valor.rstrip("Z")
+    for f in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%dT%H:%M"):
+        try:
+            return datetime.strptime(valor, f).replace(tzinfo=TZ_BR)
+        except ValueError:
+            pass
+    raise ValueError(f"horário inesperado: {valor}")
+
+
+def xmltv_hora(dt):
+    return dt.strftime("%Y%m%d%H%M%S %z")
+
+
+def saidas_padrao(canais, mapa):
+    """Um canal no EPG para cada canal da Claro."""
+    saidas = []
+    for c in canais:
+        nomes = [c.get("nome", "")]
+        if c.get("cn_canal") is not None:
+            nomes.append(str(c["cn_canal"]))
+        saidas.append({"id": mapa.get(str(c["id_canal"]), f"Claro.{c['id_canal']}"),
+                       "nomes": nomes, "icone": c.get("url_imagem"), "claro": str(c["id_canal"])})
+    return saidas
+
+
+QUALIDADE = re.compile(r"\b(full\s*hd|fhd|uhd|hd|sd|4k|8k|h\.?265|hevc|h\.?264|alt|alternativo|backup|bkp|reserva)\s*\d*\b")
+
+
+def normalizar(nome):
+    """'BR | SporTV FHD1 [H265]' -> 'sportv'. Mantém números que fazem parte do nome (SporTV 2)."""
+    s = unicodedata.normalize("NFKD", nome).encode("ascii", "ignore").decode().lower()
+    s = re.sub(r"\[.*?\]|\(.*?\)|\{.*?\}", " ", s)
+    s = re.sub(r"^\s*[a-z]{2,3}\s*[|:\-]\s*", " ", s)  # prefixos como "BR |", "BR:"
+    s = s.replace("+", " plus ").replace("&", " e ")
+    s = QUALIDADE.sub(" ", s)
+    s = re.sub(r"[^a-z0-9]+", "", s)
+    return s
+
+
+def buscar_xc(servidor, usuario, senha):
+    servidor = servidor.rstrip("/")
+    if not servidor.startswith("http"):
+        servidor = "http://" + servidor
+    url = f"{servidor}/player_api.php?" + urllib.parse.urlencode(
+        {"username": usuario, "password": senha, "action": "get_live_streams"})
+    req = urllib.request.Request(url, headers={"User-Agent": HEADERS["User-Agent"]})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
+def saidas_xc(canais, streams, mapa_nomes):
+    """Liga cada canal da sua lista XC (Sportv FHD1, Sportv SD2...) ao canal da Claro."""
+    por_nome = {}
+    for c in canais:
+        por_nome.setdefault(normalizar(c.get("nome", "")), c)
+    grupos, casados, sem_par = {}, [], []
+    for s in streams:
+        nome = (s.get("name") or "").strip()
+        if not nome:
+            continue
+        chave = mapa_nomes.get(normalizar(nome), normalizar(nome))
+        c = por_nome.get(chave)
+        if not c:
+            sem_par.append(nome)
+            continue
+        casados.append((nome, c.get("nome", "")))
+        # O TiviMate procura primeiro pelo tvg-id (epg_channel_id) e depois pelo nome.
+        xml_id = (s.get("epg_channel_id") or "").strip() or nome
+        g = grupos.setdefault(xml_id, {"id": xml_id, "nomes": [], "icone": c.get("url_imagem"),
+                                       "claro": str(c["id_canal"])})
+        if nome not in g["nomes"]:
+            g["nomes"].append(nome)
+    return list(grupos.values()), casados, sem_par
+
+
+def gerar_xmltv(saidas, programas):
+    linhas = ['<?xml version="1.0" encoding="UTF-8"?>',
+              '<tv generator-info-name="claro_epg.py" source-info-url="https://www.claro.com.br/tv-por-assinatura/programacao/grade">']
+    por_claro = {}
+    for s in saidas:
+        por_claro.setdefault(s["claro"], []).append(s["id"])
+        linhas.append(f"  <channel id={quoteattr(s['id'])}>")
+        for n in s["nomes"]:
+            linhas.append(f"    <display-name lang=\"pt\">{escape(n)}</display-name>")
+        if s.get("icone"):
+            linhas.append(f"    <icon src={quoteattr(s['icone'])}/>")
+        linhas.append("  </channel>")
+
+    vistos, total = set(), 0
+    for p in programas:
+        canal = str(p.get("id_canal"))
+        if canal not in por_claro or not p.get("dh_inicio") or not p.get("dh_fim"):
+            continue
+        ini, fim = parse_hora(p["dh_inicio"]), parse_hora(p["dh_fim"])
+        chave = (canal, ini)
+        if chave in vistos or fim <= ini:
+            continue
+        vistos.add(chave)
+        titulo = p.get("titulo") or p.get("st_titulo") or "Sem título"
+        sub = p.get("st_titulo")
+        for xml_id in por_claro[canal]:
+            linhas.append(f"  <programme start=\"{xmltv_hora(ini)}\" stop=\"{xmltv_hora(fim)}\" channel={quoteattr(xml_id)}>")
+            linhas.append(f"    <title lang=\"pt\">{escape(titulo)}</title>")
+            if sub and sub != titulo:
+                linhas.append(f"    <sub-title lang=\"pt\">{escape(sub)}</sub-title>")
+            linhas.append("  </programme>")
+            total += 1
+    linhas.append("</tv>")
+    return "\n".join(linhas) + "\n", total
+
+
+def ler_mapa(caminho):
+    mapa = {}
+    with open(caminho, newline="", encoding="utf-8") as f:
+        for row in csv.reader(f):
+            if len(row) >= 2 and row[0].strip() and not row[0].startswith("#"):
+                mapa[row[0].strip()] = row[1].strip()
+    return mapa
+
+
+PASTA = os.path.expanduser("~/.claro_epg")
+CONFIG = os.path.join(PASTA, "login.json")
+PORTA = 8787
+AGENTES = {
+    "atualizar": "com.claroepg.atualizar",
+    "servidor": "com.claroepg.servidor",
+}
+
+
+def pedir_login():
+    """Usa as variáveis XC_* (GitHub Actions) ou o login salvo pelo --instalar; senão, pergunta."""
+    if os.environ.get("XC_SERVIDOR"):
+        return os.environ["XC_SERVIDOR"], os.environ["XC_USUARIO"], os.environ["XC_SENHA"]
+    if os.path.exists(CONFIG):
+        with open(CONFIG, encoding="utf-8") as f:
+            c = json.load(f)
+        return c["servidor"], c["usuario"], c["senha"]
+    servidor = input("URL do servidor (ex.: http://servidor.com:8080): ").strip()
+    usuario = input("Usuário: ").strip()
+    senha = getpass.getpass("Senha (não aparece enquanto digita): ").strip()
+    return servidor, usuario, senha
+
+
+def plist(rotulo, comando, extra):
+    args = "".join(f"<string>{escape(x)}</string>" for x in comando)
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>Label</key><string>{rotulo}</string>
+<key>ProgramArguments</key><array>{args}</array>
+<key>WorkingDirectory</key><string>{escape(PASTA)}</string>
+<key>StandardOutPath</key><string>{escape(PASTA)}/log.txt</string>
+<key>StandardErrorPath</key><string>{escape(PASTA)}/log.txt</string>
+{extra}
+</dict></plist>
+"""
+
+
+def ip_local():
+    for iface in ("en0", "en1", "en2"):
+        r = subprocess.run(["ipconfig", "getifaddr", iface], capture_output=True, text=True)
+        if r.stdout.strip():
+            return r.stdout.strip()
+    return "IP-DO-SEU-MAC"
+
+
+def instalar(dias):
+    if sys.platform != "darwin":
+        sys.exit("O --instalar foi feito para Mac.")
+    os.makedirs(os.path.join(PASTA, "www"), exist_ok=True)
+    print("Vou guardar o login da sua lista só neste Mac, para a atualização rodar sozinha.")
+    servidor = input("URL do servidor (ex.: http://servidor.com:8080): ").strip()
+    usuario = input("Usuário: ").strip()
+    senha = getpass.getpass("Senha (não aparece enquanto digita): ").strip()
+    with open(CONFIG, "w", encoding="utf-8") as f:
+        json.dump({"servidor": servidor, "usuario": usuario, "senha": senha}, f)
+    os.chmod(CONFIG, 0o600)
+
+    script = os.path.join(PASTA, "claro_epg.py")
+    shutil.copyfile(os.path.abspath(__file__), script)
+    py = sys.executable
+    saida = os.path.join(PASTA, "www", "epg_claro.xml.gz")
+    agentes = os.path.expanduser("~/Library/LaunchAgents")
+    os.makedirs(agentes, exist_ok=True)
+    conteudo = {
+        # Todo dia às 5h e também logo após ligar o Mac.
+        "atualizar": plist(AGENTES["atualizar"], [py, script, "--xc", "--dias", str(dias), "--saida", saida],
+                           "<key>RunAtLoad</key><true/>"
+                           "<key>StartCalendarInterval</key><dict><key>Hour</key><integer>5</integer>"
+                           "<key>Minute</key><integer>0</integer></dict>"),
+        # Servidor simples para o TiviMate baixar o arquivo pela rede de casa.
+        "servidor": plist(AGENTES["servidor"], [py, "-m", "http.server", str(PORTA), "--directory",
+                                                os.path.join(PASTA, "www")],
+                          "<key>RunAtLoad</key><true/><key>KeepAlive</key><true/>"),
+    }
+    for nome, rotulo in AGENTES.items():
+        caminho = os.path.join(agentes, rotulo + ".plist")
+        subprocess.run(["launchctl", "unload", caminho], capture_output=True)
+        with open(caminho, "w", encoding="utf-8") as f:
+            f.write(conteudo[nome])
+        subprocess.run(["launchctl", "load", caminho], check=True)
+
+    print("\nPronto! O EPG está sendo gerado agora (leva 1 ou 2 minutos) e vai se atualizar todo dia às 5h.")
+    print(f"Coloque esta URL no TiviMate:  http://{ip_local()}:{PORTA}/epg_claro.xml.gz")
+    print(f"Se der problema, veja o arquivo {PASTA}/log.txt")
+
+
+def desinstalar():
+    agentes = os.path.expanduser("~/Library/LaunchAgents")
+    for rotulo in AGENTES.values():
+        caminho = os.path.join(agentes, rotulo + ".plist")
+        subprocess.run(["launchctl", "unload", caminho], capture_output=True)
+        if os.path.exists(caminho):
+            os.remove(caminho)
+    shutil.rmtree(PASTA, ignore_errors=True)
+    print("Atualização automática removida, e o login salvo foi apagado.")
+
+
+def main():
+    ap = argparse.ArgumentParser(description="EPG XMLTV da Claro TV para TiviMate")
+    ap.add_argument("--dias", type=int, default=7, help="dias de programação (padrão 7)")
+    ap.add_argument("--cidade", default="1", help="id_cidade da Claro (padrão 1)")
+    ap.add_argument("--saida", default="epg_claro.xml.gz", help="arquivo .xml ou .xml.gz")
+    ap.add_argument("--mapa", help="CSV id_canal_claro,tvg-id para casar com sua lista")
+    ap.add_argument("--canais", help="só estes id_canal (separados por vírgula)")
+    ap.add_argument("--listar-canais", action="store_true")
+    ap.add_argument("--xc", action="store_true", help="casa o EPG com sua lista Xtream Codes (pergunta servidor, usuário e senha)")
+    ap.add_argument("--apelidos", help="CSV 'nome na sua lista,nome na Claro' para casos que não casam sozinhos")
+    ap.add_argument("--instalar", action="store_true", help="Mac: atualiza o EPG todo dia e serve por URL na rede de casa")
+    ap.add_argument("--desinstalar", action="store_true", help="Mac: remove a atualização automática")
+    a = ap.parse_args()
+
+    if a.instalar:
+        return instalar(a.dias)
+    if a.desinstalar:
+        return desinstalar()
+
+    canais = buscar_canais(a.cidade)
+    if a.listar_canais:
+        for c in canais:
+            print(f"{c['id_canal']}\t{c.get('cn_canal', '')}\t{c.get('nome', '')}")
+        return
+    if a.canais:
+        filtro = {x.strip() for x in a.canais.split(",")}
+        canais = [c for c in canais if str(c["id_canal"]) in filtro]
+
+    if a.xc:
+        servidor, usuario, senha = pedir_login()
+        streams = buscar_xc(servidor, usuario, senha)
+        apelidos = {normalizar(k): normalizar(v) for k, v in (ler_mapa(a.apelidos) if a.apelidos else {}).items()}
+        saidas, casados, sem_par = saidas_xc(canais, streams, apelidos)
+        with open("relatorio_canais.txt", "w", encoding="utf-8") as f:
+            f.write(f"CASADOS ({len(casados)})\n")
+            for nome, claro in sorted(casados):
+                f.write(f"  {nome}  ->  {claro}\n")
+            f.write(f"\nSEM GRADE NA CLARO ({len(sem_par)})\n")
+            for nome in sorted(sem_par):
+                f.write(f"  {nome}\n")
+        print(f"{len(casados)} canais da sua lista ligados à Claro, {len(sem_par)} sem par "
+              f"(veja relatorio_canais.txt)", file=sys.stderr)
+    else:
+        saidas = saidas_padrao(canais, ler_mapa(a.mapa) if a.mapa else {})
+
+    hoje = datetime.now(TZ_BR).replace(hour=0, minute=0, second=0, microsecond=0)
+    programas = []
+    for d in range(a.dias):
+        ini = hoje + timedelta(days=d)
+        fim = ini + timedelta(days=1) - timedelta(minutes=1)
+        lote = buscar_programas(a.cidade, ini, fim)
+        print(f"{ini:%d/%m}: {len(lote)} exibições", file=sys.stderr)
+        programas.extend(lote)
+
+    xml, total = gerar_xmltv(saidas, programas)
+    dados = xml.encode("utf-8")
+    if a.saida.endswith(".gz"):
+        dados = gzip.compress(dados)
+    # Grava num temporário e troca no fim, para o TiviMate nunca baixar um arquivo pela metade.
+    with open(a.saida + ".tmp", "wb") as f:
+        f.write(dados)
+    os.replace(a.saida + ".tmp", a.saida)
+    print(f"OK: {len(saidas)} canais, {total} programas -> {a.saida}", file=sys.stderr)
+
+
+if __name__ == "__main__":
+    main()

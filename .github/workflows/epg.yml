@@ -1,0 +1,45 @@
+name: Atualizar EPG
+
+on:
+  schedule:
+    - cron: "0 8 * * *"  # 05:00 em Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Gerar EPG
+        env:
+          XC_SERVIDOR: ${{ secrets.XC_SERVIDOR }}
+          XC_USUARIO: ${{ secrets.XC_USUARIO }}
+          XC_SENHA: ${{ secrets.XC_SENHA }}
+        run: |
+          mkdir -p site
+          if [ -n "$XC_SERVIDOR" ]; then
+            python3 claro_epg.py --xc --dias 7 --saida site/epg_claro.xml.gz
+          else
+            python3 claro_epg.py --dias 7 --saida site/epg_claro.xml.gz
+          fi
+          echo '<meta charset="utf-8"><p>EPG Claro: <a href="epg_claro.xml.gz">epg_claro.xml.gz</a></p>' > site/index.html
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
