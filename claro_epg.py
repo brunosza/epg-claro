@@ -363,6 +363,11 @@ def main():
             f.write(f"CASADOS ({len(casados)})\n")
             for nome, claro in sorted(casados):
                 f.write(f"  {nome}  ->  {claro}\n")
+            usados = {claro for _, claro in casados}
+            sobra = sorted(c.get("nome", "") for c in canais if c.get("nome", "") not in usados)
+            f.write(f"\nCANAIS DA CLARO SEM PAR NA SUA LISTA ({len(sobra)})\n")
+            for nome in sobra:
+                f.write(f"  {nome}\n")
             f.write(f"\nSEM GRADE NA CLARO ({len(sem_par)})\n")
             for nome in sorted(sem_par):
                 f.write(f"  {nome}\n")

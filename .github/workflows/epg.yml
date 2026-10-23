@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -46,6 +46,12 @@ jobs:
           date -u "+Atualizado em %Y-%m-%d %H:%M UTC" >> site/status.txt
           while read -r linha; do echo "::notice::$linha"; done < site/status.txt
           echo '<meta charset="utf-8"><p>EPG Claro: <a href="epg_claro.xml.gz">epg_claro.xml.gz</a></p>' > site/index.html
+      - name: Guardar relatório no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -f relatorio_canais.txt 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "Atualiza relatório de canais" && git push)
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
