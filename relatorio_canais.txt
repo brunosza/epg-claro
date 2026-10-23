@@ -1,4 +1,4 @@
-CASADOS (884)
+CASADOS (828)
   A&E 4K  ->  A&E
   A&E FHD  ->  A&E
   A&E H265  ->  A&E
@@ -48,22 +48,31 @@ CASADOS (884)
   Arte 1 SD  ->  Arte 1
   Arte 1 UHD  ->  Arte 1
   BABY TV SD  ->  Baby Tv
+  BAND SP 4K  ->  Band
   BAND SPORTS 4K  ->  Band Sports
   BIS FHD  ->  BIS
   BIS H265  ->  BIS
   BIS HD  ->  BIS
   BIS SD  ->  BIS
   BIS UHD  ->  BIS
+  BLOOMBERG  ->  Bloomberg TV
   Band News FHD  ->  Band News
   Band News H265  ->  Band News
   Band News HD  ->  Band News
   Band News SD  ->  Band News
   Band News UHD  ->  Band News
+  Band SP FHD  ->  Band
+  Band SP H265  ->  Band
+  Band SP HD  ->  Band
+  Band SP SD  ->  Band
+  Band SP UHD  ->  Band
   Band Sports FHD  ->  Band Sports
   Band Sports H265  ->  Band Sports
   Band Sports HD  ->  Band Sports
   Band Sports SD  ->  Band Sports
   Band Sports UHD  ->  Band Sports
+  CANAL SONY FHD H265 (LEGENDADOS)  ->  Sony
+  CANAL SONY H265 (LEGENDADOS)  ->  Sony
   CARTOON  NETWORK SD  ->  Cartoon Network
   CARTOON NETWORK 4K  ->  Cartoon Network
   CINEMAX H265 (LEGENDADOS)  ->  Cinemax
@@ -88,6 +97,14 @@ CASADOS (884)
   Canal Rural HD  ->  Canal Rural
   Canal Rural SD  ->  Canal Rural
   Canal Rural UHD  ->  Canal Rural
+  Canal Sony FHD  ->  Sony
+  Canal Sony FHD [LEG]  ->  Sony
+  Canal Sony H265  ->  Sony
+  Canal Sony HD  ->  Sony
+  Canal Sony HD [LEG]  ->  Sony
+  Canal Sony SD  ->  Sony
+  Canal Sony SD [LEG]  ->  Sony
+  Canal Sony UHD  ->  Sony
   Canal do Boi FHD  ->  Canal do Boi
   Canal do Boi H265  ->  Canal do Boi
   Canal do Boi HD  ->  Canal do Boi
@@ -137,6 +154,11 @@ CASADOS (884)
   DOG TV HD  ->  DogTV HD
   DOG TV SD  ->  DogTV HD
   DOG TV UHD  ->  DogTV HD
+  Disc. Home & Health FHD  ->  Discovery Home & Health
+  Disc. Home & Health H265  ->  Discovery Home & Health
+  Disc. Home & Health HD  ->  Discovery Home & Health
+  Disc. Home & Health SD  ->  Discovery Home & Health
+  Disc. Home & Health UHD  ->  Discovery Home & Health
   Discovery Channel FHD  ->  Discovery Channel
   Discovery Channel H265  ->  Discovery Channel
   Discovery Channel HD  ->  Discovery Channel
@@ -175,16 +197,6 @@ CASADOS (884)
   E! HD  ->  E! 
   E! SD  ->  E! 
   E! UHD  ->  E! 
-  ES: A&E  ->  A&E
-  ES: AMC HD  ->  AMC
-  ES: AXN HD  ->  AXN
-  ES: COMEDY CENTRAL HD  ->  Comedy Central
-  ES: DISNEY CHANNEL  ->  Disney Channel
-  ES: NATIONAL GEOGRAPHIC  ->  National Geographic
-  ES: NICKELODEON  ->  Nickelodeon
-  ES: SYFY HD  ->  Syfy
-  ES: TCM HD  ->  TCM
-  ES: TNT  ->  TNT
   ESPN 2 FHD²  ->  ESPN 2
   ESPN 2 FHD³  ->  ESPN 2
   ESPN 2 FHD¹  ->  ESPN 2
@@ -277,6 +289,7 @@ CASADOS (884)
   Futura SD  ->  Futura
   Futura UHD  ->  Futura
   GLOBO NEWS 4K  ->  GloboNews
+  GLOBO SP 4K  ->  Globo
   GNT 4K  ->  GNT
   GNT FHD  ->  GNT
   GNT H265  ->  GNT
@@ -288,6 +301,11 @@ CASADOS (884)
   Gazeta HD  ->  Gazeta
   Gazeta SD  ->  Gazeta
   Gazeta UHD  ->  Gazeta
+  Globo SP - São Paulo FHD  ->  Globo
+  Globo SP - São Paulo H265  ->  Globo
+  Globo SP - São Paulo HD  ->  Globo
+  Globo SP - São Paulo SD  ->  Globo
+  Globo SP - São Paulo UHD  ->  Globo
   GloboNews FHD  ->  GloboNews
   GloboNews H265  ->  GloboNews
   GloboNews HD  ->  GloboNews
@@ -393,40 +411,7 @@ CASADOS (884)
   ID HD  ->  ID
   ID SD  ->  ID
   ID UHD  ->  ID
-  IT- CARTOONITO  ->  cartoonito
-  IT- DISCOVERY CHANNEL  ->  Discovery Channel
-  IT- Food Network HD  ->  Food Network
-  IT- HGTV HD  ->  HGTV
   JP NEWS 4K  ->  JP News HD
-  LAT | Animal Planet  ->  Animal Planet
-  LAT | BABY TV  ->  Baby Tv
-  LAT | CARTOON NETWORK HD  ->  Cartoon Network
-  LAT | CARTOONITO HD  ->  cartoonito
-  LAT | CINECANAL HD  ->  Cinecanal
-  LAT | DISCOVERY KIDS HD  ->  Discovery Kids
-  LAT | DISNEY CHANNEL  ->  Disney Channel
-  LAT | DISNEY CHANNEL HD  ->  Disney Channel
-  LAT | Discovery Channel FHD  ->  Discovery Channel
-  LAT | Discovery Channel HD  ->  Discovery Channel
-  LAT | Discovery Science  ->  Discovery Science
-  LAT | Discovery Theater  ->  Discovery Theater HD ³
-  LAT | Discovery Turbo  ->  Discovery Turbo
-  LAT | Discovery Turbo HD (sur)  ->  Discovery Turbo
-  LAT | Discovery World HD  ->  Discovery world HD ³
-  LAT | FX HD  ->  FX
-  LAT | HBO  FHD  ->  HBO
-  LAT | HBO 2 HD  ->  HBO 2
-  LAT | HBO FAMILY FHD  ->  HBO Family
-  LAT | HBO MUNDI  ->  Hbo Mundi
-  LAT | HBO PLUS HD  ->  HBO +
-  LAT | HBO POP  ->  Hbo Pop
-  LAT | HBO SIGNATURE HD  ->  HBO Signature
-  LAT | HBO XTREME HD  ->  HBO Xtreme
-  LAT | HGTV  ->  HGTV
-  LAT | History 2  ->  History 2 HD
-  LAT | NICK JR HD  ->  Nick Jr.
-  LAT | STAR CHANNEL  ->  Star Channel
-  LAT | TNT Novelas HD  ->  Tnt novelas
   Lifetime FHD  ->  Lifetime
   Lifetime H265  ->  Lifetime
   Lifetime HD  ->  Lifetime
@@ -576,12 +561,19 @@ CASADOS (884)
   Prime Box Brazil HD  ->  Prime Box Brazil
   Prime Box Brazil SD  ->  Prime Box Brazil
   Prime Box Brazil UHD  ->  Prime Box Brazil
+  RECORD SP 4K  ->  Record
   REDE TV! 4K  ->  Rede TV
+  RIT FHD  ->  RIT TV
   Record News FHD  ->  Record News 
   Record News H265  ->  Record News 
   Record News HD  ->  Record News 
   Record News SD  ->  Record News 
   Record News UHD  ->  Record News 
+  Record SP FHD  ->  Record
+  Record SP H265  ->  Record
+  Record SP HD  ->  Record
+  Record SP SD  ->  Record
+  Record SP UHD  ->  Record
   Rede Gospel FHD  ->  Rede Gospel
   Rede Gospel H265  ->  Rede Gospel
   Rede Gospel HD  ->  Rede Gospel
@@ -597,6 +589,10 @@ CASADOS (884)
   RedeTV! HD  ->  Rede TV
   RedeTV! SD  ->  Rede TV
   RedeTV! UHD  ->  Rede TV
+  SBT SP FHD  ->  SBT
+  SBT SP H265  ->  SBT
+  SBT SP HD  ->  SBT
+  SBT SP SD  ->  SBT
   SPACE H265 (CANAIS LEGENDADOS )  ->  Space
   SPACE HD (CANAIS LEGENDADOS )  ->  Space
   STAR CHANNEL ( HD HEVC )©  ->  Star Channel
@@ -728,13 +724,18 @@ CASADOS (884)
   TV Brasil HD  ->  TV Brasil
   TV Brasil SD  ->  TV Brasil
   TV Brasil UHD  ->  TV Brasil
+  TV GLOBO FHD  ->  Globo
+  TV GLOBO HD  ->  Globo
+  TV GLOBO SD  ->  Globo
   TV Pai Eterno FHD  ->  TV Pai Eterno
   TV Pai Eterno FHD  ->  TV Pai Eterno
+  TV RECORD HD  ->  Record
   TV Ra Tim Bum FHD  ->  TV Rá Tim Bum
   TV Ra Tim Bum H265  ->  TV Rá Tim Bum
   TV Ra Tim Bum HD  ->  TV Rá Tim Bum
   TV Ra Tim Bum SD  ->  TV Rá Tim Bum
   TV Ra Tim Bum UHD  ->  TV Rá Tim Bum
+  TVE INTERNACIONAL  ->  TVE International
   Telecine Action FHD  ->  Telecine Action
   Telecine Action FHD [LEG]  ->  Telecine Action
   Telecine Action H265  ->  Telecine Action
@@ -788,52 +789,13 @@ CASADOS (884)
   Trace Brazuca HD  ->  Trace Brazuca HD
   Trace Brazuca SD  ->  Trace Brazuca HD
   Trace Brazuca UHD  ->  Trace Brazuca HD
+  Travel Box Brazil FHD  ->  Travel Box Brasil HD 
+  Travel Box Brazil H265  ->  Travel Box Brasil HD 
+  Travel Box Brazil HD  ->  Travel Box Brasil HD 
+  Travel Box Brazil SD  ->  Travel Box Brasil HD 
+  Travel Box Brazil UHD  ->  Travel Box Brasil HD 
   UNIVERSAL TV FHD H265 (LEGENDADO)  ->  Universal TV
   UNIVERSAL TV H265 (LEGENDADOS)  ->  Universal TV
-  USL-  DISCOVERY CHANNEL HD  ->  Discovery Channel
-  USL-  LIFETIME HD  ->  Lifetime
-  USL- A&E HD  ->  A&E
-  USL- AMC HD  ->  AMC
-  USL- AMC | HD  ->  AMC
-  USL- ANIMAL PLANET HD  ->  Animal Planet
-  USL- ANIMAL PLANET HD  ->  Animal Planet
-  USL- BABY TV HD  ->  Baby Tv
-  USL- BBC WORLD NEWS  ->  BBC World News
-  USL- CARTOON NETWORK HD  ->  Cartoon Network
-  USL- CARTOON NETWORK HD  ->  Cartoon Network
-  USL- CINEMAX HD  ->  Cinemax
-  USL- CNN INTERNATIONAL | HD  ->  CNN International
-  USL- COMEDY CENTRAL  ->  Comedy Central
-  USL- COMEDY CENTRAL  ->  Comedy Central
-  USL- DISCOVERY CHANNEL HD  ->  Discovery Channel
-  USL- DISCOVERY HD  ->  Discovery HD ³
-  USL- DISNEY CHANNEL HD  ->  Disney Channel
-  USL- E! HD  ->  E! 
-  USL- ESPN 2  ->  ESPN 2
-  USL- ESPN 2 HD  ->  ESPN 2
-  USL- ESPN 2 HD  ->  ESPN 2
-  USL- ESPN HD  ->  ESPN
-  USL- ESPN HD*  ->  ESPN
-  USL- FOOD NETWORK HD  ->  Food Network
-  USL- FX  HD  ->  FX
-  USL- HBO 2 HD  ->  HBO 2
-  USL- HBO FAMILY HD  ->  HBO Family
-  USL- HBO HD  ->  HBO
-  USL- HBO SIGNATURE HD  ->  HBO Signature
-  USL- HGTV HD  ->  HGTV
-  USL- HGTV HD  ->  HGTV
-  USL- HISTORY  ->  History Hd
-  USL- HISTORY HD  ->  History Hd
-  USL- MTV HD  ->  MTV
-  USL- NICKELODEON HD  ->  Nickelodeon
-  USL- NICKELODEON HD  ->  Nickelodeon
-  USL- PARAMOUNT NETWORK  ->  Paramount Network
-  USL- PARAMOUNT NETWORK HD  ->  Paramount Network
-  USL- SYFY HD  ->  Syfy
-  USL- TLC HD  ->  TLC
-  USL- TLC | HD  ->  TLC
-  USL- TNT FHD  ->  TNT
-  USL- TNT HD  ->  TNT
   Universal TV FHD  ->  Universal TV
   Universal TV H265  ->  Universal TV
   Universal TV HD  ->  Universal TV
@@ -864,27 +826,9 @@ CASADOS (884)
   Zoomoo HD  ->  ZooMoo
   Zoomoo SD  ->  ZooMoo
   Zoomoo UHD  ->  ZooMoo
-  [CA] A&E HD  ->  A&E
-  [CA] AMC HD  ->  AMC
-  [CA] ANIMAL PLANET HD  ->  Animal Planet
-  [CA] BBC WORLD NEWS HD  ->  BBC World News
-  [CA] CARTOON NETWORK HD  ->  Cartoon Network
-  [CA] DISCOVERY CHANNEL HD  ->  Discovery Channel
-  [CA] DISCOVERY SCIENCE HD  ->  Discovery Science
-  [CA] DISNEY CHANNEL HD  ->  Disney Channel
-  [CA] FOOD NETWORK HD  ->  Food Network
-  [CA] HBO 2 HD  ->  HBO 2
-  [CA] HBO HD  ->  HBO
-  [CA] HGTV HD  ->  HGTV
-  [CA] LIFETIME HD  ->  Lifetime
-  [CA] NICKELODEON HD  ->  Nickelodeon
-  [CA] PARAMOUNT NETWORK HD  ->  Paramount Network
-  [CA] SPACE HD  ->  Space
-  [CA] TCM HD  ->  TCM
-  [CA] TLC HD  ->  TLC
   ֎֎֎֎MUSICA֎֎֎֎  ->  Música
 
-CANAIS DA CLARO SEM PAR NA SUA LISTA (151)
+CANAIS DA CLARO SEM PAR NA SUA LISTA (147)
    TV Aparecida (espelho)
    TV Brasil 2
    TV Pai Eterno HD
@@ -895,16 +839,16 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (151)
   Agro Mais HD 
   Animal Planet HD
   Arte 1 HD
+  BBC World News
   BIS HD ³
-  Band
   Band HD
   Band News HD
   Band Sports HD ³
-  Bloomberg TV
   Boa Vontade TV
   CANAL DO CLIENTE HD
   CGTN
   CNN Brasil HD
+  CNN International
   CONMEBOL TV 4 HD
   Canal 2
   Canal Brasil HD ³
@@ -916,6 +860,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (151)
   Canal do cliente
   Cartoon Network HD
   Cartoonito HD
+  Cinecanal
   Cinecanal HD
   Cinemax HD ³
   Combate HD
@@ -923,7 +868,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (151)
   Cultura HD
   Curta! HD
   DW-TV
-  Discovery Home & Health
+  Discovery HD ³
   Discovery Home & Health HD ³
   Discovery Kids HD ³
   Discovery Science HD ³
@@ -935,13 +880,13 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (151)
   ESPN HD ³
   FISH TV HD
   FOOD NETWORK HD
+  FX
   FX HD ³
   Film&Arts HD
   France 24 HD
   Futura HD
   GNT HD ³
   Gazeta HD
-  Globo
   Globo HD
   GloboNews HD ³
   Gloob HD ³
@@ -975,6 +920,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (151)
   PREMIERE HD 3 ³
   PREMIERE HD 4 ³
   PREMIERE HD 5 ³
+  Paramount Network
   Paramount Network HD 
   Play TV
   Playboy TV 
@@ -987,21 +933,17 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (151)
   Premiere HD 7
   Prime Box Brazil HD ³
   RAI International
-  RIT TV
-  Record
   Record HD
   Rede 21
   Rede Gospel HD
   Rede TV HD
   Rede Vida HD
-  SBT
   SBT HD
   SIC International
   STAR CHANNEL HD
   Sextreme
   Shoptime
   Shoptime TV
-  Sony
   Sony HD ³
   Space HD ³
   SporTV 2 HD ³
@@ -1020,7 +962,6 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (151)
   TV Rá Tim Bum HD ³
   TV Senado
   TV5 Monde
-  TVE International
   Telecine Action HD ³
   Telecine Cult HD ³
   Telecine Fun HD ³
@@ -1030,14 +971,13 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (151)
   Terra Viva
   The History Channel
   Tnt novelas HD
-  Travel Box Brasil HD 
   Venus
   Viva HD
   Warner Channel HD
   Woohoo HD
   ZooMoo HD
 
-SEM GRADE NA CLARO (3415)
+SEM GRADE NA CLARO (3471)
   ##### IT-  MOVIES |#####
   ##### IT- EGLE/ PRIFAMILLA MOVIES |#####
   ##### IT- KIDS|#####
@@ -1236,13 +1176,11 @@ SEM GRADE NA CLARO (3415)
   Atividade Paranormal
   Avatar  A Lenda de Aang
   BAND RS 4K
-  BAND SP 4K
   BBC AME  ENG
   BJJ STARS FHD
   BJJ STARS HD
   BJJ STARS SD
   BLAZE HD
-  BLOOMBERG
   BM&C FHD
   BM&C H265
   BM&C HD
@@ -1298,11 +1236,6 @@ SEM GRADE NA CLARO (3415)
   Band RS Capital FHD
   Band RS Capital HD
   Band SC Capital HD
-  Band SP FHD
-  Band SP H265
-  Band SP HD
-  Band SP SD
-  Band SP UHD
   Band TO Capital HD
   Barbie No Mundo Porno
   Barretao 2022 SD
@@ -1420,8 +1353,6 @@ SEM GRADE NA CLARO (3415)
   CANAL PANDA HD
   CANAL PANDA SD
   CANAL Q SD
-  CANAL SONY FHD H265 (LEGENDADOS)
-  CANAL SONY H265 (LEGENDADOS)
   CANÇÃO NOVA
   CASA E COZINHA ( HEVEC )©
   CASA E COZINHA SD
@@ -1546,14 +1477,6 @@ SEM GRADE NA CLARO (3415)
   Canal Rodeio
   Canal Rodeio 01
   Canal Rodeio 02
-  Canal Sony FHD
-  Canal Sony FHD [LEG]
-  Canal Sony H265
-  Canal Sony HD
-  Canal Sony HD [LEG]
-  Canal Sony SD
-  Canal Sony SD [LEG]
-  Canal Sony UHD
   Canal UOL FHD
   Canal UOL HD
   Canal UOL SD
@@ -1854,11 +1777,6 @@ SEM GRADE NA CLARO (3415)
   Digimon Adventure
   Digimon Savers
   Digimon Tamers
-  Disc. Home & Health FHD
-  Disc. Home & Health H265
-  Disc. Home & Health HD
-  Disc. Home & Health SD
-  Disc. Home & Health UHD
   Discovery H&H 4K
   Disney+ 01
   Disney+ 01 Alt
@@ -1972,9 +1890,12 @@ SEM GRADE NA CLARO (3415)
   ES: #VAMOS
   ES: 13TV
   ES: 40 Principales
+  ES: A&E
   ES: A3SERIES
+  ES: AMC HD
   ES: ANDALUCIA TV
   ES: ANTENA 3 HD
+  ES: AXN HD
   ES: AXN WHITE HD
   ES: BABY
   ES: BARCA TV
@@ -1991,6 +1912,7 @@ SEM GRADE NA CLARO (3415)
   ES: CANAL MALAGA
   ES: CLAN TV
   ES: CNN
+  ES: COMEDY CENTRAL HD
   ES: COSMO HD
   ES: CRIMEN E INVESTIGACION
   ES: CUATRO HD
@@ -1998,6 +1920,7 @@ SEM GRADE NA CLARO (3415)
   ES: Cadena Dial
   ES: Cadena Ser
   ES: DE CASA
+  ES: DISNEY CHANNEL
   ES: DISNEY JUNIOR
   ES: DIVINITY
   ES: Deportes
@@ -2044,7 +1967,9 @@ SEM GRADE NA CLARO (3415)
   ES: MOVISTAR SERIES 2
   ES: Mega
   ES: NAT GEO WILD
+  ES: NATIONAL GEOGRAPHIC
   ES: NEOX
+  ES: NICKELODEON
   ES: NOVA
   ES: ODISEA
   ES: Onda Cero
@@ -2053,12 +1978,15 @@ SEM GRADE NA CLARO (3415)
   ES: REAL MADRID TV
   ES: RNE1
   ES: SOMOS
+  ES: SYFY HD
   ES: Sky Sports Premier League
   ES: Sundance Tv
+  ES: TCM HD
   ES: TELECINCO HD
   ES: TELEDEPORTE
   ES: TELEMADRID
   ES: TEN
+  ES: TNT
   ES: TVE 24h
   ES: VAMOS M+ FHD
   ES: VIAJAR
@@ -2246,7 +2174,6 @@ SEM GRADE NA CLARO (3415)
   GLOBO MINAS 4K
   GLOBO RBS TV 4K
   GLOBO RJ 4K
-  GLOBO SP 4K
   Game Shakers
   Game of Thrones
   Gang Bang 2024
@@ -2445,11 +2372,6 @@ SEM GRADE NA CLARO (3415)
   Globo SE - Aracaju FHD
   Globo SE - Aracaju HD
   Globo SE - Aracaju SD
-  Globo SP - São Paulo FHD
-  Globo SP - São Paulo H265
-  Globo SP - São Paulo HD
-  Globo SP - São Paulo SD
-  Globo SP - São Paulo UHD
   Globo TO - Palmas FHD
   Globo TO - Palmas HD
   Globo TO - Palmas SD
@@ -2686,9 +2608,11 @@ SEM GRADE NA CLARO (3415)
   IT- ALICE
   IT- BOING
   IT- CANAL 5
+  IT- CARTOONITO
   IT- CIELO HD
   IT- CINE 34 HD
   IT- CINE34 HD
+  IT- DISCOVERY CHANNEL
   IT- DISCOVERY DMAX
   IT- DISCOVERY FOCUS
   IT- DISCOVERY MOTOR TREND
@@ -2696,7 +2620,9 @@ SEM GRADE NA CLARO (3415)
   IT- EUROSPORT2
   IT- FOCUS
   IT- FRISBEE
+  IT- Food Network HD
   IT- GIALLO HD
+  IT- HGTV HD
   IT- IRIS
   IT- ITALIA1 HD
   IT- K2
@@ -2830,19 +2756,45 @@ SEM GRADE NA CLARO (3415)
   Kotaro Vai Morar Sozinho
   Krypto O Superção
   LAT LA PELICULA CLASICO HD
+  LAT | Animal Planet
+  LAT | BABY TV
   LAT | CARTONITO
+  LAT | CARTOON NETWORK HD
   LAT | CARTOON NETWORK HQ
+  LAT | CARTOONITO HD
+  LAT | CINECANAL HD
   LAT | CLARO SPORTS LATINOAMERICA HD
   LAT | DE PELICULA PLUS HD
+  LAT | DISCOVERY KIDS HD
+  LAT | DISNEY CHANNEL
+  LAT | DISNEY CHANNEL HD
   LAT | DISNEY HD
   LAT | DISNEY JR HD
   LAT | DISNEY JUNIOR
+  LAT | Discovery Channel FHD
+  LAT | Discovery Channel HD
+  LAT | Discovery Science
+  LAT | Discovery Theater
+  LAT | Discovery Turbo
+  LAT | Discovery Turbo HD (sur)
+  LAT | Discovery World HD
   LAT | Discovery home and health
   LAT | Discovery home and health HD (sur)
+  LAT | FX HD
   LAT | GOLDEN EDGE
   LAT | GOLDEN PLUS
   LAT | GOLDEN PREMIER
   LAT | GOLDEN PREMIER FHD
+  LAT | HBO  FHD
+  LAT | HBO 2 HD
+  LAT | HBO FAMILY FHD
+  LAT | HBO MUNDI
+  LAT | HBO PLUS HD
+  LAT | HBO POP
+  LAT | HBO SIGNATURE HD
+  LAT | HBO XTREME HD
+  LAT | HGTV
+  LAT | History 2
   LAT | History Channel
   LAT | History Channel HD
   LAT | Investigation Discovery
@@ -2851,10 +2803,13 @@ SEM GRADE NA CLARO (3415)
   LAT | NATGEO WILD HD
   LAT | NATIONAL GEOGRAFHIC
   LAT | NICK HD
+  LAT | NICK JR HD
   LAT | NICK JR HQ
+  LAT | STAR CHANNEL
   LAT | STARZ COMEDY HD
   LAT | STARZ COMEDY HD
   LAT | TEENNICK HD
+  LAT | TNT Novelas HD
   LAT | TOONCAST
   LAT| GALAVISION ATLANTA HD
   LAT| GALAVISION HOUSTON HD
@@ -3331,10 +3286,8 @@ SEM GRADE NA CLARO (3415)
   Quilos Mortais  Como Eles Estão Agora
   RBS TV 4K
   RECORD RS 4K
-  RECORD SP 4K
   RED BUL TV HD
   REDE CNT
-  RIT FHD
   RTP 1 ( HD HEVC )©
   RTP 1 FHD
   RTP 1 HD
@@ -3420,13 +3373,8 @@ SEM GRADE NA CLARO (3415)
   Record Roraima HD
   Record Roraima SD
   Record SIC Rondonia FHD
-  Record SP FHD
-  Record SP H265
-  Record SP HD
   Record SP Interior FHD
   Record SP Interior HD
-  Record SP SD
-  Record SP UHD
   Record Santa Catarina HD
   Record Sergipe Atalaia HD
   Record Thathi Campinas FHD
@@ -3488,10 +3436,6 @@ SEM GRADE NA CLARO (3415)
   SBT RS FHD
   SBT RS HD
   SBT SC Capital HD
-  SBT SP FHD
-  SBT SP H265
-  SBT SP HD
-  SBT SP SD
   SBT TV Aratu BA Capital FHD
   SBT TV Aratu BA Capital HD
   SBT Thathi Vale FHD
@@ -3770,10 +3714,7 @@ SEM GRADE NA CLARO (3415)
   TV Diario - Fortaleza HD
   TV Evangelizar HD
   TV GIDEÕES FHD
-  TV GLOBO FHD
-  TV GLOBO HD
   TV GLOBO NOW SD
-  TV GLOBO SD
   TV Globinho 1
   TV Globinho 2
   TV Globinho 3
@@ -3796,7 +3737,6 @@ SEM GRADE NA CLARO (3415)
   TV Otimista SD
   TV Otimista UHD
   TV Quack
-  TV RECORD HD
   TV Terceiro Anjo SD
   TV Uniao FHD
   TV Uniao H265
@@ -3826,7 +3766,6 @@ SEM GRADE NA CLARO (3415)
   TVE Bahia FHD
   TVE Bahia HD
   TVE Bahia SD
-  TVE INTERNACIONAL
   TVI  ( HD HEVC )©
   TVI FHD
   TVI HD
@@ -3892,11 +3831,6 @@ SEM GRADE NA CLARO (3415)
   Trato Feito
   Trato Feito 2
   Trato Feito 3
-  Travel Box Brazil FHD
-  Travel Box Brazil H265
-  Travel Box Brazil HD
-  Travel Box Brazil SD
-  Travel Box Brazil UHD
   Tres Espias Demais
   Trisal
   Troca de Casais
@@ -3927,7 +3861,10 @@ SEM GRADE NA CLARO (3415)
   USA: NFL Network
   USA: NFL Network HD
   USA: NFL Red Zone HD
+  USL-  DISCOVERY CHANNEL HD
+  USL-  LIFETIME HD
   USL-  OUTDOOR
+  USL- A&E HD
   USL- ABC
   USL- ABC  HD
   USL- ABC ATLANTA
@@ -3943,9 +3880,14 @@ SEM GRADE NA CLARO (3415)
   USL- ABC SAN DIEGO
   USL- ABC SAN FRANCISCO HD
   USL- ALTITUDE SPORTS á´´á´°
+  USL- AMC HD
+  USL- AMC | HD
   USL- AMERICA DESTINATION  HD
   USL- AMERICAN HERO CHANNEL
+  USL- ANIMAL PLANET HD
+  USL- ANIMAL PLANET HD
   USL- AXS TV
+  USL- BABY TV HD
   USL- BALLY SPORTS ARIZONA PLUS
   USL- BALLY SPORTS FLORIDA
   USL- BALLY SPORTS FLORIDA HD
@@ -3953,6 +3895,7 @@ SEM GRADE NA CLARO (3415)
   USL- BALLY SPORTS SOUTHWEST (San Antonio)
   USL- BBC AMERICA HD
   USL- BBC AMERICA HD
+  USL- BBC WORLD NEWS
   USL- BET
   USL- BET HER HD
   USL- BET JAMS
@@ -3962,6 +3905,8 @@ SEM GRADE NA CLARO (3415)
   USL- BOOMERANG HD
   USL- BRAVO HD
   USL- BRAVO TV HD
+  USL- CARTOON NETWORK HD
+  USL- CARTOON NETWORK HD
   USL- CBS 5 SAN FRANCISCO
   USL- CBS CHICAGO HD
   USL- CBS HD
@@ -3979,12 +3924,16 @@ SEM GRADE NA CLARO (3415)
   USL- CHEDDAR NEWS
   USL- CINEMAX ACTIONMAX | HD
   USL- CINEMAX EAST HD
+  USL- CINEMAX HD
   USL- CINEMAX MOVIEMAX | HD
   USL- CINEMAX WEST HD
   USL- CIRCLE TV
   USL- CMT
   USL- CNBC WORLD NEWS
   USL- CNN HD
+  USL- CNN INTERNATIONAL | HD
+  USL- COMEDY CENTRAL
+  USL- COMEDY CENTRAL
   USL- COOKING CHANNEL
   USL- COOKING CHANNEL HD
   USL- COOKING CHANNEL HD
@@ -3993,12 +3942,15 @@ SEM GRADE NA CLARO (3415)
   USL- DEPORTES| BEIN SPORTS EN ESPANOL HD
   USL- DEPORTES| BEIN SPORTS EXTRA HD
   USL- DESTINATION AMERICÁ
+  USL- DISCOVERY CHANNEL HD
   USL- DISCOVERY FAMILY
+  USL- DISCOVERY HD
   USL- DISCOVERY LIFE HD
   USL- DISCOVERY LIFE HD
   USL- DISCOVERY VELOCITY HD
   USL- DISCOVERY VELOCITY HD
   USL- DISCOVERY á´´á´°
+  USL- DISNEY CHANNEL HD
   USL- DISNEY CHANNEL á´´á´°
   USL- DISNEY JR HD
   USL- DISNEY JR HD
@@ -4008,13 +3960,20 @@ SEM GRADE NA CLARO (3415)
   USL- DIY NETWORK HD
   USL- DIY NETWORK HD
   USL- E! ENTERTAINMENT HD
+  USL- E! HD
   USL- EPIX HITS HD
+  USL- ESPN 2
+  USL- ESPN 2 HD
+  USL- ESPN 2 HD
   USL- ESPN 2 á´´á´°
+  USL- ESPN HD
+  USL- ESPN HD*
   USL- ESPN LONG HORN
   USL- ESPN LONG HORN NETWORK
   USL- ESPN NEWS á´´á´°
   USL- ESPN NEWS á´´á´°
   USL- ESPN U
+  USL- FOOD NETWORK HD
   USL- FOOD NETWORK á´´á´°
   USL- FOX 32 CHICAGO
   USL- FOX BUSINESS FHD
@@ -4051,6 +4010,7 @@ SEM GRADE NA CLARO (3415)
   USL- FREEFORM
   USL- FUSE á´´á´°
   USL- FUSION á´´á´°
+  USL- FX  HD
   USL- FX á´´á´°
   USL- FXM HD
   USL- FXM á´´á´°
@@ -4066,11 +4026,19 @@ SEM GRADE NA CLARO (3415)
   USL- HALLMARK HD
   USL- HALLMARK MOVIES & MYSTERIES á´´á´°
   USL- HALLMARK á´´á´°
+  USL- HBO 2 HD
   USL- HBO COMEDY HD
+  USL- HBO FAMILY HD
   USL- HBO FAMILY WEST
+  USL- HBO HD
+  USL- HBO SIGNATURE HD
   USL- HBO ZONE | HD
+  USL- HGTV HD
+  USL- HGTV HD
   USL- HGTV PACIFICO HD
+  USL- HISTORY
   USL- HISTORY CHANNEL | UHD
+  USL- HISTORY HD
   USL- HLN á´´á´°
   USL- Hallmark Drama | HD
   USL- IFC
@@ -4089,6 +4057,7 @@ SEM GRADE NA CLARO (3415)
   USL- MSG á´´á´°
   USL- MTV 2
   USL- MTV CLASSIC
+  USL- MTV HD
   USL- NAT GEO
   USL- NAT GEO WILD
   USL- NAT GEO WILD HD
@@ -4104,6 +4073,8 @@ SEM GRADE NA CLARO (3415)
   USL- NESN á´´á´°
   USL- NEWSY
   USL- NFL NETWORK HD
+  USL- NICKELODEON HD
+  USL- NICKELODEON HD
   USL- NICKTOONS HD
   USL- ONE AMERICA NEWS á´´á´°
   USL- OWN CHANNEL FHD
@@ -4112,6 +4083,8 @@ SEM GRADE NA CLARO (3415)
   USL- PAC BAY AREA HD
   USL- PAC WASHINTONG HD
   USL- PAC-12 WASHINGTON HD
+  USL- PARAMOUNT NETWORK
+  USL- PARAMOUNT NETWORK HD
   USL- PBS HD
   USL- PBS KIDS HD
   USL- PEOPLE TV HD
@@ -4136,12 +4109,17 @@ SEM GRADE NA CLARO (3415)
   USL- STARZ ENCORE ACTION
   USL- STARZ ENCORE BLACK HD
   USL- SUNDANCE HD
+  USL- SYFY HD
   USL- TBS EAST | HD
   USL- TBS HD
   USL- TBS PACIFICO HD
   USL- TEEN NICK HD
   USL- THE WEATHER CHANNEL HD
+  USL- TLC HD
   USL- TLC PACIFICO HD
+  USL- TLC | HD
+  USL- TNT FHD
+  USL- TNT HD
   USL- TRAVEL CHANNEL á´´á´°
   USL- TRAVEL HD
   USL- TRU TV FHD
@@ -4322,14 +4300,19 @@ SEM GRADE NA CLARO (3415)
   [+18] ADULTO 73
   [+18] ADULTO 74
   [+18] ADULTO 75
+  [CA] A&E HD
   [CA] ABC HD
   [CA] ABC SPARK HD
   [CA] ADULT SWIM HD
+  [CA] AMC HD
+  [CA] ANIMAL PLANET HD
   [CA] BBC CANADA HD
+  [CA] BBC WORLD NEWS HD
   [CA] BEIN LaLiga HD
   [CA] BET HD
   [CA] BNN BLOOMBERG HD
   [CA] CANAL SAVOIR HD
+  [CA] CARTOON NETWORK HD
   [CA] CBC CALGARY HD
   [CA] CBC HD
   [CA] CBC MONTREAL HD
@@ -4366,7 +4349,10 @@ SEM GRADE NA CLARO (3415)
   [CA] CTV TORONTO HD
   [CA] CTV VANCOUVER HD
   [CA] CTV2 OTTAWA HD
+  [CA] DISCOVERY CHANNEL HD
   [CA] DISCOVERY FAMILY HD
+  [CA] DISCOVERY SCIENCE HD
+  [CA] DISNEY CHANNEL HD
   [CA] DISNEY JUNIOR HD
   [CA] DISNEY XD HD
   [CA] DIY NETWORK HD
@@ -4375,6 +4361,7 @@ SEM GRADE NA CLARO (3415)
   [CA] E! ENTERTAINMENT HD
   [CA] FAMILY JUNIOR HD
   [CA] FIGHT NETWORK HD
+  [CA] FOOD NETWORK HD
   [CA] FOX NEWS HD
   [CA] FOX SPORTS HD
   [CA] FOX SPORTS RACING HD
@@ -4382,8 +4369,12 @@ SEM GRADE NA CLARO (3415)
   [CA] GAME SHOW NETWORK HD
   [CA] GOLF CHANNEL HD
   [CA] H2 HD
+  [CA] HBO 2 HD
+  [CA] HBO HD
+  [CA] HGTV HD
   [CA] HISTORY CHANNEL HD
   [CA] HLN HD
+  [CA] LIFETIME HD
   [CA] LIFETIME MOVIE NETWORK HD
   [CA] MAX HD
   [CA] MLB NETWORK HD
@@ -4393,12 +4384,15 @@ SEM GRADE NA CLARO (3415)
   [CA] NBA TV HD
   [CA] NFL NETWORK HD
   [CA] NHL NETWORK HQ
+  [CA] NICKELODEON HD
   [CA] OWN HD
+  [CA] PARAMOUNT NETWORK HD
   [CA] RDS 2
   [CA] RDS INFO
   [CA] SHOPPING HD
   [CA] SHOWCASE HD
   [CA] SLICE HD
+  [CA] SPACE HD
   [CA] SPIKE TV HD
   [CA] SPORTSNET 360 HD
   [CA] SPORTSNET EAST HD
@@ -4407,8 +4401,10 @@ SEM GRADE NA CLARO (3415)
   [CA] SPORTSNET ONTARIO HD
   [CA] SPORTSNET PACIFIC HD
   [CA] SPORTSNET WEST HD
+  [CA] TCM HD
   [CA] TELETOON HD
   [CA] THE WEATHER CHANNEL HD
+  [CA] TLC HD
   [CA] TREEHOUSE HD
   [CA] TSN 1
   [CA] TSN 1 HD*
