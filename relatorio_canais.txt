@@ -1,0 +1,4455 @@
+CASADOS (884)
+  A&E 4K  ->  A&E
+  A&E FHD  ->  A&E
+  A&E H265  ->  A&E
+  A&E HD  ->  A&E
+  A&E HD  ->  A&E
+  A&E SD  ->  A&E
+  A&E UHD  ->  A&E
+  AMC ( HD HEVC )©  ->  AMC
+  AMC FHD  ->  AMC
+  AMC FHD  ->  AMC
+  AMC H265  ->  AMC
+  AMC H265 (LEGENDADOS)  ->  AMC
+  AMC HD  ->  AMC
+  AMC HD  ->  AMC
+  AMC SD  ->  AMC
+  AMC SD  ->  AMC
+  AMC UHD  ->  AMC
+  ANIMAL PLANET 4K  ->  Animal Planet
+  AXN  ->  AXN
+  AXN ( HD HEVC )©  ->  AXN
+  AXN 4K  ->  AXN
+  AXN FHD  ->  AXN
+  AXN FHD  ->  AXN
+  AXN FHD [LEG]  ->  AXN
+  AXN H265  ->  AXN
+  AXN H265 (CANAIS LEGENDADOS)  ->  AXN
+  AXN HD  ->  AXN
+  AXN HD  ->  AXN
+  AXN HD H265 (LEGENDADOS)  ->  AXN
+  AXN HD [LEG]  ->  AXN
+  AXN SD  ->  AXN
+  AXN SD [LEG]  ->  AXN
+  AXN UHD  ->  AXN
+  AgroMais FHD  ->  Agro Mais
+  AgroMais H265  ->  Agro Mais
+  AgroMais HD  ->  Agro Mais
+  AgroMais SD  ->  Agro Mais
+  AgroMais UHD  ->  Agro Mais
+  Animal Planet FHD  ->  Animal Planet
+  Animal Planet H265  ->  Animal Planet
+  Animal Planet HD  ->  Animal Planet
+  Animal Planet SD  ->  Animal Planet
+  Animal Planet UHD  ->  Animal Planet
+  Arte 1 FHD  ->  Arte 1
+  Arte 1 H265  ->  Arte 1
+  Arte 1 HD  ->  Arte 1
+  Arte 1 SD  ->  Arte 1
+  Arte 1 UHD  ->  Arte 1
+  BABY TV SD  ->  Baby Tv
+  BAND SPORTS 4K  ->  Band Sports
+  BIS FHD  ->  BIS
+  BIS H265  ->  BIS
+  BIS HD  ->  BIS
+  BIS SD  ->  BIS
+  BIS UHD  ->  BIS
+  Band News FHD  ->  Band News
+  Band News H265  ->  Band News
+  Band News HD  ->  Band News
+  Band News SD  ->  Band News
+  Band News UHD  ->  Band News
+  Band Sports FHD  ->  Band Sports
+  Band Sports H265  ->  Band Sports
+  Band Sports HD  ->  Band Sports
+  Band Sports SD  ->  Band Sports
+  Band Sports UHD  ->  Band Sports
+  CARTOON  NETWORK SD  ->  Cartoon Network
+  CARTOON NETWORK 4K  ->  Cartoon Network
+  CINEMAX H265 (LEGENDADOS)  ->  Cinemax
+  CINEMAX HD (LEGENDADOS)  ->  Cinemax
+  CNN BRASIL 4K  ->  CNN Brasil
+  CNN Brasil FHD  ->  CNN Brasil
+  CNN Brasil H265  ->  CNN Brasil
+  CNN Brasil HD  ->  CNN Brasil
+  CNN Brasil SD  ->  CNN Brasil
+  CNN Brasil UHD  ->  CNN Brasil
+  COMBATE  ->  Combate
+  COMBATE 4K  ->  Combate
+  COMBATE FHD  ->  Combate
+  COMBATE HD  ->  Combate
+  Canal Brasil FHD  ->  Canal Brasil
+  Canal Brasil H265  ->  Canal Brasil
+  Canal Brasil HD  ->  Canal Brasil
+  Canal Brasil SD  ->  Canal Brasil
+  Canal Brasil UHD  ->  Canal Brasil
+  Canal Rural FHD  ->  Canal Rural
+  Canal Rural H265  ->  Canal Rural
+  Canal Rural HD  ->  Canal Rural
+  Canal Rural SD  ->  Canal Rural
+  Canal Rural UHD  ->  Canal Rural
+  Canal do Boi FHD  ->  Canal do Boi
+  Canal do Boi H265  ->  Canal do Boi
+  Canal do Boi HD  ->  Canal do Boi
+  Canal do Boi SD  ->  Canal do Boi
+  Canal do Boi UHD  ->  Canal do Boi
+  Cartoon Network FHD  ->  Cartoon Network
+  Cartoon Network H265  ->  Cartoon Network
+  Cartoon Network HD  ->  Cartoon Network
+  Cartoon Network SD  ->  Cartoon Network
+  Cartoon Network UHD  ->  Cartoon Network
+  Cartoonito FHD  ->  cartoonito
+  Cartoonito H265  ->  cartoonito
+  Cartoonito HD  ->  cartoonito
+  Cartoonito SD  ->  cartoonito
+  Cartoonito UHD  ->  cartoonito
+  Cinemax FHD  ->  Cinemax
+  Cinemax H265  ->  Cinemax
+  Cinemax HD  ->  Cinemax
+  Cinemax SD  ->  Cinemax
+  Cinemax UHD  ->  Cinemax
+  Combate FHD  ->  Combate
+  Combate H265  ->  Combate
+  Combate HD  ->  Combate
+  Combate SD  ->  Combate
+  Combate UHD  ->  Combate
+  Comedy Central FHD  ->  Comedy Central
+  Comedy Central H265  ->  Comedy Central
+  Comedy Central HD  ->  Comedy Central
+  Comedy Central SD  ->  Comedy Central
+  Comedy Central UHD  ->  Comedy Central
+  Cultura FHD  ->  Cultura
+  Cultura H265  ->  Cultura
+  Cultura HD  ->  Cultura
+  Cultura SD  ->  Cultura
+  Cultura UHD  ->  Cultura
+  Curta! FHD  ->  Curta!
+  Curta! H265  ->  Curta!
+  Curta! HD  ->  Curta!
+  Curta! SD  ->  Curta!
+  Curta! UHD  ->  Curta!
+  DISCOVERY CHANNEL 4K  ->  Discovery Channel
+  DISCOVERY CHANNEL HD  ->  Discovery Channel
+  DISCOVERY TURBO 4K  ->  Discovery Turbo
+  DISNEY CHANNEL SD  ->  Disney Channel
+  DOG TV FHD  ->  DogTV HD
+  DOG TV H265  ->  DogTV HD
+  DOG TV HD  ->  DogTV HD
+  DOG TV SD  ->  DogTV HD
+  DOG TV UHD  ->  DogTV HD
+  Discovery Channel FHD  ->  Discovery Channel
+  Discovery Channel H265  ->  Discovery Channel
+  Discovery Channel HD  ->  Discovery Channel
+  Discovery Channel SD  ->  Discovery Channel
+  Discovery Channel UHD  ->  Discovery Channel
+  Discovery Kids FHD  ->  Discovery Kids
+  Discovery Kids H265  ->  Discovery Kids
+  Discovery Kids HD  ->  Discovery Kids
+  Discovery Kids SD  ->  Discovery Kids
+  Discovery Kids UHD  ->  Discovery Kids
+  Discovery Science FHD  ->  Discovery Science
+  Discovery Science H265  ->  Discovery Science
+  Discovery Science HD  ->  Discovery Science
+  Discovery Science SD  ->  Discovery Science
+  Discovery Science UHD  ->  Discovery Science
+  Discovery Theater FHD  ->  Discovery Theater HD ³
+  Discovery Theater H265  ->  Discovery Theater HD ³
+  Discovery Theater HD  ->  Discovery Theater HD ³
+  Discovery Theater SD  ->  Discovery Theater HD ³
+  Discovery Theater UHD  ->  Discovery Theater HD ³
+  Discovery Turbo FHD  ->  Discovery Turbo
+  Discovery Turbo H265  ->  Discovery Turbo
+  Discovery Turbo HD  ->  Discovery Turbo
+  Discovery Turbo SD  ->  Discovery Turbo
+  Discovery Turbo UHD  ->  Discovery Turbo
+  Discovery World FHD  ->  Discovery world HD ³
+  Discovery World H265  ->  Discovery world HD ³
+  Discovery World HD  ->  Discovery world HD ³
+  Discovery World SD  ->  Discovery world HD ³
+  Discovery World UHD  ->  Discovery world HD ³
+  Disney Channel H265  ->  Disney Channel
+  E!  HD (LEGENDADOS)  ->  E! 
+  E! FHD  ->  E! 
+  E! H265  ->  E! 
+  E! H265 (LEGENDADO)  ->  E! 
+  E! HD  ->  E! 
+  E! SD  ->  E! 
+  E! UHD  ->  E! 
+  ES: A&E  ->  A&E
+  ES: AMC HD  ->  AMC
+  ES: AXN HD  ->  AXN
+  ES: COMEDY CENTRAL HD  ->  Comedy Central
+  ES: DISNEY CHANNEL  ->  Disney Channel
+  ES: NATIONAL GEOGRAPHIC  ->  National Geographic
+  ES: NICKELODEON  ->  Nickelodeon
+  ES: SYFY HD  ->  Syfy
+  ES: TCM HD  ->  TCM
+  ES: TNT  ->  TNT
+  ESPN 2 FHD²  ->  ESPN 2
+  ESPN 2 FHD³  ->  ESPN 2
+  ESPN 2 FHD¹  ->  ESPN 2
+  ESPN 2 H265  ->  ESPN 2
+  ESPN 2 HD²  ->  ESPN 2
+  ESPN 2 HD³  ->  ESPN 2
+  ESPN 2 HD¹  ->  ESPN 2
+  ESPN 2 SD²  ->  ESPN 2
+  ESPN 2 SD³  ->  ESPN 2
+  ESPN 2 SD¹  ->  ESPN 2
+  ESPN 2 UHD  ->  ESPN 2
+  ESPN 3  SD¹  ->  ESPN 3 HD
+  ESPN 3 FHD²  ->  ESPN 3 HD
+  ESPN 3 FHD³  ->  ESPN 3 HD
+  ESPN 3 FHD¹  ->  ESPN 3 HD
+  ESPN 3 H265  ->  ESPN 3 HD
+  ESPN 3 HD²  ->  ESPN 3 HD
+  ESPN 3 HD³  ->  ESPN 3 HD
+  ESPN 3 HD¹  ->  ESPN 3 HD
+  ESPN 3 SD²  ->  ESPN 3 HD
+  ESPN 3 SD³  ->  ESPN 3 HD
+  ESPN 3 UHD  ->  ESPN 3 HD
+  ESPN 4 4K  ->  Espn 4
+  ESPN 4 FHD²  ->  Espn 4
+  ESPN 4 FHD¹  ->  Espn 4
+  ESPN 4 H265  ->  Espn 4
+  ESPN 4 HD²  ->  Espn 4
+  ESPN 4 HD¹  ->  Espn 4
+  ESPN 4 SD²  ->  Espn 4
+  ESPN 4 SD¹  ->  Espn 4
+  ESPN 4 UHD  ->  Espn 4
+  ESPN 4K  ->  ESPN
+  ESPN 5 FHD²  ->  ESPN 5 HD
+  ESPN 5 FHD¹  ->  ESPN 5 HD
+  ESPN 5 HD²  ->  ESPN 5 HD
+  ESPN 5 HD¹  ->  ESPN 5 HD
+  ESPN 5 SD²  ->  ESPN 5 HD
+  ESPN 5 SD¹  ->  ESPN 5 HD
+  ESPN 6 FHD²  ->  ESPN 6 HD
+  ESPN 6 FHD¹  ->  ESPN 6 HD
+  ESPN 6 HD²  ->  ESPN 6 HD
+  ESPN 6 HD¹  ->  ESPN 6 HD
+  ESPN 6 SD¹  ->  ESPN 6 HD
+  ESPN FHD²  ->  ESPN
+  ESPN FHD³  ->  ESPN
+  ESPN FHD¹  ->  ESPN
+  ESPN H265  ->  ESPN
+  ESPN HD²  ->  ESPN
+  ESPN HD³  ->  ESPN
+  ESPN HD¹  ->  ESPN
+  ESPN SD²  ->  ESPN
+  ESPN SD³  ->  ESPN
+  ESPN SD¹  ->  ESPN
+  ESPN UHD  ->  ESPN
+  Eurochannel FHD  ->  Eurochannel HD
+  Eurochannel H265  ->  Eurochannel HD
+  Eurochannel HD  ->  Eurochannel HD
+  Eurochannel SD  ->  Eurochannel HD
+  Eurochannel UHD  ->  Eurochannel HD
+  FASHION TV HD  ->  Fashion TV HD
+  FOOD NETWORK  ->  Food Network
+  Fashion TV  UHD  ->  Fashion TV HD
+  Fashion TV FHD  ->  Fashion TV HD
+  Fashion TV H265  ->  Fashion TV HD
+  Fashion TV HD  ->  Fashion TV HD
+  Fashion TV SD  ->  Fashion TV HD
+  Film&Arts FHD  ->  Film&Arts
+  Film&Arts H265  ->  Film&Arts
+  Film&Arts HD  ->  Film&Arts
+  Film&Arts SD  ->  Film&Arts
+  Film&Arts UHD  ->  Film&Arts
+  Fish TV FHD  ->  FISH TV
+  Fish TV H265  ->  FISH TV
+  Fish TV HD  ->  FISH TV
+  Fish TV SD  ->  FISH TV
+  Fish TV UHD  ->  FISH TV
+  Food Network FHD  ->  Food Network
+  Food Network H265  ->  Food Network
+  Food Network HD  ->  Food Network
+  Food Network SD  ->  Food Network
+  Food Network UHD  ->  Food Network
+  France 24 FHD  ->  France 24
+  France 24 H265  ->  France 24
+  France 24 HD  ->  France 24
+  France 24 SD  ->  France 24
+  France 24 UHD  ->  France 24
+  Futura FHD  ->  Futura
+  Futura H265  ->  Futura
+  Futura HD  ->  Futura
+  Futura SD  ->  Futura
+  Futura UHD  ->  Futura
+  GLOBO NEWS 4K  ->  GloboNews
+  GNT 4K  ->  GNT
+  GNT FHD  ->  GNT
+  GNT H265  ->  GNT
+  GNT HD  ->  GNT
+  GNT SD  ->  GNT
+  GNT UHD  ->  GNT
+  Gazeta FHD  ->  Gazeta
+  Gazeta H265  ->  Gazeta
+  Gazeta HD  ->  Gazeta
+  Gazeta SD  ->  Gazeta
+  Gazeta UHD  ->  Gazeta
+  GloboNews FHD  ->  GloboNews
+  GloboNews H265  ->  GloboNews
+  GloboNews HD  ->  GloboNews
+  GloboNews SD  ->  GloboNews
+  GloboNews UHD  ->  GloboNews
+  Gloob FHD  ->  Gloob
+  Gloob H265  ->  Gloob
+  Gloob HD  ->  Gloob
+  Gloob SD  ->  Gloob
+  Gloob UHD  ->  Gloob
+  Gloobinho FHD  ->  Gloobinho
+  Gloobinho H265  ->  Gloobinho
+  Gloobinho HD  ->  Gloobinho
+  Gloobinho SD  ->  Gloobinho
+  Gloobinho UHD  ->  Gloobinho
+  HBO 2 FHD  ->  HBO 2
+  HBO 2 H265  ->  HBO 2
+  HBO 2 HD  ->  HBO 2
+  HBO 2 SD  ->  HBO 2
+  HBO 2 UHD  ->  HBO 2
+  HBO 4K  ->  HBO
+  HBO FHD  ->  HBO
+  HBO FHD [LEG]  ->  HBO
+  HBO Family FHD  ->  HBO Family
+  HBO Family H265  ->  HBO Family
+  HBO Family HD  ->  HBO Family
+  HBO Family SD  ->  HBO Family
+  HBO Family UHD  ->  HBO Family
+  HBO H264 ( CANAIS LEGENDADOS )  ->  HBO
+  HBO H265  ->  HBO
+  HBO HD  ->  HBO
+  HBO HD ( CANAIS LENGENDADOS)  ->  HBO
+  HBO HD [LEG]  ->  HBO
+  HBO MUNDI FHD  ->  Hbo Mundi
+  HBO MUNDI FHD ( CANAIS LEGENDADOS )  ->  Hbo Mundi
+  HBO MUNDI H265  ->  Hbo Mundi
+  HBO MUNDI HD  ->  Hbo Mundi
+  HBO MUNDI HD ( CANAIS LEGENDADOS )  ->  Hbo Mundi
+  HBO MUNDI SD  ->  Hbo Mundi
+  HBO MUNDI UHD  ->  Hbo Mundi
+  HBO Mundi FHD [LEG]  ->  Hbo Mundi
+  HBO Mundi HD [LEG]  ->  Hbo Mundi
+  HBO Mundi SD [LEG]  ->  Hbo Mundi
+  HBO PLUS H265 ( CANAIS LEGENDADOS )  ->  HBO +
+  HBO PLUS HD ( CANAIS LEGENDADOS )  ->  HBO +
+  HBO POP FHD  ->  Hbo Pop
+  HBO POP H265  ->  Hbo Pop
+  HBO POP H265 ( CANAIS LEGENDADOS )  ->  Hbo Pop
+  HBO POP HD  ->  Hbo Pop
+  HBO POP HD ( CANAIS LEGENDADOS )  ->  Hbo Pop
+  HBO POP SD  ->  Hbo Pop
+  HBO POP UHD  ->  Hbo Pop
+  HBO Pop FHD [LEG]  ->  Hbo Pop
+  HBO Pop HD [LEG]  ->  Hbo Pop
+  HBO Pop SD [LEG]  ->  Hbo Pop
+  HBO SD  ->  HBO
+  HBO SD [LEG]  ->  HBO
+  HBO SIGNATURE H265 ( CANAIS LEGENDADOS)  ->  HBO Signature
+  HBO SIGNATURE HD ( CANAIS LEGENDADOS )  ->  HBO Signature
+  HBO Signature FHD  ->  HBO Signature
+  HBO Signature FHD [LEG]  ->  HBO Signature
+  HBO Signature H265  ->  HBO Signature
+  HBO Signature HD  ->  HBO Signature
+  HBO Signature HD [LEG]  ->  HBO Signature
+  HBO Signature SD  ->  HBO Signature
+  HBO Signature SD [LEG]  ->  HBO Signature
+  HBO Signature UHD  ->  HBO Signature
+  HBO UHD  ->  HBO
+  HBO XTREME H265  ->  HBO Xtreme
+  HBO XTREME H265 ( CANAIS LEGENDADOS)  ->  HBO Xtreme
+  HBO XTREME UHD  ->  HBO Xtreme
+  HBO Xtreme FHD  ->  HBO Xtreme
+  HBO Xtreme FHD [LEG]  ->  HBO Xtreme
+  HBO Xtreme HD  ->  HBO Xtreme
+  HBO Xtreme HD [LEG]  ->  HBO Xtreme
+  HBO Xtreme SD  ->  HBO Xtreme
+  HBO Xtreme SD [LEG]  ->  HBO Xtreme
+  HBO+ FHD  ->  HBO +
+  HBO+ FHD [LEG]  ->  HBO +
+  HBO+ H265  ->  HBO +
+  HBO+ HD  ->  HBO +
+  HBO+ HD [LEG]  ->  HBO +
+  HBO+ SD  ->  HBO +
+  HBO+ SD [LEG]  ->  HBO +
+  HBO+ UHD  ->  HBO +
+  HGTV FHD  ->  HGTV
+  HGTV H265  ->  HGTV
+  HGTV HD  ->  HGTV
+  HGTV SD  ->  HGTV
+  HGTV UHD  ->  HGTV
+  History 2 FHD  ->  History 2 HD
+  History 2 H265  ->  History 2 HD
+  History 2 HD  ->  History 2 HD
+  History 2 SD  ->  History 2 HD
+  History 2 UHD  ->  History 2 HD
+  History FHD  ->  History Hd
+  History H265  ->  History Hd
+  History HD  ->  History Hd
+  History SD  ->  History Hd
+  History UHD  ->  History Hd
+  ID FHD  ->  ID
+  ID H265  ->  ID
+  ID HD  ->  ID
+  ID SD  ->  ID
+  ID UHD  ->  ID
+  IT- CARTOONITO  ->  cartoonito
+  IT- DISCOVERY CHANNEL  ->  Discovery Channel
+  IT- Food Network HD  ->  Food Network
+  IT- HGTV HD  ->  HGTV
+  JP NEWS 4K  ->  JP News HD
+  LAT | Animal Planet  ->  Animal Planet
+  LAT | BABY TV  ->  Baby Tv
+  LAT | CARTOON NETWORK HD  ->  Cartoon Network
+  LAT | CARTOONITO HD  ->  cartoonito
+  LAT | CINECANAL HD  ->  Cinecanal
+  LAT | DISCOVERY KIDS HD  ->  Discovery Kids
+  LAT | DISNEY CHANNEL  ->  Disney Channel
+  LAT | DISNEY CHANNEL HD  ->  Disney Channel
+  LAT | Discovery Channel FHD  ->  Discovery Channel
+  LAT | Discovery Channel HD  ->  Discovery Channel
+  LAT | Discovery Science  ->  Discovery Science
+  LAT | Discovery Theater  ->  Discovery Theater HD ³
+  LAT | Discovery Turbo  ->  Discovery Turbo
+  LAT | Discovery Turbo HD (sur)  ->  Discovery Turbo
+  LAT | Discovery World HD  ->  Discovery world HD ³
+  LAT | FX HD  ->  FX
+  LAT | HBO  FHD  ->  HBO
+  LAT | HBO 2 HD  ->  HBO 2
+  LAT | HBO FAMILY FHD  ->  HBO Family
+  LAT | HBO MUNDI  ->  Hbo Mundi
+  LAT | HBO PLUS HD  ->  HBO +
+  LAT | HBO POP  ->  Hbo Pop
+  LAT | HBO SIGNATURE HD  ->  HBO Signature
+  LAT | HBO XTREME HD  ->  HBO Xtreme
+  LAT | HGTV  ->  HGTV
+  LAT | History 2  ->  History 2 HD
+  LAT | NICK JR HD  ->  Nick Jr.
+  LAT | STAR CHANNEL  ->  Star Channel
+  LAT | TNT Novelas HD  ->  Tnt novelas
+  Lifetime FHD  ->  Lifetime
+  Lifetime H265  ->  Lifetime
+  Lifetime HD  ->  Lifetime
+  Lifetime SD  ->  Lifetime
+  Lifetime UHD  ->  Lifetime
+  MEGA PIX 4K  ->  Megapix
+  MEGAPIX H265 (CANAIS LEGENDADOS)  ->  Megapix
+  MEGAPIX HD ( CANAIS LEGENDADOS )  ->  Megapix
+  MTV  UHD  ->  MTV
+  MTV FHD  ->  MTV
+  MTV H265  ->  MTV
+  MTV HD  ->  MTV
+  MTV LIVE  ->  MTV Live HD
+  MTV LIVE  ->  MTV Live HD
+  MTV LIVE FHD  ->  MTV Live HD
+  MTV LIVE HD  ->  MTV Live HD
+  MTV LIVE HD  ->  MTV Live HD
+  MTV LIVE SD  ->  MTV Live HD
+  MTV LIVE UHD  ->  MTV Live HD
+  MULTISHOW 4K  ->  Multishow
+  Megapix FHD  ->  Megapix
+  Megapix FHD [LEG]  ->  Megapix
+  Megapix H265  ->  Megapix
+  Megapix HD  ->  Megapix
+  Megapix HD [LEG]  ->  Megapix
+  Megapix SD  ->  Megapix
+  Megapix SD [LEG]  ->  Megapix
+  Megapix UHD  ->  Megapix
+  Modo Viagem FHD  ->  Modo viagem
+  Modo Viagem H265  ->  Modo viagem
+  Modo Viagem HD  ->  Modo viagem
+  Modo Viagem SD  ->  Modo viagem
+  Modo Viagem UHD  ->  Modo viagem
+  Multishow FHD  ->  Multishow
+  Multishow H265  ->  Multishow
+  Multishow HD  ->  Multishow
+  Multishow SD  ->  Multishow
+  Multishow UHD  ->  Multishow
+  Music Box Brazil FHD  ->  Music Box Brazil
+  Music Box Brazil H265  ->  Music Box Brazil
+  Music Box Brazil HD  ->  Music Box Brazil
+  Music Box Brazil SD  ->  Music Box Brazil
+  Music Box Brazil UHD  ->  Music Box Brazil
+  NATIONAL GEOGRAPHIC  FHD  ->  National Geographic
+  NATIONAL GEOGRAPHIC SD  ->  National Geographic
+  NICKELODEON HD  ->  Nickelodeon
+  National Geographic H265  ->  National Geographic
+  National Geographic UHD  ->  National Geographic
+  Nick Jr. FHD  ->  Nick Jr.
+  Nick Jr. HD  ->  Nick Jr.
+  Nick Jr. SD  ->  Nick Jr.
+  Nick Jr. UHD  ->  Nick Jr.
+  Nickelodeon FHD  ->  Nickelodeon
+  Nickelodeon H265  ->  Nickelodeon
+  Nickelodeon HD  ->  Nickelodeon
+  Nickelodeon SD  ->  Nickelodeon
+  Nickelodeon UHD  ->  Nickelodeon
+  OFF FHD  ->  Off
+  OFF H265  ->  Off
+  OFF HD  ->  Off
+  OFF SD  ->  Off
+  OFF UHD  ->  Off
+  PREMIERE 2 4K  ->  Premiere 2
+  PREMIERE CLUBES 4K  ->  Premiere Clubes
+  Playboy FHD  ->  Playboy HD
+  Playboy H265  ->  Playboy HD
+  Playboy HD  ->  Playboy HD
+  Playboy SD  ->  Playboy HD
+  Playboy UHD  ->  Playboy HD
+  Premiere 2 FHD²  ->  Premiere 2
+  Premiere 2 FHD³  ->  Premiere 2
+  Premiere 2 FHD¹  ->  Premiere 2
+  Premiere 2 H265  ->  Premiere 2
+  Premiere 2 HD²  ->  Premiere 2
+  Premiere 2 HD³  ->  Premiere 2
+  Premiere 2 HD¹  ->  Premiere 2
+  Premiere 2 SD²  ->  Premiere 2
+  Premiere 2 SD³  ->  Premiere 2
+  Premiere 2 SD¹  ->  Premiere 2
+  Premiere 2 UHD  ->  Premiere 2
+  Premiere 3 FHD²  ->  Premiere 3
+  Premiere 3 FHD³  ->  Premiere 3
+  Premiere 3 FHD¹  ->  Premiere 3
+  Premiere 3 H265  ->  Premiere 3
+  Premiere 3 HD²  ->  Premiere 3
+  Premiere 3 HD³  ->  Premiere 3
+  Premiere 3 HD¹  ->  Premiere 3
+  Premiere 3 SD²  ->  Premiere 3
+  Premiere 3 SD³  ->  Premiere 3
+  Premiere 3 SD¹  ->  Premiere 3
+  Premiere 3 UHD  ->  Premiere 3
+  Premiere 4 FHD²  ->  Premiere 4
+  Premiere 4 FHD³  ->  Premiere 4
+  Premiere 4 FHD¹  ->  Premiere 4
+  Premiere 4 H265  ->  Premiere 4
+  Premiere 4 HD²  ->  Premiere 4
+  Premiere 4 HD³  ->  Premiere 4
+  Premiere 4 HD¹  ->  Premiere 4
+  Premiere 4 SD²  ->  Premiere 4
+  Premiere 4 SD³  ->  Premiere 4
+  Premiere 4 SD¹  ->  Premiere 4
+  Premiere 4 UHD  ->  Premiere 4
+  Premiere 5 FHD²  ->  Premiere 5
+  Premiere 5 FHD³  ->  Premiere 5
+  Premiere 5 FHD¹  ->  Premiere 5
+  Premiere 5 H265  ->  Premiere 5
+  Premiere 5 HD²  ->  Premiere 5
+  Premiere 5 HD³  ->  Premiere 5
+  Premiere 5 HD¹  ->  Premiere 5
+  Premiere 5 SD²  ->  Premiere 5
+  Premiere 5 SD³  ->  Premiere 5
+  Premiere 5 SD¹  ->  Premiere 5
+  Premiere 5 UHD  ->  Premiere 5
+  Premiere 6 FHD²  ->  Premiere 6
+  Premiere 6 FHD³  ->  Premiere 6
+  Premiere 6 FHD¹  ->  Premiere 6
+  Premiere 6 H265  ->  Premiere 6
+  Premiere 6 HD²  ->  Premiere 6
+  Premiere 6 HD³  ->  Premiere 6
+  Premiere 6 HD¹  ->  Premiere 6
+  Premiere 6 SD²  ->  Premiere 6
+  Premiere 6 SD¹  ->  Premiere 6
+  Premiere 6 UHD  ->  Premiere 6
+  Premiere 7  HD³  ->  Premiere 7
+  Premiere 7 FHD²  ->  Premiere 7
+  Premiere 7 FHD³  ->  Premiere 7
+  Premiere 7 FHD¹  ->  Premiere 7
+  Premiere 7 H265  ->  Premiere 7
+  Premiere 7 HD²  ->  Premiere 7
+  Premiere 7 HD¹  ->  Premiere 7
+  Premiere 7 SD²  ->  Premiere 7
+  Premiere 7 SD¹  ->  Premiere 7
+  Premiere 7 UHD  ->  Premiere 7
+  Premiere Clubes FHD²  ->  Premiere Clubes
+  Premiere Clubes FHD³  ->  Premiere Clubes
+  Premiere Clubes FHD¹  ->  Premiere Clubes
+  Premiere Clubes H265  ->  Premiere Clubes
+  Premiere Clubes HD²  ->  Premiere Clubes
+  Premiere Clubes HD³  ->  Premiere Clubes
+  Premiere Clubes HD¹  ->  Premiere Clubes
+  Premiere Clubes SD²  ->  Premiere Clubes
+  Premiere Clubes SD³  ->  Premiere Clubes
+  Premiere Clubes SD¹  ->  Premiere Clubes
+  Premiere Clubes UHD  ->  Premiere Clubes
+  Prime Box Brazil FHD  ->  Prime Box Brazil
+  Prime Box Brazil H265  ->  Prime Box Brazil
+  Prime Box Brazil HD  ->  Prime Box Brazil
+  Prime Box Brazil SD  ->  Prime Box Brazil
+  Prime Box Brazil UHD  ->  Prime Box Brazil
+  REDE TV! 4K  ->  Rede TV
+  Record News FHD  ->  Record News 
+  Record News H265  ->  Record News 
+  Record News HD  ->  Record News 
+  Record News SD  ->  Record News 
+  Record News UHD  ->  Record News 
+  Rede Gospel FHD  ->  Rede Gospel
+  Rede Gospel H265  ->  Rede Gospel
+  Rede Gospel HD  ->  Rede Gospel
+  Rede Gospel SD  ->  Rede Gospel
+  Rede Gospel UHD  ->  Rede Gospel
+  Rede Vida FHD  ->  Rede Vida
+  Rede Vida H265  ->  Rede Vida
+  Rede Vida HD  ->  Rede Vida
+  Rede Vida SD  ->  Rede Vida
+  Rede Vida UHD  ->  Rede Vida
+  RedeTV! FHD  ->  Rede TV
+  RedeTV! H265  ->  Rede TV
+  RedeTV! HD  ->  Rede TV
+  RedeTV! SD  ->  Rede TV
+  RedeTV! UHD  ->  Rede TV
+  SPACE H265 (CANAIS LEGENDADOS )  ->  Space
+  SPACE HD (CANAIS LEGENDADOS )  ->  Space
+  STAR CHANNEL ( HD HEVC )©  ->  Star Channel
+  STAR CHANNEL FHD  ->  Star Channel
+  STAR CHANNEL SD  ->  Star Channel
+  STUDIO UNIVERSAL   (LEGENDADOS)  ->  Studio Universal
+  STUDIO UNIVERSAL H265 (LEGENDADOS)  ->  Studio Universal
+  SYFY  ->  Syfy
+  SYFY  ( HD HEVC )©  ->  Syfy
+  SYFY FHD  ->  Syfy
+  SYFY HD  ->  Syfy
+  Sabor & Arte FHD  ->  Sabor & Arte HD
+  Sabor & Arte H265  ->  Sabor & Arte HD
+  Sabor & Arte HD  ->  Sabor & Arte HD
+  Sabor & Arte SD  ->  Sabor & Arte HD
+  Sabor & Arte UHD  ->  Sabor & Arte HD
+  Sexy Hot FHD  ->  Sexy Hot
+  Sexy Hot H265  ->  Sexy Hot
+  Sexy Hot HD  ->  Sexy Hot
+  Sexy Hot SD  ->  Sexy Hot
+  Sexy Hot UHD  ->  Sexy Hot
+  Space FHD  ->  Space
+  Space FHD [LEG]  ->  Space
+  Space H265  ->  Space
+  Space HD  ->  Space
+  Space HD [LEG]  ->  Space
+  Space SD  ->  Space
+  Space SD [LEG]  ->  Space
+  Space UHD  ->  Space
+  SporTV 2  FHD²  ->  SporTV 2
+  SporTV 2 FHD³  ->  SporTV 2
+  SporTV 2 FHD¹  ->  SporTV 2
+  SporTV 2 H265  ->  SporTV 2
+  SporTV 2 HD²  ->  SporTV 2
+  SporTV 2 HD³  ->  SporTV 2
+  SporTV 2 HD¹  ->  SporTV 2
+  SporTV 2 SD²  ->  SporTV 2
+  SporTV 2 SD³  ->  SporTV 2
+  SporTV 2 SD¹  ->  SporTV 2
+  SporTV 2 UHD  ->  SporTV 2
+  SporTV 3 FHD²  ->  SporTV 3 
+  SporTV 3 FHD³  ->  SporTV 3 
+  SporTV 3 FHD¹  ->  SporTV 3 
+  SporTV 3 H265  ->  SporTV 3 
+  SporTV 3 HD²  ->  SporTV 3 
+  SporTV 3 HD³  ->  SporTV 3 
+  SporTV 3 HD¹  ->  SporTV 3 
+  SporTV 3 SD²  ->  SporTV 3 
+  SporTV 3 SD³  ->  SporTV 3 
+  SporTV 3 SD¹  ->  SporTV 3 
+  SporTV 3 UHD  ->  SporTV 3 
+  SporTV 4K  ->  SporTV
+  SporTV FHD²  ->  SporTV
+  SporTV FHD³  ->  SporTV
+  SporTV FHD¹  ->  SporTV
+  SporTV H265  ->  SporTV
+  SporTV HD²  ->  SporTV
+  SporTV HD³  ->  SporTV
+  SporTV HD¹  ->  SporTV
+  SporTV SD²  ->  SporTV
+  SporTV SD³  ->  SporTV
+  SporTV SD¹  ->  SporTV
+  SporTV UHD  ->  SporTV
+  Star Channel FHD  ->  Star Channel
+  Star Channel FHD [LEG]  ->  Star Channel
+  Star Channel H265  ->  Star Channel
+  Star Channel HD  ->  Star Channel
+  Star Channel HD [LEG]  ->  Star Channel
+  Star Channel SD  ->  Star Channel
+  Star Channel SD [LEG]  ->  Star Channel
+  Studio Universal FHD  ->  Studio Universal
+  Studio Universal H265  ->  Studio Universal
+  Studio Universal HD  ->  Studio Universal
+  Studio Universal SD  ->  Studio Universal
+  Studio Universal UHD  ->  Studio Universal
+  TCM HD  ->  TCM
+  TELECINE ACTION H265 (CANAIS LEGENDADOS)  ->  Telecine Action
+  TELECINE ACTION HD (CANAIS LEGENDADOS )  ->  Telecine Action
+  TELECINE CULT H265 (CANAIS LEGENDADOS)  ->  Telecine Cult
+  TELECINE CULT HD ( CANAIS LEGENDADOS )  ->  Telecine Cult
+  TELECINE FUN H265 (CANAIS LEGENDADOS )  ->  Telecine Fun
+  TELECINE FUN H265 (CANAIS LEGENDADOS)  ->  Telecine Fun
+  TELECINE PIPOCA H265 (CANAIS LEGENDADOS)  ->  Telecine Pipoca
+  TELECINE PIPOCA HD (CANAIS LEGENDADOS)  ->  Telecine Pipoca
+  TELECINE PREMIUM H265 (CANAIS LEGENDADOS)  ->  Telecine Premium
+  TELECINE PREMIUM HD (CANAIS LEGENDADOS)  ->  Telecine Premium
+  TELECINE TOUCH H265 (CANAIS LEGENDADOS)  ->  Telecine Touch
+  TELECINE TOUCH HD ( CANAIS LEGENDADOS)  ->  Telecine Touch
+  TLC FHD  ->  TLC
+  TLC H265  ->  TLC
+  TLC HD  ->  TLC
+  TLC SD  ->  TLC
+  TLC UHD  ->  TLC
+  TNT 4K  ->  TNT
+  TNT 4K  ->  TNT
+  TNT FHD  ->  TNT
+  TNT FHD [LEG]  ->  TNT
+  TNT H265  ->  TNT
+  TNT H265 (CANAIS LEGENDADOS)  ->  TNT
+  TNT HD  ->  TNT
+  TNT HD (CANAIS LEGENDADOS)  ->  TNT
+  TNT HD [LEG]  ->  TNT
+  TNT Novelas FHD  ->  Tnt novelas
+  TNT Novelas H265  ->  Tnt novelas
+  TNT Novelas HD  ->  Tnt novelas
+  TNT Novelas SD  ->  Tnt novelas
+  TNT Novelas UHD  ->  Tnt novelas
+  TNT SD  ->  TNT
+  TNT SD [LEG]  ->  TNT
+  TNT SERIES 4K  ->  TNT SÉRIES HD
+  TNT SERIES HD (CANAIS LEGENDADOS)  ->  TNT SÉRIES HD
+  TNT Series FHD  ->  TNT SÉRIES HD
+  TNT Series FHD [LEG]  ->  TNT SÉRIES HD
+  TNT Series H265  ->  TNT SÉRIES HD
+  TNT Series HD  ->  TNT SÉRIES HD
+  TNT Series HD [LEG]  ->  TNT SÉRIES HD
+  TNT Series SD  ->  TNT SÉRIES HD
+  TNT Series SD [LEG]  ->  TNT SÉRIES HD
+  TNT Series UHD  ->  TNT SÉRIES HD
+  TNT SÉRIES H265 (CANAIS LEGENDADOS)  ->  TNT SÉRIES HD
+  TNT UHD  ->  TNT
+  TV Aparecida FHD  ->  Tv Aparecida
+  TV Aparecida H265  ->  Tv Aparecida
+  TV Aparecida HD  ->  Tv Aparecida
+  TV Aparecida SD  ->  Tv Aparecida
+  TV Aparecida UHD  ->  Tv Aparecida
+  TV Brasil FHD  ->  TV Brasil
+  TV Brasil H265  ->  TV Brasil
+  TV Brasil HD  ->  TV Brasil
+  TV Brasil SD  ->  TV Brasil
+  TV Brasil UHD  ->  TV Brasil
+  TV Pai Eterno FHD  ->  TV Pai Eterno
+  TV Pai Eterno FHD  ->  TV Pai Eterno
+  TV Ra Tim Bum FHD  ->  TV Rá Tim Bum
+  TV Ra Tim Bum H265  ->  TV Rá Tim Bum
+  TV Ra Tim Bum HD  ->  TV Rá Tim Bum
+  TV Ra Tim Bum SD  ->  TV Rá Tim Bum
+  TV Ra Tim Bum UHD  ->  TV Rá Tim Bum
+  Telecine Action FHD  ->  Telecine Action
+  Telecine Action FHD [LEG]  ->  Telecine Action
+  Telecine Action H265  ->  Telecine Action
+  Telecine Action HD  ->  Telecine Action
+  Telecine Action HD [LEG]  ->  Telecine Action
+  Telecine Action SD  ->  Telecine Action
+  Telecine Action SD [LEG]  ->  Telecine Action
+  Telecine Action UHD  ->  Telecine Action
+  Telecine Cult FHD  ->  Telecine Cult
+  Telecine Cult FHD [LEG]  ->  Telecine Cult
+  Telecine Cult H265  ->  Telecine Cult
+  Telecine Cult HD  ->  Telecine Cult
+  Telecine Cult HD [LEG]  ->  Telecine Cult
+  Telecine Cult SD  ->  Telecine Cult
+  Telecine Cult SD [LEG]  ->  Telecine Cult
+  Telecine Cult UHD  ->  Telecine Cult
+  Telecine Fun FHD  ->  Telecine Fun
+  Telecine Fun FHD [LEG]  ->  Telecine Fun
+  Telecine Fun H265  ->  Telecine Fun
+  Telecine Fun HD  ->  Telecine Fun
+  Telecine Fun HD [LEG]  ->  Telecine Fun
+  Telecine Fun SD  ->  Telecine Fun
+  Telecine Fun SD [LEG]  ->  Telecine Fun
+  Telecine Fun UHD  ->  Telecine Fun
+  Telecine Pipoca FHD  ->  Telecine Pipoca
+  Telecine Pipoca FHD [LEG]  ->  Telecine Pipoca
+  Telecine Pipoca H265  ->  Telecine Pipoca
+  Telecine Pipoca HD  ->  Telecine Pipoca
+  Telecine Pipoca HD [LEG]  ->  Telecine Pipoca
+  Telecine Pipoca SD  ->  Telecine Pipoca
+  Telecine Pipoca SD [LEG]  ->  Telecine Pipoca
+  Telecine Pipoca UHD  ->  Telecine Pipoca
+  Telecine Premium FHD  ->  Telecine Premium
+  Telecine Premium FHD [LEG]  ->  Telecine Premium
+  Telecine Premium H265  ->  Telecine Premium
+  Telecine Premium HD  ->  Telecine Premium
+  Telecine Premium HD [LEG]  ->  Telecine Premium
+  Telecine Premium SD  ->  Telecine Premium
+  Telecine Premium SD [LEG]  ->  Telecine Premium
+  Telecine Premium UHD  ->  Telecine Premium
+  Telecine Touch FHD  ->  Telecine Touch
+  Telecine Touch FHD [LEG]  ->  Telecine Touch
+  Telecine Touch H265  ->  Telecine Touch
+  Telecine Touch HD  ->  Telecine Touch
+  Telecine Touch HD [LEG]  ->  Telecine Touch
+  Telecine Touch SD  ->  Telecine Touch
+  Telecine Touch SD [LEG]  ->  Telecine Touch
+  Telecine Touch UHD  ->  Telecine Touch
+  Trace Brazuca FHD  ->  Trace Brazuca HD
+  Trace Brazuca H265  ->  Trace Brazuca HD
+  Trace Brazuca HD  ->  Trace Brazuca HD
+  Trace Brazuca SD  ->  Trace Brazuca HD
+  Trace Brazuca UHD  ->  Trace Brazuca HD
+  UNIVERSAL TV FHD H265 (LEGENDADO)  ->  Universal TV
+  UNIVERSAL TV H265 (LEGENDADOS)  ->  Universal TV
+  USL-  DISCOVERY CHANNEL HD  ->  Discovery Channel
+  USL-  LIFETIME HD  ->  Lifetime
+  USL- A&E HD  ->  A&E
+  USL- AMC HD  ->  AMC
+  USL- AMC | HD  ->  AMC
+  USL- ANIMAL PLANET HD  ->  Animal Planet
+  USL- ANIMAL PLANET HD  ->  Animal Planet
+  USL- BABY TV HD  ->  Baby Tv
+  USL- BBC WORLD NEWS  ->  BBC World News
+  USL- CARTOON NETWORK HD  ->  Cartoon Network
+  USL- CARTOON NETWORK HD  ->  Cartoon Network
+  USL- CINEMAX HD  ->  Cinemax
+  USL- CNN INTERNATIONAL | HD  ->  CNN International
+  USL- COMEDY CENTRAL  ->  Comedy Central
+  USL- COMEDY CENTRAL  ->  Comedy Central
+  USL- DISCOVERY CHANNEL HD  ->  Discovery Channel
+  USL- DISCOVERY HD  ->  Discovery HD ³
+  USL- DISNEY CHANNEL HD  ->  Disney Channel
+  USL- E! HD  ->  E! 
+  USL- ESPN 2  ->  ESPN 2
+  USL- ESPN 2 HD  ->  ESPN 2
+  USL- ESPN 2 HD  ->  ESPN 2
+  USL- ESPN HD  ->  ESPN
+  USL- ESPN HD*  ->  ESPN
+  USL- FOOD NETWORK HD  ->  Food Network
+  USL- FX  HD  ->  FX
+  USL- HBO 2 HD  ->  HBO 2
+  USL- HBO FAMILY HD  ->  HBO Family
+  USL- HBO HD  ->  HBO
+  USL- HBO SIGNATURE HD  ->  HBO Signature
+  USL- HGTV HD  ->  HGTV
+  USL- HGTV HD  ->  HGTV
+  USL- HISTORY  ->  History Hd
+  USL- HISTORY HD  ->  History Hd
+  USL- MTV HD  ->  MTV
+  USL- NICKELODEON HD  ->  Nickelodeon
+  USL- NICKELODEON HD  ->  Nickelodeon
+  USL- PARAMOUNT NETWORK  ->  Paramount Network
+  USL- PARAMOUNT NETWORK HD  ->  Paramount Network
+  USL- SYFY HD  ->  Syfy
+  USL- TLC HD  ->  TLC
+  USL- TLC | HD  ->  TLC
+  USL- TNT FHD  ->  TNT
+  USL- TNT HD  ->  TNT
+  Universal TV FHD  ->  Universal TV
+  Universal TV H265  ->  Universal TV
+  Universal TV HD  ->  Universal TV
+  Universal TV SD  ->  Universal TV
+  Universal TV UHD  ->  Universal TV
+  Viva FHD  ->  Viva
+  Viva H265  ->  Viva
+  Viva HD  ->  Viva
+  Viva SD  ->  Viva
+  Viva UHD  ->  Viva
+  WARNER CHANNEL H265 (CANAIS LEGENDADOS)  ->  Warner Channel
+  WARNER CHANNEL HD (CANAIS LEGENDADOS)  ->  Warner Channel
+  Warner Channel FHD  ->  Warner Channel
+  Warner Channel FHD [LEG]  ->  Warner Channel
+  Warner Channel H265  ->  Warner Channel
+  Warner Channel HD  ->  Warner Channel
+  Warner Channel HD [LEG]  ->  Warner Channel
+  Warner Channel SD  ->  Warner Channel
+  Warner Channel SD [LEG]  ->  Warner Channel
+  Warner Channel UHD  ->  Warner Channel
+  Woohoo FHD  ->  Woohoo
+  Woohoo H265  ->  Woohoo
+  Woohoo HD  ->  Woohoo
+  Woohoo SD  ->  Woohoo
+  Woohoo UHD  ->  Woohoo
+  Zoomoo FHD  ->  ZooMoo
+  Zoomoo H265  ->  ZooMoo
+  Zoomoo HD  ->  ZooMoo
+  Zoomoo SD  ->  ZooMoo
+  Zoomoo UHD  ->  ZooMoo
+  [CA] A&E HD  ->  A&E
+  [CA] AMC HD  ->  AMC
+  [CA] ANIMAL PLANET HD  ->  Animal Planet
+  [CA] BBC WORLD NEWS HD  ->  BBC World News
+  [CA] CARTOON NETWORK HD  ->  Cartoon Network
+  [CA] DISCOVERY CHANNEL HD  ->  Discovery Channel
+  [CA] DISCOVERY SCIENCE HD  ->  Discovery Science
+  [CA] DISNEY CHANNEL HD  ->  Disney Channel
+  [CA] FOOD NETWORK HD  ->  Food Network
+  [CA] HBO 2 HD  ->  HBO 2
+  [CA] HBO HD  ->  HBO
+  [CA] HGTV HD  ->  HGTV
+  [CA] LIFETIME HD  ->  Lifetime
+  [CA] NICKELODEON HD  ->  Nickelodeon
+  [CA] PARAMOUNT NETWORK HD  ->  Paramount Network
+  [CA] SPACE HD  ->  Space
+  [CA] TCM HD  ->  TCM
+  [CA] TLC HD  ->  TLC
+  ֎֎֎֎MUSICA֎֎֎֎  ->  Música
+
+CANAIS DA CLARO SEM PAR NA SUA LISTA (151)
+   TV Aparecida (espelho)
+   TV Brasil 2
+   TV Pai Eterno HD
+   Universal TV HD
+  A&E HD
+  AMC HD
+  AXN HD ³
+  Agro Mais HD 
+  Animal Planet HD
+  Arte 1 HD
+  BIS HD ³
+  Band
+  Band HD
+  Band News HD
+  Band Sports HD ³
+  Bloomberg TV
+  Boa Vontade TV
+  CANAL DO CLIENTE HD
+  CGTN
+  CNN Brasil HD
+  CONMEBOL TV 4 HD
+  Canal 2
+  Canal Brasil HD ³
+  Canal Comunitário
+  Canal Legislativo
+  Canal Universitário
+  Canal de Vendas NET
+  Canal do Boi HD
+  Canal do cliente
+  Cartoon Network HD
+  Cartoonito HD
+  Cinecanal HD
+  Cinemax HD ³
+  Combate HD
+  Comedy Central HD
+  Cultura HD
+  Curta! HD
+  DW-TV
+  Discovery Home & Health
+  Discovery Home & Health HD ³
+  Discovery Kids HD ³
+  Discovery Science HD ³
+  Discovery Turbo HD ³
+  Disney Channel HD ³
+  E! HD
+  ESPN 2 HD 
+  ESPN 4 HD
+  ESPN HD ³
+  FISH TV HD
+  FOOD NETWORK HD
+  FX HD ³
+  Film&Arts HD
+  France 24 HD
+  Futura HD
+  GNT HD ³
+  Gazeta HD
+  Globo
+  Globo HD
+  GloboNews HD ³
+  Gloob HD ³
+  Gloobinho HD
+  HBO + HD
+  HBO Family HD ³
+  HBO HD 2 ³
+  HBO HD ³
+  HBO MUNDI HD
+  HBO POP HD
+  HBO Signature HD ³
+  HBO Xtreme HD
+  HGTV HD
+  ID HD ³
+  Jogos Interativos Cartoon
+  LIKE HD
+  Lifetime HD
+  MTV HD ³
+  Mega TV
+  Mega TV HD
+  Megapix HD ³
+  Modo viagem HD
+  Mosaico Multijogos
+  Multishow HD ³
+  Music Box Brazil HD ³
+  NHK World Premium
+  National Geographic HD ³
+  Nick Jr HD ³
+  Nickelodeon HD
+  Off HD ³
+  PREMIERE HD 3 ³
+  PREMIERE HD 4 ³
+  PREMIERE HD 5 ³
+  Paramount Network HD 
+  Play TV
+  Playboy TV 
+  Polishop
+  Polishop TV
+  Portal do Futebol
+  Premiere Clubes HD
+  Premiere HD 2
+  Premiere HD 6
+  Premiere HD 7
+  Prime Box Brazil HD ³
+  RAI International
+  RIT TV
+  Record
+  Record HD
+  Rede 21
+  Rede Gospel HD
+  Rede TV HD
+  Rede Vida HD
+  SBT
+  SBT HD
+  SIC International
+  STAR CHANNEL HD
+  Sextreme
+  Shoptime
+  Shoptime TV
+  Sony
+  Sony HD ³
+  Space HD ³
+  SporTV 2 HD ³
+  SporTV 3 HD ³
+  SporTV HD ³
+  Studio Universal HD
+  Syfy HD
+  TLC HD ³
+  TNT HD ³
+  TV Brasil HD
+  TV Climatempo
+  TV Câmara
+  TV Escola
+  TV Justiça
+  TV Korea
+  TV Rá Tim Bum HD ³
+  TV Senado
+  TV5 Monde
+  TVE International
+  Telecine Action HD ³
+  Telecine Cult HD ³
+  Telecine Fun HD ³
+  Telecine Pipoca HD ³
+  Telecine Premium HD ³
+  Telecine Touch HD ³
+  Terra Viva
+  The History Channel
+  Tnt novelas HD
+  Travel Box Brasil HD 
+  Venus
+  Viva HD
+  Warner Channel HD
+  Woohoo HD
+  ZooMoo HD
+
+SEM GRADE NA CLARO (3415)
+  ##### IT-  MOVIES |#####
+  ##### IT- EGLE/ PRIFAMILLA MOVIES |#####
+  ##### IT- KIDS|#####
+  ##### IT- SPORT |#####
+  (Des)encanto
+  +Canal LGBT
+  +Canal LGBT-02
+  100 Coisas para Fazer Antes de Virar Zumbi
+  100 Lobo A Lenda da Pedra da Lua
+  10:30 AL FAISALY X AL NASSR 1
+  10:30 AL FAISALY X AL NASSR 2
+  10:30 AL FAISALY X AL NASSR 3
+  13:30 STUTTGART X BORUSSIA MON 1
+  13:30 STUTTGART X BORUSSIA MON 2
+  13:30 STUTTGART X BORUSSIA MON 3
+  15:00 AL QADSIAH X AL HILAL 1
+  15:00 AL QADSIAH X AL HILAL 2
+  15:00 AL QADSIAH X AL HILAL 3
+  15:45 TORINO X MONZA 1
+  15:45 TORINO X MONZA 2
+  15:45 TORINO X MONZA 3
+  16:00 DEPORTIVO ALAVÉS X MÁLAGA 1
+  16:00 DEPORTIVO ALAVÉS X MÁLAGA 2
+  16:00 DEPORTIVO ALAVÉS X MÁLAGA 3
+  16:00 IPSWICH TOWN X FOREST 1
+  16:00 IPSWICH TOWN X FOREST 2
+  16:00 IPSWICH TOWN X FOREST 3
+  19:30 OPERÁRIO-PR X ATHLETIC CLUB-MG 1
+  19:30 OPERÁRIO-PR X ATHLETIC CLUB-MG 2
+  19:30 OPERÁRIO-PR X ATHLETIC CLUB-MG 3
+  20:00 CRUZEIRO X REMO 1
+  20:00 CRUZEIRO X REMO 2
+  20:00 CRUZEIRO X REMO 3
+  21:00 SPORT X CRICIÚMA 1
+  21:00 SPORT X CRICIÚMA 2
+  21:00 SPORT X CRICIÚMA 3
+  24 KITCHEN HD
+  24/7 CLASSICOS DISNEY
+  24/7 DRAGON BALL SUPER
+  3 Palavrinhas
+  4 Contra o Apocalipse
+  90 Dias Para Casar
+  90 Dias Para Ficar Milionario
+  A BOLA TV BACKUP
+  A BOLA TV FHD
+  A BOLA TV HD
+  A BOLA TV SD
+  A Batalha dos Piores Cozinheiros Em Pratos Limpos
+  A Boa Vizinhança - S1
+  A Boa Vizinhança - S2
+  A Boa Vizinhança - S3
+  A Boa Vizinhança - S4
+  A Boa Vizinhança - S5
+  A Boa Vizinhança - S6
+  A Boa Vizinhança - S7
+  A Casa das Brasileirinhas Temporada 94
+  A Casa das Brasileirinhas Temporada 95
+  A Casa das Brasileirinhas Temporada 96
+  A Casa de Davi
+  A Casa do Mickey Mouse
+  A Cor Do Pecado 2
+  A Cor do Pecado
+  A Crítica
+  A Esposa do Meu Marido Japao
+  A Fazenda Camera 01
+  A Fazenda Camera 02
+  A Fazenda Camera 03
+  A Fazenda Camera 04
+  A Fazenda Camera 05
+  A Fazenda Camera 06
+  A Fazenda Câmera 01
+  A Fazenda Câmera 02
+  A Fazenda Câmera 03
+  A Fazenda Câmera 04
+  A Fazenda Câmera 05
+  A Fazenda Câmera 06
+  A Fazenda Câmera 07
+  A Fazenda Câmera 08
+  A Fazenda Mosaico
+  A Grande Familia
+  A Grande Familia  - S8
+  A Grande Familia - S1
+  A Grande Familia - S10
+  A Grande Familia - S11
+  A Grande Familia - S12
+  A Grande Familia - S13
+  A Grande Familia - S14
+  A Grande Familia - S2
+  A Grande Familia - S3
+  A Grande Familia - S4
+  A Grande Familia - S5
+  A Grande Familia - S6
+  A Grande Familia - S7
+  A Grande Familia - S9
+  A Guarda do Leão
+  A Lenda de Korra
+  A Lenda de Tarzan
+  A Maldicao Da Residencia Hill
+  A Maldicao da Mansao Bly - S1
+  A Mansao Foster para Amigos Imaginarios
+  A Mumia
+  A Nova pantera Cor de Rosa
+  A Pequena Sereia
+  A Rainha da Persia
+  A Sogra Que Te Pariu S1 E S2
+  A Sombra Do Batman
+  A Turma do Pateta
+  A Vaca e o Frango
+  A Vida de Jo
+  A Xerife Callie no Oeste
+  A Árvore Familiar dos Croods
+  AFRO MUSIC SD
+  ALMA LUSA
+  AMC BREAK HD
+  AMC BREAK SD
+  AMC CRIME SD
+  APANHADOS (EXCLUSIVO)
+  AR TV
+  AXN MOVIES
+  AXN MOVIES  HD
+  AXN MOVIES ( HD HEVC )©
+  AXN MOVIES FHD
+  AXN WHITE
+  AXN WHITE ( HD HEVC )©
+  AXN WHITE FHD
+  AXN WHITE HD
+  Abella Olsen
+  Abominavel e a Cidade Escondida
+  Adan Sandler - S1
+  Adan Sandler - S2
+  Adan Sandler - S3
+  Adult Swim FHD
+  Adult Swim H265
+  Adult Swim HD
+  Adult Swim SD
+  Adult Swim UHD
+  After - Depois da Balada
+  After - Depois da Balada 2
+  Agente K.C
+  Agentes da S.H.I.E.L.D. da Marvel
+  Agentes da S.H.I.E.L.D. da Marvel - S1
+  Agentes da S.H.I.E.L.D. da Marvel - S2
+  Agentes da S.H.I.E.L.D. da Marvel - S3
+  Agentes da S.H.I.E.L.D. da Marvel - S4
+  Agentes da S.H.I.E.L.D. da Marvel - S5
+  Agentes da S.H.I.E.L.D. da Marvel - S6
+  Agentes da S.H.I.E.L.D. da Marvel - S7
+  Ah! Que Kiko
+  Ahjaponesa
+  Ahjaponesa
+  Ai Fode 2
+  Ai fode 3
+  Aladdin
+  Alien TV
+  Aline Faria
+  All of Us Are Dead
+  All of Us Are Dead - S1
+  Allan Dellon
+  Allan Dellon
+  Alquimia das Almas
+  Ana Castela
+  Andressa Urach
+  Andressa Urach
+  Andy e Seu Esquilo
+  Animaniacs
+  Anna Cherry7
+  Antonio Mallorca
+  Apple TV 1 (Eventos)
+  Apple TV 2 (Eventos)
+  Arcanjo Renegado
+  Ariel Siren
+  Arrow - S1
+  Arrow - S2
+  Arrow - S3
+  Arrow - S4
+  Arrow - S5
+  Arrow - S6
+  Arrow - S7
+  Arrow - S8
+  As Aventuras de Jackie Chan
+  As Caças Fantasmas
+  As Crônicas de Usagi  O Coelho Samurai
+  As Meninas Superpoderosas
+  As Mumias Vivas
+  As Novas Aventuras do Superman
+  As Novas Aventuras do Ursinho Puff
+  As Trapalhadas de Flapjack
+  As Visões da Raven
+  As Visões da Raven
+  Assalto e Sexo 2 Filme
+  Assassination Classroom
+  Astro Boy
+  Astro Boy
+  Ataque dos Titas
+  Ate o Chao
+  Atividade Paranormal
+  Avatar  A Lenda de Aang
+  BAND RS 4K
+  BAND SP 4K
+  BBC AME  ENG
+  BJJ STARS FHD
+  BJJ STARS HD
+  BJJ STARS SD
+  BLAZE HD
+  BLOOMBERG
+  BM&C FHD
+  BM&C H265
+  BM&C HD
+  BM&C SD
+  BM&C UHD
+  BOM SOM HD
+  BOOMERANG
+  BORU - Esquadrão Lobo
+  BR: Apple TV 01
+  BR: Apple TV 02
+  BR: Apple TV 03
+  BR: Apple TV 04
+  BR: OneFootball 01
+  BR: OneFootball 02
+  BR: OneFootball 03
+  BR: OneFootball 04
+  BRASILEIRINHAS/Agora eu sou o Patrao
+  BRASILEIRINHAS/Boa Foda 3
+  BTV  EXPERIENCE HD
+  BTV 4k
+  BTV BACKUP
+  BTV FHD
+  BTV HD
+  BTV SD
+  Baby Face 7
+  Baby Looney Tunes
+  Baki Hanma
+  Band AC Capital HD
+  Band AL Capital HD
+  Band BA Capital HD
+  Band Belém HD
+  Band Brasília HD
+  Band CE FHD
+  Band CE H265
+  Band CE HD
+  Band CE SD
+  Band CE UHD
+  Band Campinas HD
+  Band ES Capital HD
+  Band MG Capital HD
+  Band MG Triângulo Mineiro HD
+  Band Minas FHD
+  Band PA Capital HD
+  Band PB Capital HD
+  Band PE Capital HD
+  Band PI Capital HD
+  Band PR Capital HD
+  Band PR Capital HD
+  Band Paulista HD
+  Band RJ Capital FHD
+  Band RJ Capital HD
+  Band RN Capital HD
+  Band RS Capital FHD
+  Band RS Capital HD
+  Band SC Capital HD
+  Band SP FHD
+  Band SP H265
+  Band SP HD
+  Band SP SD
+  Band SP UHD
+  Band TO Capital HD
+  Barbie No Mundo Porno
+  Barretao 2022 SD
+  Barretos 2025 FHD
+  Barretos 2025 HD
+  Barretos 2025 SD
+  Barretos Rodeio
+  Basquete do Dia
+  Bastidores do Camarim
+  Bat-Familia
+  Batman vs Superman
+  Batwheels
+  Batwoman - S1 E S2
+  Batwoman - S3
+  Bebe Reporn
+  Beleza Verdadeira
+  Belinha E Cia
+  Bella Duran
+  Ben 10  Força Alienígena
+  Ben 10  Supremacia Alienígena
+  Better Call Saul
+  Beyblade
+  Beyblade X
+  Big Bang  A Teoria
+  Big Bang A Teoria - S1
+  Big Bang A Teoria - S10
+  Big Bang A Teoria - S11
+  Big Bang A Teoria - S12
+  Big Bang A Teoria - S2
+  Big Bang A Teoria - S3
+  Big Bang A Teoria - S4
+  Big Bang A Teoria - S5
+  Big Bang A Teoria - S6
+  Big Bang A Teoria - S7
+  Big Bang A Teoria - S8
+  Big Bang A Teoria - S9
+  Big Bundas Brasil
+  Black Clover
+  Black Kamen Rider
+  Black and White 11
+  Bleach
+  Blue Lock
+  Bluey
+  Boas novas FHD
+  Bob Esponja
+  Boruto  Naruto Next Generations
+  Brasileirao Serie A FHD
+  Brasileirao Serie A HD
+  Brasileirao Serie A SD
+  Brasileirao Serie C 1 FHD
+  Brasileirao Serie C 1 HD
+  Brasileirao Serie C 1 SD
+  Brasileirao Serie C 2 FHD
+  Brasileirao Serie C 2 HD
+  Brasileirao Serie C 2 SD
+  Brasileirao Serie C 3 FHD
+  Brasileirao Serie C 3 HD
+  Brasileirao Serie C 3 SD
+  Brasileirinhas-01
+  Brasileirinhas-02
+  Brasileirinhas-03
+  Brasileirinhas-04
+  Brasileirinhas-05
+  Brasileirinhas-06
+  Brasileirinhas-07
+  Brasileirinhas-08
+  Brasileirinhas-09
+  Brasileirinhas-10
+  Brasileirinhas-11
+  Brasileirinhas-12
+  Brasileirinhas-13
+  Brasileirinhas-14
+  Brasileirinhas-15
+  Brasileirinhas-16
+  Brasileirinhas-17
+  Brasileirinhas-18
+  Brasileirinhas-19
+  Brasileirinhas-20
+  Brasileirinhas-21
+  Brasileirinhas-22
+  Brasileirinhas-23
+  Brasileirinhas-24
+  Brasileirinhas-25
+  Breaking Bad  A Química do Mal
+  Brena Barbosa
+  Brida Nunes
+  Brida Nunes
+  Brooklyn Nine
+  Brooklyn Nine Nine - S1
+  Brooklyn Nine Nine - S2
+  Brooklyn Nine Nine - S3
+  Brooklyn Nine Nine - S4
+  Brooklyn Nine Nine - S5
+  Brooklyn Nine Nine - S6
+  Brooklyn Nine Nine - S7
+  Bruce Lee - S1
+  Bruce willis - S1
+  Bruce willis - S2
+  Bruce willis - S3
+  Bruce willis - S4
+  Bruce willis - S5
+  Bucetas Meladinhas
+  Buff - A Caça Vampiros
+  Bundas Gigantes 4
+  CACAVISION FHD
+  CACAVISION SD
+  CAMPO PEQUENO TV HD
+  CANAL 11
+  CANAL 11 BACKUP
+  CANAL 11 FHD
+  CANAL 11 HD
+  CANAL 180
+  CANAL HISTÓRIA SD
+  CANAL PANDA ( HD HEVC )©
+  CANAL PANDA HD
+  CANAL PANDA SD
+  CANAL Q SD
+  CANAL SONY FHD H265 (LEGENDADOS)
+  CANAL SONY H265 (LEGENDADOS)
+  CANÇÃO NOVA
+  CASA E COZINHA ( HEVEC )©
+  CASA E COZINHA SD
+  CAÇA & PESCA HD
+  CBI FHD
+  CBI H265
+  CBI HD
+  CBI SD
+  CBI UHD
+  CBS REALITY SD
+  CHARLENS BRONSON - S1
+  CHARLENS BRONSON - S2
+  CHARLENS BRONSON - S3
+  CINE Y SERIE | A&E
+  CINE Y SERIE | A&amp;E HD
+  CINE Y SERIE | AMC  HD
+  CINE Y SERIE | AMC FHD
+  CINE Y SERIE | AXN FHD
+  CINE Y SERIE | AXN HD
+  CINE Y SERIE | CINE LATINO
+  CINE Y SERIE | CINECANAL
+  CINE Y SERIE | CINECANAL HD
+  CINE Y SERIE | CINEMAX
+  CINE Y SERIE | CINEMAX FHD
+  CINE Y SERIE | COMEDIA CENTRAL
+  CINE Y SERIE | DE PELICULA PLUS
+  CINE Y SERIE | DISTRITO COMEDIA HD
+  CINE Y SERIE | FX
+  CINE Y SERIE | FXM
+  CINE Y SERIE | SONY
+  CINE Y SERIE | SONY HD
+  CINE Y SERIE | SPACE HD
+  CINE Y SERIE | STUDIO UNIVERSAL HD
+  CINE Y SERIE | SYFY
+  CINE Y SERIE | TBS
+  CINE Y SERIE | TCM
+  CINE Y SERIE | TNT HD
+  CINE Y SERIE | TNT SERIES
+  CINE Y SERIE | UNIVERSAL HD
+  CINE Y SERIE | WARNER CHANNEL HD
+  CINEMUNDO ( HD HEVC )©
+  CINEMUNDO FHD
+  CINEMUNDO HD
+  CINEMUNDO SD
+  CINE| PARAMOUNT CHANNEL FHD
+  CMTV ( HD HEVC )©
+  CMTV FHD
+  CMTV HD
+  CMTV SD
+  CNBC Brasil FHD
+  CNBC Brasil H265
+  CNBC Brasil HD
+  CNBC Brasil SD
+  CNBC Brasil UHD
+  CNBC EUROPE
+  CNN ( HD HEVC )©
+  CNN Brasil Money FHD
+  CNN Brasil Money H265
+  CNN Brasil Money HD
+  CNN Brasil Money SD
+  CNN Brasil Money UHD
+  CNN FHD
+  CNN HD
+  CNN SD
+  COMET
+  CONCACAF 1
+  CONCACAF 2
+  CONCACAF 3
+  CONCACAF 4
+  Cabare
+  Café Minamdang
+  Campeonato Catarinense 1 FHD
+  Campeonato Catarinense 1 HD
+  Campeonato Catarinense 1 SD
+  Campeonato Catarinense 2 FHD
+  Campeonato Catarinense 2 HD
+  Campeonato Catarinense 2 SD
+  Campeonato Catarinense 3 FHD
+  Campeonato Catarinense 3 HD
+  Campeonato Catarinense 3 SD
+  Campeonato Catarinense 4 FHD
+  Campeonato Catarinense 4 HD
+  Campeonato Catarinense 4 SD
+  Campeonato Paraibano 1 FHD
+  Campeonato Paraibano 1 HD
+  Campeonato Paraibano 1 SD
+  Campeonato Paraibano 2 FHD
+  Campeonato Paraibano 2 HD
+  Campeonato Paraibano 2 SD
+  Campeonato Paraibano 3 FHD
+  Campeonato Paraibano 3 HD
+  Campeonato Paraibano 3 SD
+  Campeonato Paranaense 1 FHD
+  Campeonato Paranaense 1 HD
+  Campeonato Paranaense 1 SD
+  Campeonato Paranaense 2 FHD
+  Campeonato Paranaense 2 HD
+  Campeonato Paranaense 2 SD
+  Campeonato Paranaense 3 FHD
+  Campeonato Paranaense 3 HD
+  Campeonato Paranaense 3 SD
+  Canal Goat 1²
+  Canal Goat 1³
+  Canal Goat 2 FHD¹
+  Canal Goat 2 HD¹
+  Canal Goat 2 SD¹
+  Canal Goat 2²
+  Canal Goat 2³
+  Canal Goat 3²
+  Canal Goat 3³
+  Canal Goat 4²
+  Canal Goat 4³
+  Canal Goat 5²
+  Canal Goat 5³
+  Canal Goat 6²
+  Canal Goat 6³
+  Canal Goat FHD¹
+  Canal Goat HD¹
+  Canal Goat SD¹
+  Canal Privacy Masculino
+  Canal Privacy Masculino-02
+  Canal Rodeio
+  Canal Rodeio 01
+  Canal Rodeio 02
+  Canal Sony FHD
+  Canal Sony FHD [LEG]
+  Canal Sony H265
+  Canal Sony HD
+  Canal Sony HD [LEG]
+  Canal Sony SD
+  Canal Sony SD [LEG]
+  Canal Sony UHD
+  Canal UOL FHD
+  Canal UOL HD
+  Canal UOL SD
+  Cancao Nova FHD
+  Cancao Nova H265
+  Cancao Nova HD
+  Cancao Nova SD
+  Cancao Nova UHD
+  Capitao Planeta
+  Capitão America
+  Capitão Caverna e as Panterinhas
+  Capitão Fall
+  Carlos Urach
+  Carlota O Vereador Da Putaria
+  Castle Rock - S1 E S2
+  Cavaleiro da Lua
+  Cavalo De Fogo
+  Caverna do Dragao
+  CazeTV 01²
+  CazeTV 01³
+  CazeTV 02²
+  CazeTV 02³
+  CazeTV 03²
+  CazeTV 03³
+  CazeTV 04²
+  CazeTV 04³
+  CazeTV 05²
+  CazeTV 06²
+  CazeTV FHD
+  CazeTV HD
+  CazeTV SD
+  Chainsaw Man
+  Changeman
+  Chapolin Colorado
+  Chapolin Colorado - S1
+  Chapolin Colorado - S2
+  Chapolin Colorado - S3
+  Chapolin Colorado - S4
+  Chapolin Colorado - S5
+  Chapolin Colorado - S6
+  Chapolin Colorado - S7
+  Chaves
+  Chaves - S1
+  Chaves - S2
+  Chaves - S3
+  Chaves - S4
+  Chaves - S5
+  Chaves - S6
+  Chaves - S7
+  Chaves Desenhos - 01
+  Chaves Desenhos - 02
+  Chesperito - 01
+  Chesperito - 02
+  Chesperito - 03
+  Chesperito - 04
+  Chuck
+  Chuck Norris - S1
+  Chuck Norris - S2
+  Chucky A Série - S1 E S2
+  Chucky A Série - S3
+  Cidade dos Mortos - S1
+  Cinderela
+  Cine Play 01
+  Cine Play 02
+  Cine Play 03
+  Cine Play 04
+  Cine Play 05
+  Cine Play 06
+  Cine Play 07
+  Cine Play 08
+  Cine Play 09
+  Cine Play 10
+  Cine SKY 01
+  Cine SKY 02
+  Cine SKY 03
+  Cine SKY 04
+  Cine SKY 05
+  Cine SKY 06
+  Cine SKY 07
+  Cine SKY 08
+  Cine SKY 09
+  Cine SKY 10
+  Code Geass
+  Colegiais Rebeldes
+  Comemoração Sexual
+  Conexão com Deus 01
+  Conexão com Deus 02
+  Conexão com Deus 03
+  Conexão com Deus 04
+  Constantine - S1
+  Convencao das Bucas
+  Copa da Brasileirinhas Filme
+  Copa do Brasil 1 FHD
+  Copa do Brasil 1 HD
+  Copa do Brasil 1 SD
+  Copa do Brasil 2 FHD
+  Copa do Brasil 2 HD
+  Copa do Brasil 2 SD
+  Copa do Brasil 3 FHD
+  Copa do Brasil 3 HD
+  Copa do Brasil 3 SD
+  Copa do Brasil 4 FHD
+  Copa do Brasil 4 HD
+  Copa do Brasil 4 SD
+  Copa do Nordeste 1 FHD
+  Copa do Nordeste 1 HD
+  Copa do Nordeste 1 SD
+  Copa do Nordeste 2 FHD
+  Copa do Nordeste 2 HD
+  Copa do Nordeste 2 SD
+  Copa do Nordeste 3 FHD
+  Copa do Nordeste 3 HD
+  Copa do Nordeste 3 SD
+  Coracao de Ferro
+  Coragem O Cao Covarde
+  Corrida Maluca
+  Cowboy Bebop
+  Crespusculo
+  Crônicas de um Aristocrata em Outro Mundo
+  Cuckold - Casal no Pau 4
+  Cuphead A Serie
+  Curtindo a Pica Adoidado
+  Cyberpunk  Mercenários
+  DAN DA DAN
+  DANIELA MATARAZZO
+  DAZN 1 4K
+  DAZN 1 BACKUP
+  DAZN 1 BACKUP*
+  DAZN 1 FHD
+  DAZN 1 FHD
+  DAZN 1 HD
+  DAZN 1 HD
+  DAZN 1 SD
+  DAZN 1 SD
+  DAZN 1³
+  DAZN 2 FHD
+  DAZN 2 FHD
+  DAZN 2 HD
+  DAZN 2 HD
+  DAZN 2 SD
+  DAZN 2 SD
+  DAZN 2 SD BACKUP
+  DAZN 2 SD BACKUP*
+  DAZN 2³
+  DAZN 3 BACKUP
+  DAZN 3 FHD
+  DAZN 3 HD
+  DAZN 3 SD
+  DAZN 3³
+  DAZN 4 BACKUP
+  DAZN 4 FHD
+  DAZN 4 HD
+  DAZN 4 SD
+  DAZN 4³
+  DAZN 5 FHD
+  DAZN 5 HD
+  DAZN 5 SD
+  DAZN MOSAICO FHD
+  DC
+  DC's Legends Of Tomorrow - S1
+  DC's Legends Of Tomorrow - S2
+  DC's Legends Of Tomorrow - S3
+  DC's Legends Of Tomorrow - S4
+  DC's Legends Of Tomorrow - S5
+  DC's Legends Of Tomorrow - S6
+  DC's Legends Of Tomorrow - S7
+  DEMON LORD 2099
+  DEPORTE | ADRENALINA SPORTS NETWORK FHD
+  DEPORTE | BEIN SPORTS ING HD
+  DEPORTE | CDF HD
+  DEPORTE | CDF PREMIUM
+  DEPORTE | CDO BASICO
+  DEPORTE | CLARO SPORTS
+  DEPORTE | DIRECTV SPORTS 2
+  DEPORTE | DIRECTV SPORTS PLUS
+  DEPORTE | DIRECTV SPOSTS 1
+  DEPORTE | ESPN 1 HD MX
+  DEPORTE | ESPN 1 HQ col
+  DEPORTE | ESPN 2 FHD col
+  DEPORTE | ESPN 2 HD MX
+  DEPORTE | ESPN 2 HD chi
+  DEPORTE | ESPN 2 SQ col
+  DEPORTE | ESPN 2 SQ sur
+  DEPORTE | ESPN 3 HD MX
+  DEPORTE | ESPN 3 SQ arg
+  DEPORTE | ESPN 4
+  DEPORTE | ESPN 6
+  DEPORTE | ESPN EXTRA  sur HD
+  DEPORTE | ESPN PREMIUM FHD
+  DEPORTE | FORMULA 1
+  DEPORTE | FOX SPORTS 1 HD mx
+  DEPORTE | FOX SPORTS 1 HD sur
+  DEPORTE | FOX SPORTS 1 HQ sur
+  DEPORTE | FOX SPORTS 2 HD sur
+  DEPORTE | FOX SPORTS 2 HQ sur
+  DEPORTE | FOX SPORTS 2 SQ sur
+  DEPORTE | FOX SPORTS 3 HD sur
+  DEPORTE | FOX SPORTS PREMIUM
+  DEPORTE | FUTV TV HD
+  DEPORTE | LA LIGA HD
+  DEPORTE | LIGA DE CAMPEONES
+  DEPORTE | MLB HD
+  DEPORTE | MOVISTAR DEPORTE
+  DEPORTE | NBA HD
+  DEPORTE | REAL MADRID TV
+  DEPORTE | TENNIS CHANNEL
+  DEPORTE | TOROS TV HD
+  DEPORTE | TUDN
+  DEPORTE | TUDN X1 HD
+  DEPORTE | TUDN X10 HD
+  DEPORTE | TUDN X11 HD
+  DEPORTE | TUDN X2 HD
+  DEPORTE | TUDN X3 HD
+  DEPORTE | TUDN X4 HD
+  DEPORTE | TUDN X5 HD
+  DEPORTE | TUDN X6 HD
+  DEPORTE | TUDN X7 HD
+  DEPORTE | TUDN X8 HD
+  DEPORTE | TUDN X9 HD
+  DEPORTE | TYC SPORTS FHD
+  DEPORTE | UNIVISION TUDN
+  DEPORTE | WIN SPORTS +
+  DEPORTE | WIN SPORTS HD
+  DEPORTE| GOLF CHANNEL LATINO FHD
+  DEPORTE| SKY SPORTS PREMIER LEAGUE
+  DEPORTE| ZONA TUDN
+  DISCOVERY ID
+  DISNEY +
+  DISNEY JUNIOR SD
+  DISNEY MARVEL
+  DISNEY PIXAR
+  DISNEY PIXAR (EXCLUSIVO)
+  DISNEY STAR WARS
+  DISNEY+ (EXCLUSIVO)
+  DISNEY+ BASQUETE 1
+  DISNEY+ BASQUETE 2
+  DISNEY+ BASQUETE 3
+  DISNEY+ BASQUETE 4
+  DISNEY+ BASQUETE 5
+  DISNEY+ BASQUETE 6
+  DISNEY+ TENIS 1
+  DISNEY+ TENIS 10
+  DISNEY+ TENIS 11
+  DISNEY+ TENIS 12
+  DISNEY+ TENIS 13
+  DISNEY+ TENIS 14
+  DISNEY+ TENIS 15
+  DISNEY+ TENIS 16
+  DISNEY+ TENIS 17
+  DISNEY+ TENIS 18
+  DISNEY+ TENIS 19
+  DISNEY+ TENIS 2
+  DISNEY+ TENIS 20
+  DISNEY+ TENIS 3
+  DISNEY+ TENIS 4
+  DISNEY+ TENIS 5
+  DISNEY+ TENIS 6
+  DISNEY+ TENIS 7
+  DISNEY+ TENIS 8
+  DISNEY+ TENIS 9
+  DIZI CHANNEL
+  Dani Motta
+  Daniel Tigre
+  Danny Mancini
+  Danny Mancini
+  Danny Phantom
+  Darkwing Duck
+  De Volta As Aulas 2
+  Death Note
+  Debora Peixoto
+  Debora Peixoto
+  Defensores da Terra
+  Delivery Do Sexo
+  Demolidor Renascido
+  Demon Slayer Kimetsu no Yaiba
+  Denzel Wanshington - S1
+  Denzel Wanshington - S2
+  Depois da obra sexo
+  Depois dos 40 2024
+  Descendentes do Sol
+  Desenhos Biblicos - 01
+  Desenhos Biblicos - 01
+  Desenhos Biblicos - 02
+  Desenhos Biblicos - 02
+  Desenhos Biblicos - 03
+  Desenhos Biblicos - 03
+  Desenhos Biblicos - 04
+  Desenhos Biblicos - 04
+  Desenhos Biblicos - 05
+  Desenhos Biblicos - 05
+  Desenhos Biblicos 01
+  Desenhos Biblicos 02
+  Deus me Adicionou
+  Deusas Negras
+  Deuses Americanos - S1
+  Deuses Americanos - S2
+  Deuses Americanos - S3
+  Digimon Adventure
+  Digimon Savers
+  Digimon Tamers
+  Disc. Home & Health FHD
+  Disc. Home & Health H265
+  Disc. Home & Health HD
+  Disc. Home & Health SD
+  Disc. Home & Health UHD
+  Discovery H&H 4K
+  Disney+ 01
+  Disney+ 01 Alt
+  Disney+ 01 FHD²
+  Disney+ 01 HD²
+  Disney+ 01 HD³
+  Disney+ 02
+  Disney+ 02 Alt
+  Disney+ 02 FHD²
+  Disney+ 02 HD²
+  Disney+ 02 HD³
+  Disney+ 03
+  Disney+ 03 FHD²
+  Disney+ 03 HD²
+  Disney+ 03 HD³
+  Disney+ 04
+  Disney+ 04 FHD²
+  Disney+ 04 HD²
+  Disney+ 04 HD³
+  Disney+ 05
+  Disney+ 05 FHD²
+  Disney+ 05 HD²
+  Disney+ 05 HD³
+  Disney+ 06
+  Disney+ 06 FHD²
+  Disney+ 06 HD²
+  Disney+ 06 HD³
+  Disney+ 07
+  Disney+ 07 HD²
+  Disney+ 07 HD²
+  Disney+ 07 HD³
+  Disney+ 08
+  Disney+ 08 HD²
+  Disney+ 08 HD³
+  Disney+ 09
+  Disney+ 09 HD²
+  Disney+ 09 HD³
+  Disney+ 10
+  Disney+ 10 HD²
+  Disney+ 10 HD³
+  Disney+ 11
+  Disney+ 11 HD²
+  Disney+ 12
+  Disney+ 12 HD²
+  Disney+ 13
+  Disney+ 13 HD²
+  Disney+ 14
+  Disney+ 15
+  Disney+ 16
+  Dois Homens e Meio
+  Dois Homens e Meio - S1
+  Dois Homens e Meio - S10
+  Dois Homens e Meio - S11
+  Dois Homens e Meio - S12
+  Dois Homens e Meio - S2
+  Dois Homens e Meio - S3
+  Dois Homens e Meio - S4
+  Dois Homens e Meio - S5
+  Dois Homens e Meio - S6
+  Dois Homens e Meio - S7
+  Dois Homens e Meio - S8
+  Dois Homens e Meio - S9
+  Dois Homens e Meio 2
+  Dora a Aventureira
+  Dormi e Acordei Gozada 3
+  Dororo
+  Doug
+  Dr Clitoris 2
+  Dr. Stone
+  Dragon Ball Daima
+  Dragon Ball GT
+  Dragon Ball Super
+  Dragon Ball Z
+  Dragon Ball Z Saga Android
+  Dragon Ball Z Saga Cell
+  Dragon Ball Z Saga Freeza
+  Dragon Ball Z Saga Saiyajin
+  Dragon Ball clássico
+  Dragon Quest
+  Dragões  Os Nove Reinos
+  DreamWorks HD
+  Drii Cordeiro
+  Drii Cordeiro
+  Du Dudu e Edu
+  Duck Dodgers
+  DuckTales  Os Caçadores de Aventuras
+  Dupla Penetracao 3
+  E! ENTERTAINMENT SD
+  ENTRE |  El Gourmet
+  ENTRE |  FOOD NETWORK HD
+  ENTRE |  Galavision
+  ENTRE |  HOLA HD
+  ENTRE |  MÃS CHIC HD
+  ENTRE |  PASIONES HD
+  ENTRE |  RCN TELENOVELAS
+  ENTRE |  TELEMUNDO 51 MIAMI
+  ENTRE |  TRU TV HD
+  ENTRE |  UNICABLE
+  ENTRE |  UNIVISION MIAMI HD
+  ENTRE | America Teve Miami
+  ENTRE | CANAL DE LAS ESTRELLAS HD
+  ENTRE | CNN ESPAÑOL
+  ENTRE | Kanal D Drama
+  ENTRE | LAS ESTRELLAS HD
+  ENTRE | LIFETIME HD
+  ENTRE | Mega HD
+  ENTRE | TELEMUNDO INTERNACIONAL HD
+  ENTRE | TLNOVELAS
+  ENTRE | UNIMAS
+  ES:  Movistar LaLiga  HD
+  ES: #VAMOS
+  ES: 13TV
+  ES: 40 Principales
+  ES: A3SERIES
+  ES: ANDALUCIA TV
+  ES: ANTENA 3 HD
+  ES: AXN WHITE HD
+  ES: BABY
+  ES: BARCA TV
+  ES: BARCA TV
+  ES: BEIN LALIGA
+  ES: BEIN SPORTS HD
+  ES: BEMAD
+  ES: BLAZE
+  ES: BLOOMBERG
+  ES: BOING
+  ES: BOM CINE
+  ES: CALLE 13 HD
+  ES: CANAL COCINA
+  ES: CANAL MALAGA
+  ES: CLAN TV
+  ES: CNN
+  ES: COSMO HD
+  ES: CRIMEN E INVESTIGACION
+  ES: CUATRO HD
+  ES: Cadena 100
+  ES: Cadena Dial
+  ES: Cadena Ser
+  ES: DE CASA
+  ES: DISNEY JUNIOR
+  ES: DIVINITY
+  ES: Deportes
+  ES: Disney JR
+  ES: Dkiss
+  ES: Dmax
+  ES: ENERGY
+  ES: EUROSPORT
+  ES: EUROSPORT 1
+  ES: EUROSPORT 2
+  ES: FDF
+  ES: FOX HD
+  ES: FOX LIFE HD
+  ES: GOL TV
+  ES: HISTORIA
+  ES: HOLLYWOOD HD
+  ES: IBERALIA
+  ES: INTERECONOMIA
+  ES: LA 1 HD
+  ES: LA 2
+  ES: LA SEXTA HD
+  ES: LALIGA TV
+  ES: LALIGATV HD
+  ES: LIGA CAMPEONES HD
+  ES: LIGA DE CAMPEONES 1
+  ES: LIGA DE CAMPEONES 2
+  ES: LaLigaTV  h265
+  ES: M+ ESTRENOS HD
+  ES: M80
+  ES: MELILLA TV
+  ES: MOVISTAR ACCION HD
+  ES: MOVISTAR COMEDIA HD
+  ES: MOVISTAR CineDoc&Roll
+  ES: MOVISTAR DCINE ESPANOL
+  ES: MOVISTAR DEPORTES
+  ES: MOVISTAR DRAMA
+  ES: MOVISTAR F1
+  ES: MOVISTAR F1 HD
+  ES: MOVISTAR GOLF HD
+  ES: MOVISTAR LA  LIGA H265
+  ES: MOVISTAR LIGA DE CAMPEONES FHD
+  ES: MOVISTAR LIGA DE CAMPEONES HD
+  ES: MOVISTAR SERIES
+  ES: MOVISTAR SERIES 2
+  ES: Mega
+  ES: NAT GEO WILD
+  ES: NEOX
+  ES: NOVA
+  ES: ODISEA
+  ES: Onda Cero
+  ES: PANDA
+  ES: PARAMOUNT
+  ES: REAL MADRID TV
+  ES: RNE1
+  ES: SOMOS
+  ES: Sky Sports Premier League
+  ES: Sundance Tv
+  ES: TELECINCO HD
+  ES: TELEDEPORTE
+  ES: TELEMADRID
+  ES: TEN
+  ES: TVE 24h
+  ES: VAMOS M+ FHD
+  ES: VIAJAR
+  ES: cadena Cope
+  ESPN Extra FHD
+  ESPN Extra H265
+  ESPN Extra HD
+  ESPN Extra SD
+  ESPN Extra UHD
+  EURONEWS
+  EUROSPORT 1 FHD
+  EUROSPORT 1 HD
+  EUROSPORT 2 FHD
+  EUROSPORT 2 HD
+  EXCLUSIVO - DISNEY(PT)
+  EXCLUSIVO - MARVEL(PT)
+  Edens Zero
+  Eduardo Costa
+  Ela Manda Eu Obedeco 3
+  Eles - S1 E S2
+  Eletricista Tarado
+  Elisa Sanches
+  Escolinha do Professor Raimundo - 01
+  Escolinha do Professor Raimundo - 02
+  Escolinha do Professor Raimundo - 03
+  Escolinha do Professor Raimundo - 04
+  Esquadrilha Parafuso
+  Esquadrão Suicida
+  Ester Muniz
+  Estter-Muniz
+  Eu A Patroa E As Criancas - S1
+  Eu A Patroa E As Criancas - S2
+  Eu A Patroa E As Criancas - S3
+  Eu A Patroa E As Criancas - S4
+  Eu A Patroa E As Criancas - S5
+  Executiva Safada
+  F1 - M. DAZN - ES
+  F1 - SKY SPORTS - UK
+  F1 CAM 01
+  F1 CAM 02
+  F1 CAM 03
+  F1 CAM 04
+  F1 CAM 05
+  F1 CAM 06
+  F1 CAM 07
+  F1 CAM 08
+  F1 CAM 09
+  F1 CAM 10
+  F1 CAM 11
+  F1 CAM 12
+  F1 CAM 13
+  F1 CAM 14
+  F1 CAM 15
+  F1 CAM 16
+  F1 CAM 17
+  F1 CAM 18
+  F1 CAM 19
+  F1 CAM 20
+  F1 CAM 21
+  F1 CAM 22
+  F1 CAR 1
+  F1 CAR 10
+  F1 CAR 11
+  F1 CAR 12
+  F1 CAR 13
+  F1 CAR 14
+  F1 CAR 15
+  F1 CAR 16
+  F1 CAR 17
+  F1 CAR 18
+  F1 CAR 19
+  F1 CAR 2
+  F1 CAR 3
+  F1 CAR 4
+  F1 CAR 5
+  F1 CAR 6
+  F1 CAR 7
+  F1 CAR 8
+  F1 CAR 9
+  F1 DATA
+  F1 DRIVER
+  F1 MAIN
+  F1 OFICIAL
+  F1 PRESENTATION
+  FCF TV 1 FHD
+  FCF TV 1 HD
+  FCF TV 1 SD
+  FCF TV 2 FHD
+  FCF TV 2 HD
+  FCF TV 2 SD
+  FCF TV 3 FHD
+  FCF TV 3 HD
+  FCF TV 3 SD
+  FDR  UHD
+  FDR H265
+  FDR HD
+  FILOUFITT
+  FIREMAN SAM HD
+  FOX NEWS
+  FOX Sports 2 FHD
+  FOX Sports 2 H265
+  FOX Sports 2 HD
+  FOX Sports 2 SD
+  FOX Sports 2 UHD
+  FUEL TV FHD
+  FUEL TV HD
+  FXX
+  Fadynha
+  Fairy Tail
+  Faisca e Fumaça
+  Falcão e o Soldado Invernal
+  Familia Dinossauros
+  Família Moderna - S1
+  Família Moderna - S10
+  Família Moderna - S11
+  Família Moderna - S2
+  Família Moderna - S3
+  Família Moderna - S4
+  Família Moderna - S5
+  Família Moderna - S6
+  Família Moderna - S7
+  Família Moderna - S8
+  Família Moderna - S9
+  Febre do Ouro
+  Febre do Ouro Corredeiras do Alasca
+  Feliz Analtal
+  Fernanda-Ribeiro
+  Festa do Pijama
+  Fetiche Por Pes 4
+  Fetiche por Pes 3
+  Fight Box
+  Fight Network
+  Fim de Semana em Campos
+  Fire Force
+  Flagras de Sexo
+  Flamengo TV (Evento)
+  Flash - S1
+  Flash - S2
+  Flash - S3
+  Flash - S4
+  Flash - S5
+  Flash - S6
+  Flash - S7
+  Flash - S8
+  Flash - S9
+  Formula 1 TV FHD
+  Formula 1 TV HD
+  Formula 1 TV SD
+  Forum 35
+  Forum 36
+  Forum 37
+  Free Willy
+  Friends
+  Friends  - S4
+  Friends - S1
+  Friends - S10
+  Friends - S2
+  Friends - S3
+  Friends - S5
+  Friends - S6
+  Friends - S7
+  Friends - S8
+  Friends - S9
+  Frieren e a Jornada para o Alem
+  Fui Provocar e Levei Rola
+  Fullmetal Alchemist  Brotherhood
+  Fumetsu No Anata E
+  Furacao Live FHD
+  Furacao Live HD
+  Furacao Live SD
+  Futebol do Dia
+  Futurama
+  FÁTIMA TV
+  GAMETOON
+  GAY  - 02
+  GAY - 01
+  GAY - 03
+  GAY - 04
+  GAY - 05
+  GE TV FHD
+  GETV HD
+  GINX ESPORTS TV
+  GLOBO BAHIA 4K
+  GLOBO BRASILIA 4K
+  GLOBO MINAS 4K
+  GLOBO RBS TV 4K
+  GLOBO RJ 4K
+  GLOBO SP 4K
+  Game Shakers
+  Game of Thrones
+  Gang Bang 2024
+  Gang Bang 2025
+  Gargulas
+  Gato Falsificado
+  Gato Felix
+  Gauchos
+  Gavião Arqueiro
+  Gideões 2026
+  Gigablaster
+  Gigantossauro
+  Globo AC - Rio Branco FHD
+  Globo AC - Rio Branco HD
+  Globo AC - Rio Branco SD
+  Globo AL - Maceio FHD
+  Globo AL - Maceio HD
+  Globo AL - Maceio SD
+  Globo AM - Manaus FHD
+  Globo AM - Manaus HD
+  Globo AM - Manaus SD
+  Globo AP - Macapa FHD
+  Globo AP - Macapa HD
+  Globo AP - Macapa SD
+  Globo BA - Salvador FHD
+  Globo BA - Salvador HD
+  Globo BA - Salvador SD
+  Globo CE - Fortaleza FHD
+  Globo CE - Fortaleza HD
+  Globo CE - Fortaleza SD
+  Globo DF - Brasilia FHD
+  Globo DF - Brasilia HD
+  Globo DF - Brasilia SD
+  Globo EPTV Campinas FHD
+  Globo EPTV Campinas HD
+  Globo EPTV Campinas SD
+  Globo EPTV Central Sao Carlos FHD
+  Globo EPTV Central Sao Carlos HD
+  Globo EPTV Central Sao Carlos SD
+  Globo EPTV Ribeirão Preto FHD
+  Globo EPTV Ribeirão Preto HD
+  Globo EPTV Ribeirão Preto SD
+  Globo EPTV Sul de Minas FHD
+  Globo EPTV Sul de Minas HD
+  Globo EPTV Sul de Minas SD
+  Globo ES - Vitoria FHD
+  Globo ES - Vitoria HD
+  Globo ES - Vitoria SD
+  Globo ES TV Gazeta Sul FHD
+  Globo ES TV Gazeta Sul HD
+  Globo ES TV Gazeta Sul SD
+  Globo GO - Goiania FHD
+  Globo GO - Goiania HD
+  Globo GO - Goiania SD
+  Globo Inter TV Alto Litoral FHD
+  Globo Inter TV Alto Litoral HD
+  Globo Inter TV Alto Litoral SD
+  Globo Inter TV Costa Branca FHD
+  Globo Inter TV Costa Branca HD
+  Globo Inter TV Costa Branca SD
+  Globo Inter TV Grande Minas FHD
+  Globo Inter TV Grande Minas HD
+  Globo Inter TV Grande Minas SD
+  Globo Inter TV Serra Mar FHD
+  Globo Inter TV Serra Mar HD
+  Globo Inter TV Serra Mar SD
+  Globo Inter TV dos Vales FHD
+  Globo Inter TV dos Vales HD
+  Globo Inter TV dos Vales SD
+  Globo MA - Sao Luis FHD
+  Globo MA - Sao Luis HD
+  Globo MA - Sao Luis SD
+  Globo MG - Belo Horizonte FHD
+  Globo MG - Belo Horizonte HD
+  Globo MG - Belo Horizonte SD
+  Globo MS - Campo Grande FHD
+  Globo MS - Campo Grande HD
+  Globo MS - Campo Grande SD
+  Globo MT - Cuiaba FHD
+  Globo MT - Cuiaba HD
+  Globo MT - Cuiaba SD
+  Globo NSC TV Blumenau FHD
+  Globo NSC TV Blumenau HD
+  Globo NSC TV Blumenau SD
+  Globo NSC TV Centro Oeste FHD
+  Globo NSC TV Centro Oeste HD
+  Globo NSC TV Centro Oeste SD
+  Globo NSC TV Chapeco FHD
+  Globo NSC TV Chapeco HD
+  Globo NSC TV Chapeco SD
+  Globo NSC TV Criciuma FHD
+  Globo NSC TV Criciuma HD
+  Globo NSC TV Criciuma SD
+  Globo NSC TV Joinville FHD
+  Globo NSC TV Joinville HD
+  Globo NSC TV Joinville SD
+  Globo Nordeste FHD
+  Globo Nordeste HD
+  Globo Nordeste SD
+  Globo PA - Belem FHD
+  Globo PA - Belem HD
+  Globo PA - Belem SD
+  Globo PB - João Pessoa FHD
+  Globo PB - João Pessoa HD
+  Globo PB - João Pessoa SD
+  Globo PE - Recife FHD
+  Globo PE - Recife HD
+  Globo PE - Recife SD
+  Globo PI - Teresina FHD
+  Globo PI - Teresina HD
+  Globo PI - Teresina SD
+  Globo PR - Curitiba FHD
+  Globo PR - Curitiba HD
+  Globo PR - Curitiba SD
+  Globo RBS TV Bage FHD
+  Globo RBS TV Bage HD
+  Globo RBS TV Bage SD
+  Globo RBS TV Caxias do Sul FHD
+  Globo RBS TV Caxias do Sul HD
+  Globo RBS TV Caxias do Sul SD
+  Globo RBS TV Cruz Alta FHD
+  Globo RBS TV Cruz Alta HD
+  Globo RBS TV Cruz Alta SD
+  Globo RBS TV Erechim FHD
+  Globo RBS TV Erechim HD
+  Globo RBS TV Erechim SD
+  Globo RBS TV Passo Fundo FHD
+  Globo RBS TV Passo Fundo HD
+  Globo RBS TV Passo Fundo SD
+  Globo RBS TV Pelotas FHD
+  Globo RBS TV Pelotas HD
+  Globo RBS TV Pelotas SD
+  Globo RBS TV Santa Cruz do Sul FHD
+  Globo RBS TV Santa Cruz do Sul HD
+  Globo RBS TV Santa Cruz do Sul SD
+  Globo RBS TV Santa Maria FHD
+  Globo RBS TV Santa Maria HD
+  Globo RBS TV Santa Maria SD
+  Globo RBS TV Santa Rosa FHD
+  Globo RBS TV Santa Rosa HD
+  Globo RBS TV Santa Rosa SD
+  Globo RBS TV Uruguaiana FHD
+  Globo RBS TV Uruguaiana HD
+  Globo RBS TV Uruguaiana SD
+  Globo RJ - Rio de Janeiro FHD
+  Globo RJ - Rio de Janeiro HD
+  Globo RJ - Rio de Janeiro SD
+  Globo RN - Natal FHD
+  Globo RN - Natal HD
+  Globo RN - Natal SD
+  Globo RO - Porto Velho FHD
+  Globo RO - Porto Velho HD
+  Globo RO - Porto Velho SD
+  Globo RPC Cascavel FHD
+  Globo RPC Cascavel HD
+  Globo RPC Cascavel SD
+  Globo RPC TV Foz do Iguacu FHD
+  Globo RPC TV Foz do Iguacu HD
+  Globo RPC TV Foz do Iguacu SD
+  Globo RPC TV Guarapuava FHD
+  Globo RPC TV Guarapuava HD
+  Globo RPC TV Guarapuava SD
+  Globo RPC TV Londrina FHD
+  Globo RPC TV Londrina HD
+  Globo RPC TV Londrina SD
+  Globo RPC TV Maringa FHD
+  Globo RPC TV Maringa HD
+  Globo RPC TV Maringa SD
+  Globo RPC TV Paranavai FHD
+  Globo RPC TV Paranavai HD
+  Globo RPC TV Paranavai SD
+  Globo RPC TV Ponta Grossa FHD
+  Globo RPC TV Ponta Grossa HD
+  Globo RPC TV Ponta Grossa SD
+  Globo RR - Boa Vista FHD
+  Globo RR - Boa Vista HD
+  Globo RR - Boa Vista SD
+  Globo RS - Porto Alegre FHD
+  Globo RS - Porto Alegre HD
+  Globo RS - Porto Alegre SD
+  Globo Rede Amazonas Arquemes FHD
+  Globo Rede Amazonas Arquemes HD
+  Globo Rede Amazonas Arquemes SD
+  Globo Rede Amazonica Amapa FHD
+  Globo Rede Amazonica Amapa HD
+  Globo Rede Amazonica Amapa SD
+  Globo Rede Bahia TV Oeste FHD
+  Globo Rede Bahia TV Oeste HD
+  Globo Rede Bahia TV Oeste SD
+  Globo Rede Bahia TV Santa Cruz FHD
+  Globo Rede Bahia TV Santa Cruz HD
+  Globo Rede Bahia TV Santa Cruz SD
+  Globo SC - Florianopolis FHD
+  Globo SC - Florianopolis HD
+  Globo SC - Florianopolis SD
+  Globo SE - Aracaju FHD
+  Globo SE - Aracaju HD
+  Globo SE - Aracaju SD
+  Globo SP - São Paulo FHD
+  Globo SP - São Paulo H265
+  Globo SP - São Paulo HD
+  Globo SP - São Paulo SD
+  Globo SP - São Paulo UHD
+  Globo TO - Palmas FHD
+  Globo TO - Palmas HD
+  Globo TO - Palmas SD
+  Globo TV Alvorada do Sul FHD
+  Globo TV Alvorada do Sul HD
+  Globo TV Alvorada do Sul SD
+  Globo TV Anhanguera Anapolis FHD
+  Globo TV Anhanguera Anapolis HD
+  Globo TV Anhanguera Anapolis SD
+  Globo TV Anhanguera Itumbiara FHD
+  Globo TV Anhanguera Itumbiara HD
+  Globo TV Anhanguera Itumbiara SD
+  Globo TV Anhanguera Luziania FHD
+  Globo TV Anhanguera Luziania HD
+  Globo TV Anhanguera Luziania SD
+  Globo TV Anhanguera Rio Verde FHD
+  Globo TV Anhanguera Rio Verde HD
+  Globo TV Anhanguera Rio Verde SD
+  Globo TV Asa Branca FHD
+  Globo TV Asa Branca HD
+  Globo TV Asa Branca SD
+  Globo TV Centro America Rondonopolis FHD
+  Globo TV Centro America Rondonopolis HD
+  Globo TV Centro America Rondonopolis SD
+  Globo TV Centro America Sinop FHD
+  Globo TV Centro America Sinop HD
+  Globo TV Centro America Sinop SD
+  Globo TV Diario Mogi das Cruzes FHD
+  Globo TV Diario Mogi das Cruzes HD
+  Globo TV Diario Mogi das Cruzes SD
+  Globo TV Fronteira Presidente Prudente FHD
+  Globo TV Fronteira Presidente Prudente HD
+  Globo TV Fronteira Presidente Prudente SD
+  Globo TV Gazeta de Alagoas FHD
+  Globo TV Gazeta de Alagoas HD
+  Globo TV Grande Rio FHD
+  Globo TV Grande Rio HD
+  Globo TV Grande Rio SD
+  Globo TV Integracao Araxa FHD
+  Globo TV Integracao Araxa HD
+  Globo TV Integracao Araxa SD
+  Globo TV Integracao Ituiutaba FHD
+  Globo TV Integracao Ituiutaba HD
+  Globo TV Integracao Ituiutaba SD
+  Globo TV Integracao Juiz de Fora FHD
+  Globo TV Integracao Juiz de Fora HD
+  Globo TV Integracao Juiz de Fora SD
+  Globo TV Integracao Uberaba FHD
+  Globo TV Integracao Uberaba HD
+  Globo TV Integracao Uberaba SD
+  Globo TV Integracao Uberlandia FHD
+  Globo TV Integracao Uberlandia HD
+  Globo TV Integracao Uberlandia SD
+  Globo TV Liberal Castanhal FHD
+  Globo TV Liberal Castanhal HD
+  Globo TV Liberal Castanhal SD
+  Globo TV Liberal Maraba FHD
+  Globo TV Liberal Maraba HD
+  Globo TV Liberal Maraba SD
+  Globo TV Mirante Cocais FHD
+  Globo TV Mirante Cocais HD
+  Globo TV Mirante Cocais SD
+  Globo TV Mirante Imperatriz FHD
+  Globo TV Mirante Imperatriz HD
+  Globo TV Mirante Imperatriz SD
+  Globo TV Morena Ponta Pora FHD
+  Globo TV Morena Ponta Pora HD
+  Globo TV Morena Ponta Pora SD
+  Globo TV Paraiba FHD
+  Globo TV Paraiba HD
+  Globo TV Paraiba SD
+  Globo TV Rio Sul FHD
+  Globo TV Rio Sul HD
+  Globo TV Rio Sul SD
+  Globo TV Sao Francisco FHD
+  Globo TV Sao Francisco HD
+  Globo TV Sao Francisco SD
+  Globo TV Subae FHD
+  Globo TV Subae HD
+  Globo TV Subae SD
+  Globo TV Sudoeste FHD
+  Globo TV Sudoeste HD
+  Globo TV Sudoeste SD
+  Globo TV TEM Bauru FHD
+  Globo TV TEM Bauru HD
+  Globo TV TEM Bauru SD
+  Globo TV TEM Itapetininga FHD
+  Globo TV TEM Itapetininga HD
+  Globo TV TEM Itapetininga SD
+  Globo TV TEM Sao Jose do Rio Preto FHD
+  Globo TV TEM Sao Jose do Rio Preto HD
+  Globo TV TEM Sao Jose do Rio Preto SD
+  Globo TV TEM Sorocaba FHD
+  Globo TV TEM Sorocaba HD
+  Globo TV TEM Sorocaba SD
+  Globo TV Tapajos HD
+  Globo TV Tribuna Santos FHD
+  Globo TV Tribuna Santos HD
+  Globo TV Tribuna Santos SD
+  Globo TV Vanguarda S J Campos FHD
+  Globo TV Vanguarda S J Campos HD
+  Globo TV Vanguarda S J Campos SD
+  Globo TV Vanguarda Taubate FHD
+  Globo TV Vanguarda Taubate HD
+  Globo TV Vanguarda Taubate SD
+  Globo TV Verdes Mares Cariri FHD
+  Globo TV Verdes Mares Cariri HD
+  Globo TV Verdes Mares Cariri SD
+  Globoplay Novelas 4K
+  Globoplay Novelas FHD
+  Globoplay Novelas HD
+  Globoplay Novelas SD
+  Goblin Slayer
+  Gospel Music
+  Gostosas da Rede Social
+  Gotham - S1
+  Gotham - S2
+  Gotham - S3
+  Gotham - S4
+  Gotham - S5
+  Grazi Mourão
+  Greys Anatomy-01
+  Greys Anatomy-02
+  Greys Anatomy-03
+  Greys Anatomy-04
+  Gusttavo Lima
+  HALLMARK DRAMA
+  HALLO! Anime
+  HALLO! Brasil
+  HALLO! Classic
+  HALLO! Doc
+  HALLO! Dorama
+  HALLO! Movies
+  HALLO! Movies2
+  HALLO! Music
+  HALLO! Series
+  HBO Max 1 FHD²
+  HBO Max 1 FHD¹
+  HBO Max 1 HD²
+  HBO Max 1 HD³
+  HBO Max 1 HD¹
+  HBO Max 1 SD
+  HBO Max 10 FHD¹
+  HBO Max 10 HD¹
+  HBO Max 11 FHD¹
+  HBO Max 11 HD¹
+  HBO Max 12 FHD¹
+  HBO Max 12 HD¹
+  HBO Max 13 FHD¹
+  HBO Max 13 HD¹
+  HBO Max 14 FHD¹
+  HBO Max 14 HD¹
+  HBO Max 15 FHD¹
+  HBO Max 15 HD¹
+  HBO Max 16 FHD¹
+  HBO Max 16 HD²
+  HBO Max 16 HD¹
+  HBO Max 17 FHD¹
+  HBO Max 17 HD¹
+  HBO Max 18 FHD¹
+  HBO Max 18 HD¹
+  HBO Max 2 FHD²
+  HBO Max 2 FHD¹
+  HBO Max 2 HD²
+  HBO Max 2 HD³
+  HBO Max 2 HD¹
+  HBO Max 2 SD
+  HBO Max 3 FHD²
+  HBO Max 3 FHD¹
+  HBO Max 3 HD²
+  HBO Max 3 HD³
+  HBO Max 3 HD¹
+  HBO Max 3 SD
+  HBO Max 4 FHD²
+  HBO Max 4 FHD¹
+  HBO Max 4 HD²
+  HBO Max 4 HD³
+  HBO Max 4 HD¹
+  HBO Max 4 SD
+  HBO Max 5 FHD²
+  HBO Max 5 FHD¹
+  HBO Max 5 HD²
+  HBO Max 5 HD³
+  HBO Max 5 HD¹
+  HBO Max 5 SD
+  HBO Max 6 FHD²
+  HBO Max 6 FHD¹
+  HBO Max 6 HD²
+  HBO Max 6 HD¹
+  HBO Max 6 SD
+  HBO Max 7 FHD¹
+  HBO Max 7 HD¹
+  HBO Max 8 FHD¹
+  HBO Max 8 HD¹
+  HBO Max 9 FHD¹
+  HBO Max 9 HD¹
+  HBO PORTUGAL
+  HBO XTREAM HD ( CANAIS LEGENDADOS )
+  HOLLYWOOD
+  HOLLYWOOD ( HD HEVC )©
+  HOLLYWOOD FHD
+  HOLLYWOOD HD
+  Haikyu
+  Halloween da Putaria
+  HardCore
+  Harry Potter
+  He-Man e os Mestres do Universo
+  Hells Paradise
+  Hemlock Grove - S1 E S2
+  Hemlock Grove - S3
+  Historias de uma Gueixa 3
+  Homem Aranha Acao Sem Limites
+  Homem De Ferro
+  Homem-Aranha da Marvel
+  Hora de Aventura
+  Hot Wheels Velocidade Maxima
+  Hotel Transylvania  A Série
+  How I Met Your Mother - S1
+  How I Met Your Mother - S2
+  How I Met Your Mother - S3
+  How I Met Your Mother - S4
+  How I Met Your Mother - S5
+  How I Met Your Mother - S6
+  How I Met Your Mother - S7
+  How I Met Your Mother - S8
+  How I Met Your Mother - S9
+  Hunter x Hunter
+  Hércules
+  ID INVESTIGATION DISCOVERY HD
+  IMPD TV
+  IT Bem Vindos a Derry - S1
+  IT-  SKY TG24
+  IT- 27TWENTYSEVEN HD
+  IT- ALICE
+  IT- BOING
+  IT- CANAL 5
+  IT- CIELO HD
+  IT- CINE 34 HD
+  IT- CINE34 HD
+  IT- DISCOVERY DMAX
+  IT- DISCOVERY FOCUS
+  IT- DISCOVERY MOTOR TREND
+  IT- DISNEY JUNIOR
+  IT- EUROSPORT2
+  IT- FOCUS
+  IT- FRISBEE
+  IT- GIALLO HD
+  IT- IRIS
+  IT- ITALIA1 HD
+  IT- K2
+  IT- LA C SAT
+  IT- LA5
+  IT- LA7D
+  IT- M20TV
+  IT- MEDIASET 1 FHD
+  IT- MEDIASET 20 HD
+  IT- MEDIASET 27 HD
+  IT- MEDIASET EXTRA
+  IT- MEDIASET ITALIA 2 HD
+  IT- MOTOR TREND
+  IT- NATGEO
+  IT- NOVE HD
+  IT- PREMIUM CRIME
+  IT- RAI GULP
+  IT- RAI MOVIE
+  IT- RAI NEWS 24 HD
+  IT- RAI PREMIUM
+  IT- RAI PREMIUM HD
+  IT- RAI SPORT+
+  IT- RAI STORIA
+  IT- RAI YOYO
+  IT- RAI1
+  IT- RAI2
+  IT- RAI3
+  IT- RAI4
+  IT- RAI5
+  IT- RETE4 HD
+  IT- RSI LA 1 HD
+  IT- RSI LA 2HD
+  IT- RTL 102.5
+  IT- Rai Scuola HD
+  IT- Realtime HD
+  IT- SENATO
+  IT- SKY CINEMA DRAMA
+  IT- SKY CINEMA FAMILY
+  IT- SKY PRIMAFILA 1 HD
+  IT- SKY PRIMAFILA 2 HD
+  IT- SKY PRIMAFILA 3 HD
+  IT- SKY SPORT ARENA
+  IT- SKY SPORT FOTBALL
+  IT- SKY SPORT MOTO GP
+  IT- SKY SPORT NBA
+  IT- SKY SPORT TENNIS
+  IT- SKY SPORTS UNO
+  IT- SUPER!
+  IT- Sky Sports F1 HD
+  IT- TOP CRIME FHD
+  IT- TOP crime HD
+  IT- TV8 HD
+  ITTV Plus - Sergipao 1 FHD
+  ITTV Plus - Sergipao 1 HD
+  ITTV Plus - Sergipao 1 SD
+  ITTV Plus - Sergipao 2 FHD
+  ITTV Plus - Sergipao 2 HD
+  ITTV Plus - Sergipao 2 SD
+  ITTV Plus - Sergipao 3 FHD
+  ITTV Plus - Sergipao 3 HD
+  ITTV Plus - Sergipao 3 SD
+  Ideal TV H265
+  Ideal TV HD
+  Ideal TV SD
+  Ideal TV UHD
+  Igreja Maranata HD
+  Igreja Mundial
+  Igreja Universal
+  Indias Safadas 2
+  Indicação de Filme da Semana
+  Indicação de Série da Semana
+  Inexplicavel Misterios do Universo
+  Initial D
+  Inspetor Bugiganga
+  InuYasha
+  Invazor Zim
+  Invencível
+  Irmaos A Obra
+  Irmão do Jorel
+  JOVEM PAN NEWS 4K
+  Jackie Chan - S1
+  Jackie Chan - S2
+  Jackie Chan - S3
+  Jamilly Carvalho
+  Japinha Da Mansão
+  Jason Statham  - S1
+  Jason Statham - S2
+  Jason Statham - S3
+  Jaspion
+  Jellystone
+  Jentry Chau contra O Submundo
+  Jet Li - S1
+  Jet Li - S2
+  Jet Li - S3
+  Jiban
+  Jim Carrey - S1
+  Jim Carrey - S2
+  Jiraya
+  JoJos Bizarre Adventure
+  Jogo do Sexo
+  Jogos Mortais
+  Jogos Pornos
+  Johnny Test
+  Jonny Quest Homem Monolitico
+  Jorge e Mateus
+  Jose do Egito
+  Jovem Pan News FHD
+  Jovem Pan News H265
+  Jovem Pan News HD
+  Jovem Pan News SD
+  Jovem Pan News UHD
+  Juia Fit
+  Jujutsu Kaisen
+  Juliana Bonde
+  Julyana-Ribeiro
+  Jurassic World  Acampamento Jurássico
+  Justiça Jovem
+  KND  A Turma do Bairro
+  KURIAKOS TV FHD
+  Kaiju No. 8
+  Kakegurui Twin
+  Karolayn-Matos
+  Katty Blake
+  Kenan e Kel
+  Kick Buttowski  Um Projeto de Dublê
+  Kingpyn Boxing FHD
+  Kingpyn Boxing HD
+  Kingpyn Boxing SD
+  Kings League Brasil
+  Kipo e os Animonstros
+  Kotaro Vai Morar Sozinho
+  Krypto O Superção
+  LAT LA PELICULA CLASICO HD
+  LAT | CARTONITO
+  LAT | CARTOON NETWORK HQ
+  LAT | CLARO SPORTS LATINOAMERICA HD
+  LAT | DE PELICULA PLUS HD
+  LAT | DISNEY HD
+  LAT | DISNEY JR HD
+  LAT | DISNEY JUNIOR
+  LAT | Discovery home and health
+  LAT | Discovery home and health HD (sur)
+  LAT | GOLDEN EDGE
+  LAT | GOLDEN PLUS
+  LAT | GOLDEN PREMIER
+  LAT | GOLDEN PREMIER FHD
+  LAT | History Channel
+  LAT | History Channel HD
+  LAT | Investigation Discovery
+  LAT | Investigation Discovery HD (sur)
+  LAT | NAT GEO WILD HD
+  LAT | NATGEO WILD HD
+  LAT | NATIONAL GEOGRAFHIC
+  LAT | NICK HD
+  LAT | NICK JR HQ
+  LAT | STARZ COMEDY HD
+  LAT | STARZ COMEDY HD
+  LAT | TEENNICK HD
+  LAT | TOONCAST
+  LAT| GALAVISION ATLANTA HD
+  LAT| GALAVISION HOUSTON HD
+  LAT| GALAVISION LOS ANGELES HD
+  LAT| GALAVISION MIAMI HD
+  LAT| GALAVISION NEW YORK HD
+  LAT| NBC UNIVERSO EAST FHD
+  LAT| NBC UNIVERSO HD
+  LAT| ONE TORO TV
+  LAT| ONE TORO TV FHD
+  LAT| ONE TORO TV HD
+  LAT| PASIONES FHD**
+  LAT| STARZ EAST HD
+  LAT| TELEMUNDO 4 SAN ANTONIO HD
+  LAT| TELEMUNDO 47 NEW YORK HD
+  LAT| TELEMUNDO 51 MIAMI HD
+  LAT| TELEMUNDO 52 LOS ANGELES HD
+  LAT| TELEMUNDO ATLANTA HD
+  LAT| TELEMUNDO BOSTON HD
+  LAT| TELEMUNDO CHICAGO HD
+  LAT| TELEMUNDO INTERNACIONAL FHD*
+  LAT| TELEMUNDO LOS ANGELES HD
+  LAT| TELEMUNDO NEW ORLEANS
+  LAT| TELEMUNDO ORLANDO FLORIDA HD
+  LAT| TELEMUNDO PROVIDENCE HD
+  LAT| TELEMUNDO TAMPA HD
+  LAT| UNIMAS ATLANTA HD
+  LAT| UNIMAS DALLAS HD
+  LAT| UNIMAS LOS ANGELES HD
+  LAT| UNIMAS MIAMI HD
+  LAT| UNIMAS NEW YORK HD
+  LAT| UNIMAS RALEIGTH HD
+  LAT| UNIVISION ATLANTA HD
+  LAT| UNIVISION CHICAGO HD
+  LAT| UNIVISION DALLAS HD
+  LAT| UNIVISION EL PASO TX HD
+  LAT| UNIVISION HOUSTON HD
+  LAT| UNIVISION LOS ANGELES HD
+  LAT| UNIVISION MIAMI HD
+  LAT| UNIVISION NEW YORK HD
+  LAT| UNIVISION RALEIGTH HD
+  LAT| UNIVISION SAN ANTONIO HD
+  LAT| UNIVISION TELENOVELAS
+  LEBISCA-01
+  LEBISCA-02
+  LEBISCA-03
+  LEBISCA-04
+  LEBISCA-05
+  LOCAL VISÃO HD
+  LOVE NATURE 4K [ENG]
+  Largados e Pelados
+  Largados e Pelados Brasil
+  Larva Island
+  Lat | Discovery TLC
+  Lauana Prado
+  Laura Cat
+  Lauren Cat
+  Leagues Cup FHD
+  Leagues Cup HD
+  Leagues Cup SD
+  Lendas da Marvel
+  Lendas da Natureza
+  Level E
+  Liga Futsal 1 FHD
+  Liga Futsal 1 HD
+  Liga Futsal 1 SD
+  Liga Futsal 2 FHD
+  Liga Futsal 2 HD
+  Liga Futsal 2 SD
+  Liga Futsal 3 FHD
+  Liga Futsal 3 HD
+  Liga Futsal 3 SD
+  Liga Futsal 4 FHD
+  Liga Futsal 4 HD
+  Liga Futsal 4 SD
+  Liga da Justica Sem Limites
+  Lilo e Stitch
+  Lion Man
+  Live TV H265
+  Live TV HD
+  Live TV SD
+  Live TV UHD
+  Loira Maikelly
+  Loiras Gostosas 2
+  Loki
+  Lolly Kids
+  Lord of Mysteries
+  Lost
+  Loupanxxx
+  Louvores de Adoração 01
+  Louvores de Adoração 02
+  Love Nature UHD
+  Luana Kazaki
+  Luana kazaki
+  Lucifer
+  Luiza Marcato
+  Luiza Marcato
+  Luke Cage
+  Luluzinha
+  Lupin III
+  Lutas do Dia
+  Léo Magalhães
+  M6 MUSIC HD
+  MARVEL
+  MARVEL (EXCLUSIVO)
+  MAX 01 HD [BKP]
+  MAX 01 HD [OFIC]
+  MAX 02 HD [BKP]
+  MAX 02 HD [OFIC]
+  MAX 03 HD [BKP]
+  MAX 03 HD [OFIC]
+  MAX 04 HD [BKP]
+  MAX 04 HD [OFIC]
+  MAX 05 HD [OFIC]
+  MC Mirelinha
+  MCM POP SD
+  MCM TOP
+  MEO DESTAQUES
+  MEO VIDEOCLUBE
+  MEZZO LIVE FHD
+  MF GHOST
+  MOTORVISION TV SD
+  MSG 2
+  MTV PORTUGAL HD
+  MTVs 00 FHD
+  MTVs 00 HD
+  MTVs 00 SD
+  MTVs 00 UHD
+  MUSIC| 90' MUSIC CHOICE
+  MUSIC| MEXICANA CHOICE
+  Magos Contos da Arcadia
+  Maiara e Maraisa
+  Maikelly muhl
+  Manda-Chuva
+  Mari Avila
+  Mari Ávila
+  Maria Madalena
+  Marianna Arroyo
+  Markket FHD
+  Markket H265
+  Markket HD
+  Markket SD
+  Markket UHD
+  Marsha e Urso
+  Martina Smeraldi
+  Maru Karv
+  Marvel - Agente Carter
+  Marvel - Demolidor
+  Marvel - Demolidor - S1 E S2
+  Marvel - Demolidor - S3
+  Marvel - Jessica Jones - S1 E S2
+  Marvel - Jessica Jones - S3
+  Marvel - O Justiceiro
+  Marvel - Os Defensores
+  Marvel - Punho de Ferro
+  Mascaras do Sexo
+  Mashle  Magia e Músculos
+  Massagem Porno 2
+  Maximo Garcia
+  Maximo In Brazil
+  Maya e os 3 Guerreiros
+  Mc Mirella
+  Mc Pipokinha
+  Mecanimais
+  Medabots
+  Mega Man Potencia Maxima
+  MegaMan
+  Mesticas 3
+  Metalder
+  Meu Contatinho Chegou
+  Meu Demonio Favorito
+  Meu Tio Pagou A GP
+  Michell Bunny7
+  Minha Primeira Vez na Telinha 5
+  Miraculous: As Aventuras de Ladybug
+  Mob Psycho 100
+  Momonstros
+  Monster Rancher
+  Monstros No Trabalho
+  Morango do Amor
+  Mortal Kombat Defensores Da Terra
+  Ms. Marvel
+  Mucha Lucha
+  Mulher de Amigo meu e Mulher
+  Mulher-Hulk  Defensora de Heróis
+  Mundo Bita
+  Mutante Rex
+  My Hero Academia
+  My Hero Academia Vigilantes
+  MÁS CHIC HD
+  NAT  WILD
+  NATIONAL GEOGRAPHIC WILD FHD
+  NATIONAL GEOGRAPHIC WILD HD
+  NATIONAL GEOGRAPHIC WILD SD
+  NBA League Pass 1 FHD
+  NBA League Pass 1 HD
+  NBA League Pass 1 SD
+  NBA League Pass 2 FHD
+  NBA League Pass 2 HD
+  NBA League Pass 2 SD
+  NBA League Pass 3 FHD
+  NBA League Pass 3 HD
+  NBA League Pass 3 SD
+  NBA League Pass 4 FHD
+  NBA League Pass 4 HD
+  NBA League Pass 4 SD
+  NBA League Pass 5 FHD
+  NBA League Pass 5 HD
+  NBA League Pass 5 SD
+  NBA League Pass 6 FHD
+  NBA League Pass 6 HD
+  NBA League Pass 6 SD
+  NBA TV HD
+  NETFLIX TV (EXCLUSIVO)
+  NETFLIX TV 2 (EXCLUSIVO)
+  NFL Channel
+  NFL Game Pass 01
+  NFL Game Pass 02
+  NFL Game Pass 03
+  NFL Game Pass 04
+  NFL Game Pass 05
+  NFL Game Pass 06
+  NFL Game Pass 07
+  NFL Game Pass 08
+  NFL HD
+  NFL HD²
+  NFL HD³
+  NFL NETWORK HD
+  NFL Preseason All Access
+  NICK MUSIC
+  NOS STUDIOS ( HD HEVC )©
+  NOS STUDIOS FHD
+  NOS STUDIOS HD
+  NOS STUDIOS SD
+  NOW FHD
+  NSPORTS 02 HD³
+  NSPORTS 03 HD³
+  NSPORTS FHD²
+  NSPORTS HD²
+  NSPORTS HD³
+  Nanatsu no Taizai
+  Naruto Clássico
+  Naruto Shippuden
+  Neemias
+  Neon Genesis Evangelion
+  Nerd Girls 4
+  Nerd Girls 5
+  Netflix Evento FHD
+  Netflix Evento HD
+  Netflix Evento SD
+  Nick +
+  Nicolas Cage - S1
+  Nicolas Cage - S2
+  Nicolas Cage - S3
+  Nicolas Cage - S4
+  Nicolly Rio
+  Nicoly Rio
+  Noiva Infiel 3
+  Novinha Ph Philips
+  Novinhas no Cio 2
+  O Acampamento de Lazlo
+  O Cavaleiro Das Trevas
+  O Chefinho De Volta Aos Negocios
+  O Coringa e Arlequina
+  O Despertar Das Tartarugas Ninja
+  O Domo
+  O Incrível Hulk - S1
+  O Incrível Hulk - S2
+  O Incrível Hulk - S3
+  O Incrível Hulk - S4
+  O Incrível Hulk - S5
+  O Maskara A Serie Animada
+  O Mundo Maravilhosamente Estranho de Gumball
+  O Otimista
+  O Pequeno Scooby Doo
+  O Senhor e a Serva
+  O Show Do Patrick Estrela
+  O Show Dos Looney Tunes
+  O Show do Garfield
+  O Vale dos Dinossauros
+  ODISSEIA HD
+  ONE TORO
+  ONE TORO FHD
+  ONE TORO HD
+  Olympia TV FHD
+  Olympia TV HD
+  Olympia TV SD
+  One Piece
+  One Punch Man
+  OneFootball 1 FHD
+  OneFootball 1 HD
+  OneFootball 1 SD
+  Onlyfans-01
+  Onlyfans-01 - MASCULINO
+  Onlyfans-02
+  Onlyfans-02 - MASCULINO
+  Onlyfans-03
+  Operação Fronteira  América do Sul
+  Operação Fronteira Brasil
+  Origem
+  Origem - S1 E S2
+  Origem - S3
+  Os Cadetes Mech
+  Os Caras Malvados No Pedaço
+  Os Caras de Pau
+  Os Cavaleiros do Zodiaco
+  Os Cãezinhos do Canil
+  Os Feiticeiros de Waverly Place
+  Os Flintstones
+  Os Flintstones
+  Os Flintstones
+  Os Jetsons
+  Os Mistérios de Frajola e Piu-Piu
+  Os Padrinhos Magicos
+  Os Quatro Cavaleiros do Apocalipse
+  Os Simpsons
+  Os Smurfs
+  Os jovens Titas - Teen Titas
+  Outdoor HD
+  Overlord
+  Ozark - S1 E S2
+  Ozark - S3 E S4
+  PANDA BIGGS  FHD
+  PANDA BIGGS SD
+  PANDA KIDS SD
+  PARAGUAY| C9N HD
+  PARAGUAY| CANAL 13 HD
+  PARAGUAY| CANAL PRO HD (265)
+  PARAGUAY| GEN TV HD
+  PARAGUAY| LA TELE HD
+  PARAGUAY| NOTICIAS PARAGUAY HD (265)
+  PARAGUAY| PARAGUAY TV HD
+  PARAGUAY| PARAVISION HD
+  PARAGUAY| RCC CANAL
+  PARAGUAY| RPC HD (265)
+  PARAGUAY| SUR TV HD
+  PARAGUAY| TELEFUTURO HD (265)
+  PARAGUAY| TIGO SPORTS 1 HD
+  PARAGUAY| UNICANAL HD (265)
+  PATRULHA PATA HD
+  PFC SD
+  PJ Masks  Herois De Pijama
+  PLUTO
+  PORTO CANAL ( HEVEC )©
+  POV - Hoje eu sou ator 3
+  PPVV| LA LIGA BAR FHD SPAIN
+  PPVV| LA LIGA TV FHD
+  PPVV| MOVISTAR FUTBOL FHD
+  PPVV| MOVISTAR LA LIGA FHD
+  PRIME VIDEO 01²
+  PRIME VIDEO 01³
+  PRIME VIDEO 02²
+  PRIME VIDEO 02³
+  PRIME VIDEO 03²
+  PRIME VIDEO 03³
+  PRIME VIDEO 04²
+  PRIME VIDEO 04³
+  PRIME VIDEO 05²
+  PRIME VIDEO 06²
+  Pablo
+  Pac Man e as Aventuras Fantasmagoricas
+  Pacificador
+  Pai Eterno FHD
+  Pai Eterno H265
+  Pai Eterno HD
+  Pai Eterno SD
+  Pai Eterno UHD
+  Papaléguas e o Coiote
+  Paramount + 1 FHD²
+  Paramount + 1 FHD¹
+  Paramount + 1 H265
+  Paramount + 1 HD²
+  Paramount + 1 HD¹
+  Paramount + 1 SD
+  Paramount + 1 UHD
+  Paramount + 1³
+  Paramount + 2 FHD²
+  Paramount + 2 FHD¹
+  Paramount + 2 H265
+  Paramount + 2 HD²
+  Paramount + 2 HD¹
+  Paramount + 2 SD
+  Paramount + 2 UHD
+  Paramount + 2³
+  Paramount + 3 FHD²
+  Paramount + 3 FHD¹
+  Paramount + 3 H265
+  Paramount + 3 HD²
+  Paramount + 3 HD¹
+  Paramount + 3 SD
+  Paramount + 3 UHD
+  Paramount + 3³
+  Paramount + 4 FHD²
+  Paramount + 4 FHD¹
+  Paramount + 4 H265
+  Paramount + 4 HD²
+  Paramount + 4 HD¹
+  Paramount + 4 SD
+  Paramount + 4 UHD
+  Paramount + 4³
+  Paramount + 5³
+  Paramount + 6³
+  Parasyte The Maxim
+  Patricia Ferraz
+  Patrulha Canina
+  Patrulha do Destino - S1 E S2
+  Patrulha do Destino - S3 E S4
+  Patrulheiros em Ação
+  Paula Fernandes
+  Paulistao 1 FHD
+  Paulistao 1 HD
+  Paulistao 1 SD
+  Paulo O Apostolo
+  Pegadinhas Do Toninho Tornado
+  Pegadinhas do Joao Kleber
+  Peixonauta
+  Peludinhas
+  Peppa Pig
+  Perdidos em Oz
+  Pernalonga
+  Pica-Pau
+  Pinky e o Cerebro
+  Pirates 2 XXX
+  Pirates XXX
+  Plantão Médico
+  Plantão Médico 2
+  Platinum End
+  Pocoyo
+  Pokemon Horizontes A Serie
+  Pokémon
+  Popeye e Filho
+  Porno Mineiro
+  Porno Retro
+  Porno-Legendado-01
+  Porno-Legendado-02
+  Porno-Legendado-03
+  Porno-Legendado-04
+  Porno-Legendado-05
+  Porno-Legendado-06
+  Porno-Legendado-07
+  Porno-Legendado-08
+  Porno-Legendado-09
+  Porno-Legendado-10
+  Porno-Legendado-11
+  Porno-Legendado-12
+  Porno-Legendado-13
+  Porno-Legendado-14
+  Porno-Legendado-15
+  Porno-Legendado-16
+  Pousando no Amor
+  Power Rangers - Força Animal
+  Power Rangers Dino Fury
+  Power Rangers Dino Trovão
+  Power Rangers Furia Cosmica
+  Power Rangers Fúria da Selva
+  Power Rangers Mighty Morphin
+  Power Rangers S.P.D
+  Power Rangers Samurai
+  Power Rangers Tempestade Ninja
+  Power Rangers Turbo
+  Power Rangers Zeo
+  Premiere 8 FHD¹
+  Premiere 8 H265
+  Premiere 8 HD¹
+  Premiere 8 SD²
+  Premiere 8 SD³
+  Premiere 8 SD¹
+  Premiere 8 UHD
+  Prison Break
+  Provocacoes
+  Que Bunda e Essa
+  Que Tamanho É Esse 3
+  Quem Da aos Pobres e Mais Feliz 2
+  Quilos Mortais  Como Eles Estão Agora
+  RBS TV 4K
+  RECORD RS 4K
+  RECORD SP 4K
+  RED BUL TV HD
+  REDE CNT
+  RIT FHD
+  RTP 1 ( HD HEVC )©
+  RTP 1 FHD
+  RTP 1 HD
+  RTP 1 SD
+  RTP 2 ( HD HEVC )©
+  RTP 2 FHD
+  RTP 2 HD
+  RTP 2 SD
+  RTP 3 ( HD HEVC )©
+  RTP 3 FHD
+  RTP 3 HD
+  RTP 3 SD
+  RTP AFRICA SD
+  RTP ARENA HD
+  RTP AÇORES SD
+  RTP MADEIRA
+  RTP MEMÓRIA SD
+  Rainha das Lagrimas
+  Raio Negro - S1 E S2
+  Raio Negro - S3 E S4
+  Raul Kobra
+  Raça Negra
+  Reacher
+  Record Belem do Para FHD
+  Record Belem do Para HD
+  Record Brasília FHD
+  Record Brasília HD
+  Record Brasília SD
+  Record Cabralia FHD
+  Record Ceara HD
+  Record Curitiba FHD
+  Record Curitiba HD
+  Record Curitiba SD
+  Record ES Vitória FHD
+  Record ES Vitória HD
+  Record ES Vitória SD
+  Record Franca e Ribeirao FHD
+  Record Franca e Ribeirao HD
+  Record Franca e Ribeirao SD
+  Record Goias FHD
+  Record Goias HD
+  Record Guararapes FHD
+  Record Guararapes HD
+  Record Guararapes SD
+  Record Itapoan FHD
+  Record Itapoan HD
+  Record Itapoan SD
+  Record Leste FHD
+  Record Leste HD
+  Record Leste SD
+  Record Litoral Vale do Parnaiba FHD
+  Record Litoral Vale do Parnaiba HD
+  Record Litoral Vale do Parnaiba SD
+  Record MG - Belo Horizonte FHD
+  Record MG - Belo Horizonte HD
+  Record MG - Belo Horizonte SD
+  Record Manaus FHD
+  Record Manaus HD
+  Record Manaus SD
+  Record Of Ragnarok
+  Record Pajuçara AL HD
+  Record Paraiba TV Correio FHD
+  Record Paraiba TV Correio HD
+  Record Paraiba TV Correio SD
+  Record Paranaiba de Uberlandia FHD
+  Record Paranaiba de Uberlandia HD
+  Record Paulista FHD
+  Record Paulista HD
+  Record Paulista SD
+  Record Piaui A10 FHD
+  Record Piaui A10 HD
+  Record Piaui A10 SD
+  Record RJ FHD
+  Record RJ HD
+  Record RJ Interior FHD
+  Record RJ Interior HD
+  Record RJ SD
+  Record RS FHD
+  Record RS HD
+  Record Rio Preto FHD
+  Record Rio Preto HD
+  Record Roraima FHD
+  Record Roraima HD
+  Record Roraima SD
+  Record SIC Rondonia FHD
+  Record SP FHD
+  Record SP H265
+  Record SP HD
+  Record SP Interior FHD
+  Record SP Interior HD
+  Record SP SD
+  Record SP UHD
+  Record Santa Catarina HD
+  Record Sergipe Atalaia HD
+  Record Thathi Campinas FHD
+  Record Thathi Campinas HD
+  Record Thathi Campinas SD
+  Record Uberlandia FHD
+  Record Uberlandia HD
+  Record Uberlandia SD
+  Record Vila Real FHD
+  Record Vila Real HD
+  Rede Brasil HD
+  Rede Familia
+  Rede Mais Familia FHD
+  Rede Mao Amiga SD
+  Rede Seculo 21 FHD
+  Rede Super HD
+  Retro cartoon
+  Rezero Starting Life in Another World
+  Rick e Morty
+  Rionegro e Solimões
+  Rock Alternativo - 01
+  Rock Alternativo - 02
+  Round 6
+  Roupa Nova
+  Rugrats Os Anjinhos
+  Rumo ao Desconhecido Misterios Paranormais
+  Rumo ao Desconhecido Misterios Paranormais
+  Runtime Ação HD
+  Runtime Cine Espanto HD
+  Runtime Comedia HD
+  Runtime Crime HD
+  Runtime Familia HD
+  Runtime Filmes HD
+  Runtime Motorvision HD
+  Runtime Romance HD
+  S + HD
+  SAKAMOTO DAYS
+  SAND
+  SANTIAGO DOS MARES HD
+  SBT AC Capital HD
+  SBT AL Capital HD
+  SBT Brasília HD
+  SBT CE Capital HD
+  SBT Curitiba H265
+  SBT Curitiba HD
+  SBT News FHD
+  SBT News HD
+  SBT News SD
+  SBT PE Capital HD
+  SBT PR Capital HD
+  SBT PR Capital HD
+  SBT Paraná FHD
+  SBT Paraná HD
+  SBT RJ FHD
+  SBT RJ HD
+  SBT RJ SD
+  SBT RN HD
+  SBT RO Capital HD
+  SBT RS FHD
+  SBT RS HD
+  SBT SC Capital HD
+  SBT SP FHD
+  SBT SP H265
+  SBT SP HD
+  SBT SP SD
+  SBT TV Aratu BA Capital FHD
+  SBT TV Aratu BA Capital HD
+  SBT Thathi Vale FHD
+  SBT Thathi Vale HD
+  SBT Thathi Vale SD
+  SBT VTV Santos Campinas FHD
+  SBT VTV Santos Campinas HD
+  SBT VTV Santos Campinas SD
+  SBT+ KIDS
+  SBT+ NOVELAS
+  SIC ( HD HEVC )©
+  SIC Caras HD
+  SIC FHD
+  SIC HD
+  SIC KIDS HD
+  SIC MULHER HD
+  SIC NOTICIAS ( HD HEVC )©
+  SIC NOTICIAS FHD
+  SIC NOTICIAS HD
+  SIC NOTICIAS SD
+  SIC RADICAL FHD
+  SIC RADICAL HD
+  SIC RADICAL SD
+  SIC SD
+  SMITHSONIAN
+  SPORT TV 1  HD
+  SPORT TV 1  SD
+  SPORT TV 1 ( 1 HD 1 BIT  )©
+  SPORT TV 1 ( FHD BACKUP )©
+  SPORT TV 1 ( FHD BACKUP 1 )©
+  SPORT TV 1 ( HD HEVC )©
+  SPORT TV 1 4K
+  SPORT TV 1 FHD
+  SPORT TV 2 ( FHD BACKUP )©
+  SPORT TV 2 ( HD HEVC )©
+  SPORT TV 2 ( SD BACKUP )©
+  SPORT TV 2 FHD
+  SPORT TV 2 HD
+  SPORT TV 2 SD
+  SPORT TV 3 ( FHD BACKUP )©
+  SPORT TV 3 ( HD HEVC )©
+  SPORT TV 3 FHD
+  SPORT TV 3 HD
+  SPORT TV 3 SD
+  SPORT TV 4 ( FHD BACKUP )©
+  SPORT TV 4 ( HD HEVC )©
+  SPORT TV 4 FHD
+  SPORT TV 4 HD
+  SPORT TV 4 SD
+  SPORT TV 5 ( HD HEVC )©
+  SPORT TV 5 FHD
+  SPORT TV 5 HD
+  SPORT TV 5 HD ( SD BACKUP )©
+  SPORT TV 5 SD
+  SPORT TV 6 ( HD HEVC )©
+  SPORT TV 6 FHD
+  SPORT TV 6 HD
+  SPORT TV 6 SD
+  SPORT TV 7 FHD
+  SPORT TV 7 HD
+  SPORT TV 7 SD
+  SPORT TV NBA  FHD
+  SPORT TV NBA ( HD HEVC )©
+  SPORT TV NBA HD
+  SPORT TV NBA SD
+  SPORT TV+ ( HD HEVC )©
+  SPORT TV+ FHD
+  SPORT TV+ HD
+  SPORT TV+ SD
+  SPORTING TV FHD
+  SPORTING TV SD
+  SPORTV 4 4K
+  SPORTYNET 1 FHD
+  SPORTYNET 1 H265
+  SPORTYNET 1 HD
+  SPORTYNET 1 SD
+  SPORTYNET 1 UHD
+  SPORTYNET 2 FHD
+  SPORTYNET 2 H265
+  SPORTYNET 2 HD
+  SPORTYNET 2 SD
+  SPORTYNET 2 UHD
+  SPORTYNET 3 FHD
+  SPORTYNET 3 H265
+  SPORTYNET 3 HD
+  SPORTYNET 3 SD
+  SPORTYNET 3 UHD
+  SPORTYNET 4 FHD
+  SPORTYNET 4 H265
+  SPORTYNET 4 HD
+  SPORTYNET 4 SD
+  SPORTYNET 4 UHD
+  SPORTYNET+ 01
+  SPORTYNET+ 02
+  SPORTYNET+ 03
+  SPORTYNET+ 04
+  SPORTYNET+ 1  FHD
+  SPORTYNET+ 1 HD
+  SPORTYNET+ 2 FHD
+  SPORTYNET+ 2 HD
+  SPORTYNET+ 3 FHD
+  SPORTYNET+ 3 HD
+  SPORTYNET+ 4 HD
+  SPORTYNET+ 5 HD
+  SPORTYNET+ 6 HD
+  SPORTYNET+ 7 HD
+  SPORTYNET+ 8 HD
+  SPY X FAMILY
+  STAR COMEDY
+  STAR COMEDY ( HD HEVC )©
+  STAR COMEDY FHD
+  STAR COMEDY HD
+  STAR CRIME
+  STAR CRIME ( HD HEVC )©
+  STAR CRIME FHD
+  STAR CRIME HD
+  STAR LIFE
+  STAR LIFE ( HD HEVC )©
+  STAR LIFE FHD
+  STAR LIFE HD
+  STAR MOVIES
+  STAR MOVIES ( HD HEVC )©
+  STAR MOVIES FHD
+  STAR MOVIES HD
+  STAR WARS (EXCLUSIVO)
+  SUNDANCE
+  Sabrina A Aprendiz De Feiticeira
+  Sailor Moon
+  Salvando Reformas com Jasmine Roth
+  Samurai Jack
+  Sansão e Dalila
+  Santiago dos Mares
+  Sbt Sim ES HD
+  Sbt TV Jangadeiro Ceara HD
+  Scooby-Doo
+  Scott Pilgrim A Serie
+  Senta Danada
+  Sessão-Cinema 01
+  Sessão-Cinema 02
+  Sessão-Cinema 03
+  Sessão-Cinema 04
+  Sessão-Cinema 05
+  Sessão-Cinema 06
+  Sessão-Cinema 07
+  Sexo Chic
+  Sexo na Beira da Piscina 2
+  Sexo sem Cortes 2
+  Shaman King
+  Sherlock
+  Shinzo
+  Show Erotico 3
+  Show de Peitos 5
+  Shurato
+  Silverhawks
+  Simone e Simaria
+  Sintonia
+  Smallville  As Aventuras do Superboy - S1
+  Smallville  As Aventuras do Superboy - S10
+  Smallville  As Aventuras do Superboy - S2
+  Smallville  As Aventuras do Superboy - S3
+  Smallville  As Aventuras do Superboy - S4
+  Smallville  As Aventuras do Superboy - S5
+  Smallville  As Aventuras do Superboy - S6
+  Smallville  As Aventuras do Superboy - S7
+  Smallville  As Aventuras do Superboy - S8
+  Smallville  As Aventuras do Superboy - S9
+  Smallville  As Aventuras do Superboy Parte 1
+  Smallville As Aventuras do Superboy Parte 2
+  So File
+  Sobrenatural Parte 1
+  Sobrenatural Parte 2
+  Sobrenatural Parte 3
+  Solo Leveling
+  Som Brasil - 01
+  Som Brasil - 02
+  Som Brasil - 03
+  Som Brasil - 04
+  Som Brasil - 05
+  Som Brasil - 06
+  Sorriso Real
+  Soul eater
+  South Park
+  Spiderman
+  SporTV 4 FHD²
+  SporTV 4 FHD¹
+  SporTV 4 H265
+  SporTV 4 HD²
+  SporTV 4 HD³
+  SporTV 4 HD¹
+  SporTV 4 SD¹
+  SporTV 4 UHD
+  Star + 1 FHD
+  Star + 1 HD
+  Star + 1 SD
+  Star + 2 FHD
+  Star + 2 HD
+  Star + 2 SD
+  Star + 3 FHD
+  Star + 3 HD
+  Star + 3 SD
+  Star + 4 FHD
+  Star + 4 HD
+  Star + 4 SD
+  Stargirl - S1 E S2
+  Stargirl - S3
+  SteinsGate
+  Steven Seagal - S1
+  Steven Seagal - S2
+  Stranger Things
+  Stranger Things - S1
+  Stranger Things - S2
+  Stranger Things - S3
+  Stranger Things - S4
+  Stranger Things - S5
+  Street Fighter II Victory
+  Super Amigos
+  Super Campeoes - Capitao Tsubasa
+  Super Crooks
+  Super Cubo
+  Super Dragon Ball Heroes
+  Super Onze
+  Super-Choque
+  Supergirl - S1
+  Supergirl - S2
+  Supergirl - S3
+  Supergirl - S4
+  Supergirl - S5
+  Supergirl - S6
+  Superman
+  Superman e Lois - S1 E S2
+  Superman e Lois - S3 E S4
+  Supernatura - S1
+  Supernatural - S10
+  Supernatural - S11
+  Supernatural - S12
+  Supernatural - S13
+  Supernatural - S14
+  Supernatural - S15
+  Supernatural - S2
+  Supernatural - S3
+  Supernatural - S4
+  Supernatural - S5
+  Supernatural - S6
+  Supernatural - S7
+  Supernatural - S8
+  Supernatural - S9
+  Swat Kats
+  Sweet Home
+  Sword Art Online
+  Syvester Stallone - S1
+  Syvester Stallone - S2
+  Syvester Stallone - S3
+  TC ACTION 4K
+  TC PIPOCA 4K
+  TC PREMIUN 4K
+  TCV INTERNACIONAL
+  TELEVISIÓN DE GALICIA
+  TIM Music - 01
+  TIM Music - 02
+  TO BE HERO X
+  TOROS TV FHD
+  TOROS TV HD
+  TOROS TV SD
+  TPA INTERNACIONAL SD
+  TRACE URBAN
+  TRANS-01
+  TRANS-02
+  TRANS-03
+  TRANS-04
+  TRANS-05
+  TRAVEL CHANNEL HD
+  TRAVELXP HD
+  TRT WORLD
+  TV Alterosa - SBT FHD
+  TV Alterosa - SBT HD
+  TV Diario - Fortaleza HD
+  TV Evangelizar HD
+  TV GIDEÕES FHD
+  TV GLOBO FHD
+  TV GLOBO HD
+  TV GLOBO NOW SD
+  TV GLOBO SD
+  TV Globinho 1
+  TV Globinho 2
+  TV Globinho 3
+  TV Globinho 4
+  TV Globinho 5
+  TV Globinho 6
+  TV Globinho 7
+  TV Globinho 8
+  TV Imaculada FHD
+  TV LAND HD
+  TV Mundo Maior FHD
+  TV Novo Tempo FHD
+  TV Novo Tempo H265
+  TV Novo Tempo HD
+  TV Novo Tempo SD
+  TV Novo Tempo UHD
+  TV Otimista FHD
+  TV Otimista H265
+  TV Otimista HD
+  TV Otimista SD
+  TV Otimista UHD
+  TV Quack
+  TV RECORD HD
+  TV Terceiro Anjo SD
+  TV Uniao FHD
+  TV Uniao H265
+  TV Uniao HD
+  TV Uniao SD
+  TV Uniao UHD
+  TVA HD | EXCLUSIVO MEO BOX
+  TVC CABO VERDE
+  TVCINE + HD
+  TVCINE ACTION ( HD HEVC )©
+  TVCINE ACTION FHD
+  TVCINE ACTION HD
+  TVCINE ACTION SD
+  TVCINE EDITION  ( HD HEVC )©
+  TVCINE EDITION  FHD
+  TVCINE EDITION  HD
+  TVCINE EDITION  SD
+  TVCINE EMOTION ( HD HEVC )©
+  TVCINE EMOTION FHD
+  TVCINE EMOTION HD
+  TVCINE EMOTION SD
+  TVCINE TOP ( HD HEVC )©
+  TVCINE TOP FHD
+  TVCINE TOP HD
+  TVCINE TOP SD
+  TVE 24H
+  TVE Bahia FHD
+  TVE Bahia HD
+  TVE Bahia SD
+  TVE INTERNACIONAL
+  TVI  ( HD HEVC )©
+  TVI FHD
+  TVI HD
+  TVI SD
+  TVI V+ FHD
+  TVI V+ HD
+  TVI V+ SD
+  Tara Duncan
+  Taras e Fetiches 2
+  Tartarugas Ninjas Historias Mutantes
+  Tatuadas Gostosas
+  Taz-Mania
+  Ted Lasso
+  Teen Wolf
+  Tentei Fazer meu Primeiro Anal
+  Teste de Atriz 4
+  Teste de Atriz 5
+  Teste de Atriz 6
+  The Chosen Os Escolhidos
+  The Last of Us - S1 E S2
+  The Rising of the Shield Hero
+  The Walking Dead  Parte 1
+  The Walking Dead - S1
+  The Walking Dead - S10
+  The Walking Dead - S11
+  The Walking Dead - S2
+  The Walking Dead - S3
+  The Walking Dead - S4
+  The Walking Dead - S5
+  The Walking Dead - S6
+  The Walking Dead - S7
+  The Walking Dead - S8
+  The Walking Dead - S9
+  The Walking Dead Parte 2
+  Them
+  Thor
+  Thundercats
+  Tico e Teco
+  Timidas
+  Timão e Pumba
+  Titas - S1 E S2
+  Titas - S3 E S4
+  Titias Gostosas 2
+  Titias Gostosas 3
+  To de Graça - S1
+  To de Graça - S2
+  To de Graça - S3
+  To de Graça - S4
+  To de Graça - S5
+  To de Graça - S6
+  To de Graça - S7
+  Todo Mundo Ainda Odeia o Chris
+  Todo Mundo Odeia o Chris
+  Tokyo Ghoul
+  Tokyo Revengers
+  Tom e Jerry
+  Tomando em Dose Dupla 2
+  Tomb Raider
+  Tomei Vinho e Tomei no Cu
+  Top 8 Filmes da Semana
+  Top 8 Séries da Semana
+  Tratamento de Choque
+  Trato Feito
+  Trato Feito 2
+  Trato Feito 3
+  Travel Box Brazil FHD
+  Travel Box Brazil H265
+  Travel Box Brazil HD
+  Travel Box Brazil SD
+  Travel Box Brazil UHD
+  Tres Espias Demais
+  Trisal
+  Troca de Casais
+  Tubacão
+  Tudo Bem Não Ser Normal
+  Turma CoComelon
+  Turma da Monica Jovem
+  Tv Candides Divinópolis
+  Tv IMPD
+  Tv Padre Cicero FHD
+  UFC FIGTH PASS FHD
+  UFC Fight Pass 1 HD (Eventos)
+  UFC Fight Pass 2 HD (Eventos)
+  UFC Fight Pass 3 HD (Eventos)
+  UFC Fight Pass FHD
+  UFC Fight Pass HD
+  UFC Fight Pass SD
+  UK- Sky Sports F1 HD
+  US: FOX Sport 2 HD
+  USA FHD
+  USA H265
+  USA H265 (LEGENDADOS)
+  USA HD
+  USA HD (LEGENDADOS)
+  USA NETWORK á´´á´°
+  USA SD
+  USA UHD
+  USA: NFL Network
+  USA: NFL Network HD
+  USA: NFL Red Zone HD
+  USL-  OUTDOOR
+  USL- ABC
+  USL- ABC  HD
+  USL- ABC ATLANTA
+  USL- ABC CHICAGO
+  USL- ABC COLUMBIA SC
+  USL- ABC LOS ANGELES HD
+  USL- ABC MIAMI HD
+  USL- ABC NEW
+  USL- ABC NEW YORK HD
+  USL- ABC NEWS LIVE HD
+  USL- ABC NEWS | HD
+  USL- ABC PHILADELPHIA HD
+  USL- ABC SAN DIEGO
+  USL- ABC SAN FRANCISCO HD
+  USL- ALTITUDE SPORTS á´´á´°
+  USL- AMERICA DESTINATION  HD
+  USL- AMERICAN HERO CHANNEL
+  USL- AXS TV
+  USL- BALLY SPORTS ARIZONA PLUS
+  USL- BALLY SPORTS FLORIDA
+  USL- BALLY SPORTS FLORIDA HD
+  USL- BALLY SPORTS OKLAHOMA
+  USL- BALLY SPORTS SOUTHWEST (San Antonio)
+  USL- BBC AMERICA HD
+  USL- BBC AMERICA HD
+  USL- BET
+  USL- BET HER HD
+  USL- BET JAMS
+  USL- BET MUSIC HD
+  USL- BET SOUL HD
+  USL- BOOMERANG HD
+  USL- BOOMERANG HD
+  USL- BRAVO HD
+  USL- BRAVO TV HD
+  USL- CBS 5 SAN FRANCISCO
+  USL- CBS CHICAGO HD
+  USL- CBS HD
+  USL- CBS HOUSTON HD
+  USL- CBS JACKSONVILLE HD
+  USL- CBS LOS ANGELES
+  USL- CBS MIAMI HD
+  USL- CBS NEW YORK
+  USL- CBS NEWS NEW YORK
+  USL- CBS REALITY HD
+  USL- CBS SAN DIEGO HD
+  USL- CBS SAN FRANCISCO KPIX
+  USL- CBS SPORTS NETWORK HD
+  USL- CBS TEXAS
+  USL- CHEDDAR NEWS
+  USL- CINEMAX ACTIONMAX | HD
+  USL- CINEMAX EAST HD
+  USL- CINEMAX MOVIEMAX | HD
+  USL- CINEMAX WEST HD
+  USL- CIRCLE TV
+  USL- CMT
+  USL- CNBC WORLD NEWS
+  USL- CNN HD
+  USL- COOKING CHANNEL
+  USL- COOKING CHANNEL HD
+  USL- COOKING CHANNEL HD
+  USL- COZI TV
+  USL- CW | HD
+  USL- DEPORTES| BEIN SPORTS EN ESPANOL HD
+  USL- DEPORTES| BEIN SPORTS EXTRA HD
+  USL- DESTINATION AMERICÁ
+  USL- DISCOVERY FAMILY
+  USL- DISCOVERY LIFE HD
+  USL- DISCOVERY LIFE HD
+  USL- DISCOVERY VELOCITY HD
+  USL- DISCOVERY VELOCITY HD
+  USL- DISCOVERY á´´á´°
+  USL- DISNEY CHANNEL á´´á´°
+  USL- DISNEY JR HD
+  USL- DISNEY JR HD
+  USL- DISNEY JR PACIFICO HD
+  USL- DISNEY XD HD
+  USL- DISNEY XD PACIFICO HD
+  USL- DIY NETWORK HD
+  USL- DIY NETWORK HD
+  USL- E! ENTERTAINMENT HD
+  USL- EPIX HITS HD
+  USL- ESPN 2 á´´á´°
+  USL- ESPN LONG HORN
+  USL- ESPN LONG HORN NETWORK
+  USL- ESPN NEWS á´´á´°
+  USL- ESPN NEWS á´´á´°
+  USL- ESPN U
+  USL- FOOD NETWORK á´´á´°
+  USL- FOX 32 CHICAGO
+  USL- FOX BUSINESS FHD
+  USL- FOX DALLAS
+  USL- FOX DEPORTES FHD
+  USL- FOX LOS ANGELES HD
+  USL- FOX MIAMI HD
+  USL- FOX NEW YORK HD
+  USL- FOX NEWS
+  USL- FOX NEWS HD
+  USL- FOX NEWS HD
+  USL- FOX ORLANDO HD
+  USL- FOX SOCCER PLUS HD
+  USL- FOX SOUL
+  USL- FOX SPORTS 1 HD
+  USL- FOX SPORTS 1 á´´á´°
+  USL- FOX SPORTS 2 HD
+  USL- FOX SPORTS DETROID HD
+  USL- FOX SPORTS FLORIDA HD
+  USL- FOX SPORTS NORTH CAROLINA HD
+  USL- FOX SPORTS OHIO HD
+  USL- FOX SPORTS SAN ANTONIO HD
+  USL- FOX SPORTS SAN DIEGO HD
+  USL- FOX SPORTS SAN DIEGO HD
+  USL- FOX SPORTS SOCCER PLUS HD
+  USL- FOX SPORTS SOCCER PLUS HD
+  USL- FOX SPORTS SOUT CAROLINA HD
+  USL- FOX SPORTS SOUTH HD
+  USL- FOX SPORTS SUN HD
+  USL- FOX SPORTS TENNESSE HD
+  USL- FOX SPORTS WEST HD
+  USL- FOX SPORTS WISCONSIN HD
+  USL- FOX WASHINTONG HD
+  USL- FREEFORM
+  USL- FUSE á´´á´°
+  USL- FUSION á´´á´°
+  USL- FX á´´á´°
+  USL- FXM HD
+  USL- FXM á´´á´°
+  USL- FXX HD
+  USL- FYI FHD
+  USL- FYI HD
+  USL- GAME SHOW NETWORK á´´á´°
+  USL- GET TV
+  USL- GREAT AMERICAN COUNTRY
+  USL- GSN á´´á´°
+  USL- H2 HD
+  USL- HALLMARK CHANNEL
+  USL- HALLMARK HD
+  USL- HALLMARK MOVIES & MYSTERIES á´´á´°
+  USL- HALLMARK á´´á´°
+  USL- HBO COMEDY HD
+  USL- HBO FAMILY WEST
+  USL- HBO ZONE | HD
+  USL- HGTV PACIFICO HD
+  USL- HISTORY CHANNEL | UHD
+  USL- HLN á´´á´°
+  USL- Hallmark Drama | HD
+  USL- IFC
+  USL- INSP
+  USL- INVESTIGATION DISCOVERY HD
+  USL- INVESTIGATION DISCOVERY á´´á´°
+  USL- ION TELEVISION HD
+  USL- LIFETIME MOVIES
+  USL- LIFETIME á´´á´°
+  USL- LOGO
+  USL- MLB NETWORK HD
+  USL- MOTOR TREND á´´á´°
+  USL- MOVIE MOVIEMAX HD
+  USL- MSG + 2 á´´á´°
+  USL- MSG PLUS á´´á´°
+  USL- MSG á´´á´°
+  USL- MTV 2
+  USL- MTV CLASSIC
+  USL- NAT GEO
+  USL- NAT GEO WILD
+  USL- NAT GEO WILD HD
+  USL- NATGEO PACIFICO HD
+  USL- NBA TV HD
+  USL- NBC GOLF HD
+  USL- NBC LA HD
+  USL- NBC MIAMI HD
+  USL- NBC NEW YORK HD
+  USL- NBC PHILADELFPHIA*
+  USL- NESN PLUS á´´á´°
+  USL- NESN SPORTS HD
+  USL- NESN á´´á´°
+  USL- NEWSY
+  USL- NFL NETWORK HD
+  USL- NICKTOONS HD
+  USL- ONE AMERICA NEWS á´´á´°
+  USL- OWN CHANNEL FHD
+  USL- OWN HD
+  USL- OXYGEN á´´á´°
+  USL- PAC BAY AREA HD
+  USL- PAC WASHINTONG HD
+  USL- PAC-12 WASHINGTON HD
+  USL- PBS HD
+  USL- PBS KIDS HD
+  USL- PEOPLE TV HD
+  USL- POP
+  USL- QVC
+  USL- REVOLT
+  USL- SCIENCE HD
+  USL- SEC NETWORK HD
+  USL- SHOWTIME EAST HD
+  USL- SHOWTIME FAMILY ZONE
+  USL- SHOWTIME FAMILYE ZONE | HD
+  USL- SHOWTIME NEXT
+  USL- SHOWTIME NEXT HD
+  USL- SHOWTIME SHOWCASE
+  USL- SHOWTIME WEST HD
+  USL- SHOWTIME WOMEN HD
+  USL- SMITHSONIAN CHANNEL WEST
+  USL- SNY HD
+  USL- SPORTSNET NYC
+  USL- SPORTSNET PACIFIC HD
+  USL- STARZ EDGE HD
+  USL- STARZ ENCORE ACTION
+  USL- STARZ ENCORE BLACK HD
+  USL- SUNDANCE HD
+  USL- TBS EAST | HD
+  USL- TBS HD
+  USL- TBS PACIFICO HD
+  USL- TEEN NICK HD
+  USL- THE WEATHER CHANNEL HD
+  USL- TLC PACIFICO HD
+  USL- TRAVEL CHANNEL á´´á´°
+  USL- TRAVEL HD
+  USL- TRU TV FHD
+  USL- TRU TV HD
+  USL- TV ONE
+  USL- TVLAND HD
+  USL- UFC FIGHT PASS
+  USL- UFC FIGHT PASS*
+  USL- UNIVERSAL KIDS
+  USL- UNIVERSAL KIDS HD
+  USL- USA NETWORK PACIFICO HD
+  USL- VH1
+  USL- VICELAND HD
+  USL- VICELAND HD
+  USL- VIP HBO ZONE HD
+  USL- VIP MOVIE 5 STARMAX HD
+  USL- VIP MOVIE CINEMAX EAST FHD
+  USL- VIP MOVIE CINEMAX EAST HD
+  USL- VIP MOVIE HBO 2 HD
+  USL- VIP MOVIE HBO 2 WEST HD
+  USL- VIP MOVIE HBO PLUS WEST HD
+  USL- VIP MOVIE HBO SIGNATURE HD
+  USL- VIP MOVIE OUTERMAX HD
+  USL- VIP MOVIE RETROPLEX HD
+  USL- VIP MOVIE STARZ CINEMA HD
+  USL- VIP MOVIE STARZ CINEMA WEST HD
+  USL- VIP MOVIE STARZ COMEDY HD
+  USL- VIP MOVIE STARZ ENCORE SUSPENSE HD
+  USL- VIP MOVIE STARZ ENCORE WEST HD
+  USL- VIP MOVIE STARZ KIDS & FAMILY HD
+  USL- VIP STARZ HD
+  USL- WE TV á´´á´°
+  USL- WEATHER CHANNEL HD
+  USL- WGN AMERICA
+  USL- WORLD FISHING NETWORK
+  USL- WORLD FISHING NETWORK HD
+  USL- WWE NETWORK | HD
+  USL- World Poker Tour
+  USL- YES NETWORK á´´á´°
+  USL-DEPORTES| BEIN SPORTS ENGLISH  HD
+  USL-STARZ ENCORE FAMILY HD
+  Ultraman
+  Ultraman
+  Um Espiao Infiltrado
+  Um Maluco no Pedaço
+  Um Prospero Anus Novo
+  Uma Advogada Extraordinária
+  Ursinhos Carinhosos Libere a Magia
+  VAN DAMME - S1
+  VAN DAMME - S2
+  VAN DAMME - S3
+  Vai Que Cola
+  Vai Sua Cavalona Entao Toma
+  Vai!
+  Vampirina Uma Vampirinha Adolescente
+  Velozes e Furiosos  Espioes do Asfalto
+  Victor e Léo
+  Victoria Camargo
+  Vincenzo
+  Vinland Saga
+  Vis A Vis
+  Vivendo com o Inimigo
+  Você
+  W-SPORT HD
+  WRC- RALLY TV
+  WWE HD
+  WandaVision
+  Web Cam Girls 2
+  Wesley Snipes -  S1
+  Wesley Snipes - S2
+  What If
+  Wicked - 01
+  Wicked - 02
+  Wicked - 03
+  Wicked - 04
+  Wicked - 05
+  Wicked - 06
+  Wicked - 07
+  Wicked - 08
+  Wicked - 09
+  Wicked - 10
+  Wicked - 11
+  Wicked - 12
+  Wicked - 13
+  Wicked - 14
+  Wicked - 15
+  Wicked - 16
+  Will Smith - S1
+  Will Smith - S2
+  Winspector
+  X Sports FHD
+  X Sports HD
+  X Sports SD
+  X-Men '97
+  X-Men: Evolution
+  Xena - A Princesa Guerreira
+  Yabba-Dabba Dinossauros
+  Yasmim Avila
+  Yin Yang Yo!
+  Yu Yu Hakusho
+  Yu-Gi-Oh!
+  ZAP VIVA FHD
+  Zack e Cody  Gêmeos a Bordo
+  Zig e Sharko
+  Zé Coleta
+  [+18] ADULTO 01
+  [+18] ADULTO 02
+  [+18] ADULTO 03
+  [+18] ADULTO 04
+  [+18] ADULTO 05
+  [+18] ADULTO 06
+  [+18] ADULTO 07
+  [+18] ADULTO 08
+  [+18] ADULTO 09
+  [+18] ADULTO 10
+  [+18] ADULTO 11
+  [+18] ADULTO 12
+  [+18] ADULTO 13
+  [+18] ADULTO 14
+  [+18] ADULTO 15
+  [+18] ADULTO 16
+  [+18] ADULTO 17
+  [+18] ADULTO 18
+  [+18] ADULTO 19
+  [+18] ADULTO 20
+  [+18] ADULTO 21
+  [+18] ADULTO 22
+  [+18] ADULTO 23
+  [+18] ADULTO 24
+  [+18] ADULTO 25
+  [+18] ADULTO 26
+  [+18] ADULTO 27
+  [+18] ADULTO 28
+  [+18] ADULTO 29
+  [+18] ADULTO 30
+  [+18] ADULTO 31
+  [+18] ADULTO 32
+  [+18] ADULTO 33
+  [+18] ADULTO 34
+  [+18] ADULTO 35
+  [+18] ADULTO 36
+  [+18] ADULTO 37
+  [+18] ADULTO 38
+  [+18] ADULTO 39
+  [+18] ADULTO 40
+  [+18] ADULTO 41
+  [+18] ADULTO 42
+  [+18] ADULTO 43
+  [+18] ADULTO 44
+  [+18] ADULTO 45
+  [+18] ADULTO 46
+  [+18] ADULTO 47
+  [+18] ADULTO 48
+  [+18] ADULTO 49
+  [+18] ADULTO 50
+  [+18] ADULTO 51
+  [+18] ADULTO 52
+  [+18] ADULTO 53
+  [+18] ADULTO 54
+  [+18] ADULTO 55
+  [+18] ADULTO 56
+  [+18] ADULTO 57
+  [+18] ADULTO 58
+  [+18] ADULTO 59
+  [+18] ADULTO 60
+  [+18] ADULTO 61
+  [+18] ADULTO 62
+  [+18] ADULTO 63
+  [+18] ADULTO 64
+  [+18] ADULTO 65
+  [+18] ADULTO 66
+  [+18] ADULTO 67
+  [+18] ADULTO 68
+  [+18] ADULTO 69
+  [+18] ADULTO 70
+  [+18] ADULTO 71
+  [+18] ADULTO 72
+  [+18] ADULTO 73
+  [+18] ADULTO 74
+  [+18] ADULTO 75
+  [CA] ABC HD
+  [CA] ABC SPARK HD
+  [CA] ADULT SWIM HD
+  [CA] BBC CANADA HD
+  [CA] BEIN LaLiga HD
+  [CA] BET HD
+  [CA] BNN BLOOMBERG HD
+  [CA] CANAL SAVOIR HD
+  [CA] CBC CALGARY HD
+  [CA] CBC HD
+  [CA] CBC MONTREAL HD
+  [CA] CBC NEWS NETWORK HD
+  [CA] CBC OTTAWA HD
+  [CA] CBC TORONTO HD
+  [CA] CBC VANCOUVER HD
+  [CA] CHCH HD
+  [CA] CITY CALGARY HD
+  [CA] CITY MONTREAL HD
+  [CA] CITY TORONTO HD
+  [CA] CITY TV HD
+  [CA] CITY VANCOUVER HD
+  [CA] CMT HD
+  [CA] CNBC HD
+  [CA] CNN HD
+  [CA] COOKING CHANNEL HD
+  [CA] CP24 HD
+  [CA] CPAC HD
+  [CA] CRAVE 1 HD
+  [CA] CRIME & INVESTIGATION
+  [CA] CTV 2 VANCOUVER HD
+  [CA] CTV CALGARY HD
+  [CA] CTV COMEDY HD
+  [CA] CTV DRAMA HD
+  [CA] CTV KITCHNER
+  [CA] CTV LIFE
+  [CA] CTV MONTREAL HD
+  [CA] CTV MONTREAL HD
+  [CA] CTV NEWS CHANNEL TORONTO HD
+  [CA] CTV NEWS CHANNELS HD
+  [CA] CTV OTTAWA HD
+  [CA] CTV SCI-FI HD
+  [CA] CTV TORONTO HD
+  [CA] CTV VANCOUVER HD
+  [CA] CTV2 OTTAWA HD
+  [CA] DISCOVERY FAMILY HD
+  [CA] DISNEY JUNIOR HD
+  [CA] DISNEY XD HD
+  [CA] DIY NETWORK HD
+  [CA] DIY NETWORK HD
+  [CA] DOCUMENTARY CHANNEL HD
+  [CA] E! ENTERTAINMENT HD
+  [CA] FAMILY JUNIOR HD
+  [CA] FIGHT NETWORK HD
+  [CA] FOX NEWS HD
+  [CA] FOX SPORTS HD
+  [CA] FOX SPORTS RACING HD
+  [CA] FXX HD
+  [CA] GAME SHOW NETWORK HD
+  [CA] GOLF CHANNEL HD
+  [CA] H2 HD
+  [CA] HISTORY CHANNEL HD
+  [CA] HLN HD
+  [CA] LIFETIME MOVIE NETWORK HD
+  [CA] MAX HD
+  [CA] MLB NETWORK HD
+  [CA] MLB TV HD
+  [CA] NAT GEO WILD HD
+  [CA] NATIONAL GEOGRAPHICS HD
+  [CA] NBA TV HD
+  [CA] NFL NETWORK HD
+  [CA] NHL NETWORK HQ
+  [CA] OWN HD
+  [CA] RDS 2
+  [CA] RDS INFO
+  [CA] SHOPPING HD
+  [CA] SHOWCASE HD
+  [CA] SLICE HD
+  [CA] SPIKE TV HD
+  [CA] SPORTSNET 360 HD
+  [CA] SPORTSNET EAST HD
+  [CA] SPORTSNET HD
+  [CA] SPORTSNET ONE HD
+  [CA] SPORTSNET ONTARIO HD
+  [CA] SPORTSNET PACIFIC HD
+  [CA] SPORTSNET WEST HD
+  [CA] TELETOON HD
+  [CA] THE WEATHER CHANNEL HD
+  [CA] TREEHOUSE HD
+  [CA] TSN 1
+  [CA] TSN 1 HD*
+  [CA] TSN 2 HD
+  [CA] TSN 3 HD
+  [CA] TSN 4 HD
+  [CA] TSN 5 HD
+  [CA] TV ONTARIO HD
+  [CA] TV5 QUEBEC
+  [CA] TVA MONTREAL HD
+  [CA] TVO HD
+  [CA] W NETWORK HD
+  [CA] WEATHER NETWORK HD
+  [CA] YES TV
+  [CA]FR: ADDIK TV
+  [CA]FR: CASA
+  [CA]FR: EVASION
+  [CA]FR: ICI MONTREAL
+  [CA]FR: ICI VANCOUVER FR
+  [CA]FR: MAX(French)
+  [CA]FR: METEO
+  [CA]FR: PRISE
+  [CA]FR: SERIS
+  [CA]FR: VIE
+  [CA]FR: VRAKTV
+  [CA]FR: ZTELE
+  a Patroa e as Crianças
+  iCarly
+  todo mundo odeia cris - S1 E S2
+  todo mundo odeia cris - S3 E S4
+  um maluco no pedaço - S1
+  um maluco no pedaço - S2
+  um maluco no pedaço - S3
+  um maluco no pedaço - S4
+  um maluco no pedaço - S5
+  um maluco no pedaço - S6
+  |DE| Sky Sports F1 HD
+  |DE| Sky Sports F1 ʰᵉᵛᶜ
+  ֎֎֎EXCLUSIVOS EUROTOP֎֎֎
+  ֎֎֎֎DESPORTO ֎֎֎֎
+  ֎֎֎֎FILMES֎֎֎֎
+  ֎֎֎֎INFORMAÇÃO֎֎֎֎
+  ֎֎֎֎KIDS֎֎֎֎
+  ֎֎֎֎SERIES֎֎֎֎
