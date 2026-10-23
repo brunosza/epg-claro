@@ -67,11 +67,11 @@ CASADOS (869)
   BIS HD  ->  BIS
   BIS SD  ->  BIS
   BIS UHD  ->  BIS
-  BLOOMBERG  ->  Bloomberg HD  [fonte extra 4]
-  BOOMERANG  ->  Boomerang HD  [fonte extra 4]
-  Band Belém HD  ->  Band Belém  [fonte extra 4]
-  Band Brasília HD  ->  Band Brasília HD  [fonte extra 4]
-  Band Minas FHD  ->  Band Minas HD  [fonte extra 4]
+  BLOOMBERG  ->  Bloomberg HD  [fonte extra 2]
+  BOOMERANG  ->  Boomerang HD  [fonte extra 2]
+  Band Belém HD  ->  Band Belém  [fonte extra 2]
+  Band Brasília HD  ->  Band Brasília HD  [fonte extra 2]
+  Band Minas FHD  ->  Band Minas HD  [fonte extra 2]
   Band News FHD  ->  Band News
   Band News H265  ->  Band News
   Band News HD  ->  Band News
@@ -89,21 +89,21 @@ CASADOS (869)
   Band Sports UHD  ->  Band Sports
   CANAL SONY FHD H265 (LEGENDADOS)  ->  Sony
   CANAL SONY H265 (LEGENDADOS)  ->  Sony
-  CANÇÃO NOVA  ->  Canção Nova HD  [fonte extra 4]
+  CANÇÃO NOVA  ->  Canção Nova HD  [fonte extra 2]
   CARTOON  NETWORK SD  ->  Cartoon Network
   CARTOON NETWORK 4K  ->  Cartoon Network
   CINEMAX H265 (LEGENDADOS)  ->  Cinemax
   CINEMAX HD (LEGENDADOS)  ->  Cinemax
-  CNN ( HD HEVC )©  ->  CNN  [fonte extra 4]
+  CNN ( HD HEVC )©  ->  CNN  [fonte extra 2]
   CNN BRASIL 4K  ->  CNN Brasil
   CNN Brasil FHD  ->  CNN Brasil
   CNN Brasil H265  ->  CNN Brasil
   CNN Brasil HD  ->  CNN Brasil
   CNN Brasil SD  ->  CNN Brasil
   CNN Brasil UHD  ->  CNN Brasil
-  CNN FHD  ->  CNN  [fonte extra 4]
-  CNN HD  ->  CNN  [fonte extra 4]
-  CNN SD  ->  CNN  [fonte extra 4]
+  CNN FHD  ->  CNN  [fonte extra 2]
+  CNN HD  ->  CNN  [fonte extra 2]
+  CNN SD  ->  CNN  [fonte extra 2]
   COMBATE  ->  Combate
   COMBATE 4K  ->  Combate
   COMBATE FHD  ->  Combate
@@ -131,11 +131,11 @@ CASADOS (869)
   Canal do Boi HD  ->  Canal do Boi
   Canal do Boi SD  ->  Canal do Boi
   Canal do Boi UHD  ->  Canal do Boi
-  Cancao Nova FHD  ->  Canção Nova HD  [fonte extra 4]
-  Cancao Nova H265  ->  Canção Nova HD  [fonte extra 4]
-  Cancao Nova HD  ->  Canção Nova HD  [fonte extra 4]
-  Cancao Nova SD  ->  Canção Nova HD  [fonte extra 4]
-  Cancao Nova UHD  ->  Canção Nova HD  [fonte extra 4]
+  Cancao Nova FHD  ->  Canção Nova HD  [fonte extra 2]
+  Cancao Nova H265  ->  Canção Nova HD  [fonte extra 2]
+  Cancao Nova HD  ->  Canção Nova HD  [fonte extra 2]
+  Cancao Nova SD  ->  Canção Nova HD  [fonte extra 2]
+  Cancao Nova UHD  ->  Canção Nova HD  [fonte extra 2]
   Cartoon Network FHD  ->  Cartoon Network
   Cartoon Network H265  ->  Cartoon Network
   Cartoon Network HD  ->  Cartoon Network
@@ -261,11 +261,11 @@ CASADOS (869)
   ESPN 6 HD²  ->  ESPN 6  [fonte extra 1]
   ESPN 6 HD¹  ->  ESPN 6  [fonte extra 1]
   ESPN 6 SD¹  ->  ESPN 6  [fonte extra 1]
-  ESPN Extra FHD  ->  ESPN Extra  [fonte extra 4]
-  ESPN Extra H265  ->  ESPN Extra  [fonte extra 4]
-  ESPN Extra HD  ->  ESPN Extra  [fonte extra 4]
-  ESPN Extra SD  ->  ESPN Extra  [fonte extra 4]
-  ESPN Extra UHD  ->  ESPN Extra  [fonte extra 4]
+  ESPN Extra FHD  ->  ESPN Extra  [fonte extra 2]
+  ESPN Extra H265  ->  ESPN Extra  [fonte extra 2]
+  ESPN Extra HD  ->  ESPN Extra  [fonte extra 2]
+  ESPN Extra SD  ->  ESPN Extra  [fonte extra 2]
+  ESPN Extra UHD  ->  ESPN Extra  [fonte extra 2]
   ESPN FHD²  ->  ESPN
   ESPN FHD³  ->  ESPN
   ESPN FHD¹  ->  ESPN
@@ -284,11 +284,11 @@ CASADOS (869)
   Eurochannel UHD  ->  Eurochannel HD
   FASHION TV HD  ->  Fashion TV HD
   FOOD NETWORK  ->  Food Network
-  FOX Sports 2 FHD  ->  FOX Sports 2 HD  [fonte extra 4]
-  FOX Sports 2 H265  ->  FOX Sports 2 HD  [fonte extra 4]
-  FOX Sports 2 HD  ->  FOX Sports 2 HD  [fonte extra 4]
-  FOX Sports 2 SD  ->  FOX Sports 2 HD  [fonte extra 4]
-  FOX Sports 2 UHD  ->  FOX Sports 2 HD  [fonte extra 4]
+  FOX Sports 2 FHD  ->  FOX Sports 2 HD  [fonte extra 2]
+  FOX Sports 2 H265  ->  FOX Sports 2 HD  [fonte extra 2]
+  FOX Sports 2 HD  ->  FOX Sports 2 HD  [fonte extra 2]
+  FOX Sports 2 SD  ->  FOX Sports 2 HD  [fonte extra 2]
+  FOX Sports 2 UHD  ->  FOX Sports 2 HD  [fonte extra 2]
   Fashion TV  UHD  ->  Fashion TV HD
   Fashion TV FHD  ->  Fashion TV HD
   Fashion TV H265  ->  Fashion TV HD
@@ -319,10 +319,10 @@ CASADOS (869)
   Futura HD  ->  Futura
   Futura SD  ->  Futura
   Futura UHD  ->  Futura
-  GLOBO BRASILIA 4K  ->  Globo Brasília HD  [fonte extra 4]
+  GLOBO BRASILIA 4K  ->  Globo Brasília HD  [fonte extra 2]
   GLOBO NEWS 4K  ->  GloboNews
-  GLOBO RJ 4K  ->  Globo RJ  [fonte extra 4]
-  GLOBO SP 4K  ->  Globo SP  [fonte extra 4]
+  GLOBO RJ 4K  ->  Globo RJ  [fonte extra 2]
+  GLOBO SP 4K  ->  Globo SP  [fonte extra 2]
   GNT 4K  ->  GNT
   GNT FHD  ->  GNT
   GNT H265  ->  GNT
@@ -334,9 +334,9 @@ CASADOS (869)
   Gazeta HD  ->  Gazeta
   Gazeta SD  ->  Gazeta
   Gazeta UHD  ->  Gazeta
-  Globo Nordeste FHD  ->  Globo Nordeste HD  [fonte extra 4]
-  Globo Nordeste HD  ->  Globo Nordeste HD  [fonte extra 4]
-  Globo Nordeste SD  ->  Globo Nordeste HD  [fonte extra 4]
+  Globo Nordeste FHD  ->  Globo Nordeste HD  [fonte extra 2]
+  Globo Nordeste HD  ->  Globo Nordeste HD  [fonte extra 2]
+  Globo Nordeste SD  ->  Globo Nordeste HD  [fonte extra 2]
   Globo SP - São Paulo FHD  ->  Globo
   Globo SP - São Paulo H265  ->  Globo
   Globo SP - São Paulo HD  ->  Globo
@@ -447,10 +447,10 @@ CASADOS (869)
   ID HD  ->  ID
   ID SD  ->  ID
   ID UHD  ->  ID
-  Ideal TV H265  ->  Ideal TV HD  [fonte extra 4]
-  Ideal TV HD  ->  Ideal TV HD  [fonte extra 4]
-  Ideal TV SD  ->  Ideal TV HD  [fonte extra 4]
-  Ideal TV UHD  ->  Ideal TV HD  [fonte extra 4]
+  Ideal TV H265  ->  Ideal TV HD  [fonte extra 2]
+  Ideal TV HD  ->  Ideal TV HD  [fonte extra 2]
+  Ideal TV SD  ->  Ideal TV HD  [fonte extra 2]
+  Ideal TV UHD  ->  Ideal TV HD  [fonte extra 2]
   JOVEM PAN NEWS 4K  ->  Jovem Pan News  [fonte extra 1]
   Jovem Pan News FHD  ->  Jovem Pan News  [fonte extra 1]
   Jovem Pan News H265  ->  Jovem Pan News  [fonte extra 1]
@@ -493,10 +493,10 @@ CASADOS (869)
   NATIONAL GEOGRAPHIC SD  ->  National Geographic
   National Geographic H265  ->  National Geographic
   National Geographic UHD  ->  National Geographic
-  Nick Jr. FHD  ->  Nick Jr. HD  [fonte extra 4]
-  Nick Jr. HD  ->  Nick Jr. HD  [fonte extra 4]
-  Nick Jr. SD  ->  Nick Jr. HD  [fonte extra 4]
-  Nick Jr. UHD  ->  Nick Jr. HD  [fonte extra 4]
+  Nick Jr. FHD  ->  Nick Jr. HD  [fonte extra 2]
+  Nick Jr. HD  ->  Nick Jr. HD  [fonte extra 2]
+  Nick Jr. SD  ->  Nick Jr. HD  [fonte extra 2]
+  Nick Jr. UHD  ->  Nick Jr. HD  [fonte extra 2]
   OFF FHD  ->  Off
   OFF H265  ->  Off
   OFF HD  ->  Off
@@ -573,13 +573,13 @@ CASADOS (869)
   Premiere 7 SD²  ->  Premiere 7
   Premiere 7 SD¹  ->  Premiere 7
   Premiere 7 UHD  ->  Premiere 7
-  Premiere 8 FHD¹  ->  Premiere 8 HD  [fonte extra 4]
-  Premiere 8 H265  ->  Premiere 8 HD  [fonte extra 4]
-  Premiere 8 HD¹  ->  Premiere 8 HD  [fonte extra 4]
-  Premiere 8 SD²  ->  Premiere 8 HD  [fonte extra 4]
-  Premiere 8 SD³  ->  Premiere 8 HD  [fonte extra 4]
-  Premiere 8 SD¹  ->  Premiere 8 HD  [fonte extra 4]
-  Premiere 8 UHD  ->  Premiere 8 HD  [fonte extra 4]
+  Premiere 8 FHD¹  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 H265  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 HD¹  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 SD²  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 SD³  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 SD¹  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 UHD  ->  Premiere 8 HD  [fonte extra 2]
   Premiere Clubes FHD²  ->  Premiere Clubes
   Premiere Clubes FHD³  ->  Premiere Clubes
   Premiere Clubes FHD¹  ->  Premiere Clubes
@@ -598,7 +598,7 @@ CASADOS (869)
   Prime Box Brazil UHD  ->  Prime Box Brazil
   RECORD SP 4K  ->  Record
   REDE TV! 4K  ->  Rede TV
-  RIT FHD  ->  RIT HD  [fonte extra 4]
+  RIT FHD  ->  RIT HD  [fonte extra 2]
   Record News FHD  ->  Record News 
   Record News H265  ->  Record News 
   Record News HD  ->  Record News 
@@ -610,14 +610,14 @@ CASADOS (869)
   Record SP SD  ->  Record
   Record SP UHD  ->  Record
   Rede Brasil HD  ->  Rede Brasil HD  [fonte extra 1]
-  Rede Familia  ->  Rede Familia HD  [fonte extra 4]
+  Rede Familia  ->  Rede Familia HD  [fonte extra 2]
   Rede Gospel FHD  ->  Rede Gospel
   Rede Gospel H265  ->  Rede Gospel
   Rede Gospel HD  ->  Rede Gospel
   Rede Gospel SD  ->  Rede Gospel
   Rede Gospel UHD  ->  Rede Gospel
-  Rede Seculo 21 FHD  ->  Rede Século 21 HD  [fonte extra 4]
-  Rede Super HD  ->  Rede Super HD  [fonte extra 4]
+  Rede Seculo 21 FHD  ->  Rede Século 21 HD  [fonte extra 2]
+  Rede Super HD  ->  Rede Super HD  [fonte extra 2]
   Rede Vida FHD  ->  Rede Vida
   Rede Vida H265  ->  Rede Vida
   Rede Vida HD  ->  Rede Vida
@@ -628,17 +628,17 @@ CASADOS (869)
   RedeTV! HD  ->  Rede TV
   RedeTV! SD  ->  Rede TV
   RedeTV! UHD  ->  Rede TV
-  SBT Brasília HD  ->  SBT Brasília HD  [fonte extra 4]
-  SBT RS FHD  ->  SBT RS HD  [fonte extra 4]
-  SBT RS HD  ->  SBT RS HD  [fonte extra 4]
+  SBT Brasília HD  ->  SBT Brasília HD  [fonte extra 2]
+  SBT RS FHD  ->  SBT RS HD  [fonte extra 2]
+  SBT RS HD  ->  SBT RS HD  [fonte extra 2]
   SBT SP FHD  ->  SBT HD
   SBT SP H265  ->  SBT HD
   SBT SP HD  ->  SBT HD
   SBT SP SD  ->  SBT HD
-  SIC ( HD HEVC )©  ->  SIC  [fonte extra 4]
-  SIC FHD  ->  SIC  [fonte extra 4]
-  SIC HD  ->  SIC  [fonte extra 4]
-  SIC SD  ->  SIC  [fonte extra 4]
+  SIC ( HD HEVC )©  ->  SIC  [fonte extra 2]
+  SIC FHD  ->  SIC  [fonte extra 2]
+  SIC HD  ->  SIC  [fonte extra 2]
+  SIC SD  ->  SIC  [fonte extra 2]
   SPACE H265 (CANAIS LEGENDADOS )  ->  Space
   SPACE HD (CANAIS LEGENDADOS )  ->  Space
   STUDIO UNIVERSAL   (LEGENDADOS)  ->  Studio Universal
@@ -763,11 +763,11 @@ CASADOS (869)
   TV GLOBO FHD  ->  Globo
   TV GLOBO HD  ->  Globo
   TV GLOBO SD  ->  Globo
-  TV Novo Tempo FHD  ->  TV Novo Tempo HD  [fonte extra 4]
-  TV Novo Tempo H265  ->  TV Novo Tempo HD  [fonte extra 4]
-  TV Novo Tempo HD  ->  TV Novo Tempo HD  [fonte extra 4]
-  TV Novo Tempo SD  ->  TV Novo Tempo HD  [fonte extra 4]
-  TV Novo Tempo UHD  ->  TV Novo Tempo HD  [fonte extra 4]
+  TV Novo Tempo FHD  ->  TV Novo Tempo HD  [fonte extra 2]
+  TV Novo Tempo H265  ->  TV Novo Tempo HD  [fonte extra 2]
+  TV Novo Tempo HD  ->  TV Novo Tempo HD  [fonte extra 2]
+  TV Novo Tempo SD  ->  TV Novo Tempo HD  [fonte extra 2]
+  TV Novo Tempo UHD  ->  TV Novo Tempo HD  [fonte extra 2]
   TV Pai Eterno FHD  ->  TV Pai Eterno
   TV Pai Eterno FHD  ->  TV Pai Eterno
   TV RECORD HD  ->  Record
@@ -776,14 +776,14 @@ CASADOS (869)
   TV Ra Tim Bum HD  ->  TV Rá Tim Bum
   TV Ra Tim Bum SD  ->  TV Rá Tim Bum
   TV Ra Tim Bum UHD  ->  TV Rá Tim Bum
-  TV Uniao FHD  ->  TV União HD  [fonte extra 4]
-  TV Uniao H265  ->  TV União HD  [fonte extra 4]
-  TV Uniao HD  ->  TV União HD  [fonte extra 4]
-  TV Uniao SD  ->  TV União HD  [fonte extra 4]
-  TV Uniao UHD  ->  TV União HD  [fonte extra 4]
-  TVE Bahia FHD  ->  TVE Bahia  [fonte extra 4]
-  TVE Bahia HD  ->  TVE Bahia  [fonte extra 4]
-  TVE Bahia SD  ->  TVE Bahia  [fonte extra 4]
+  TV Uniao FHD  ->  TV União HD  [fonte extra 2]
+  TV Uniao H265  ->  TV União HD  [fonte extra 2]
+  TV Uniao HD  ->  TV União HD  [fonte extra 2]
+  TV Uniao SD  ->  TV União HD  [fonte extra 2]
+  TV Uniao UHD  ->  TV União HD  [fonte extra 2]
+  TVE Bahia FHD  ->  TVE Bahia  [fonte extra 2]
+  TVE Bahia HD  ->  TVE Bahia  [fonte extra 2]
+  TVE Bahia SD  ->  TVE Bahia  [fonte extra 2]
   TVE INTERNACIONAL  ->  TVE International
   Telecine Action FHD  ->  Telecine Action
   Telecine Action FHD [LEG]  ->  Telecine Action
@@ -833,16 +833,16 @@ CASADOS (869)
   Telecine Touch SD  ->  Telecine Touch
   Telecine Touch SD [LEG]  ->  Telecine Touch
   Telecine Touch UHD  ->  Telecine Touch
-  Trace Brazuca FHD  ->  Trace Brazuca  [fonte extra 4]
-  Trace Brazuca H265  ->  Trace Brazuca  [fonte extra 4]
-  Trace Brazuca HD  ->  Trace Brazuca  [fonte extra 4]
-  Trace Brazuca SD  ->  Trace Brazuca  [fonte extra 4]
-  Trace Brazuca UHD  ->  Trace Brazuca  [fonte extra 4]
-  Travel Box Brazil FHD  ->  Travel Box Brazil HD  [fonte extra 4]
-  Travel Box Brazil H265  ->  Travel Box Brazil HD  [fonte extra 4]
-  Travel Box Brazil HD  ->  Travel Box Brazil HD  [fonte extra 4]
-  Travel Box Brazil SD  ->  Travel Box Brazil HD  [fonte extra 4]
-  Travel Box Brazil UHD  ->  Travel Box Brazil HD  [fonte extra 4]
+  Trace Brazuca FHD  ->  Trace Brazuca  [fonte extra 2]
+  Trace Brazuca H265  ->  Trace Brazuca  [fonte extra 2]
+  Trace Brazuca HD  ->  Trace Brazuca  [fonte extra 2]
+  Trace Brazuca SD  ->  Trace Brazuca  [fonte extra 2]
+  Trace Brazuca UHD  ->  Trace Brazuca  [fonte extra 2]
+  Travel Box Brazil FHD  ->  Travel Box Brazil HD  [fonte extra 2]
+  Travel Box Brazil H265  ->  Travel Box Brazil HD  [fonte extra 2]
+  Travel Box Brazil HD  ->  Travel Box Brazil HD  [fonte extra 2]
+  Travel Box Brazil SD  ->  Travel Box Brazil HD  [fonte extra 2]
+  Travel Box Brazil UHD  ->  Travel Box Brazil HD  [fonte extra 2]
   UNIVERSAL TV FHD H265 (LEGENDADO)  ->  Universal TV
   UNIVERSAL TV H265 (LEGENDADOS)  ->  Universal TV
   Universal TV FHD  ->  Universal TV
