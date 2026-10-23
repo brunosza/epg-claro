@@ -1,0 +1,28 @@
+name: Diagnostico
+on: workflow_dispatch
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          python3 - <<'PY'
+          import gzip, urllib.request, xml.etree.ElementTree as ET, datetime as dt, json
+          agora = dt.datetime.now(dt.timezone.utc)
+          br = dt.timezone(dt.timedelta(hours=-3))
+          print(f"::notice::agora {agora.astimezone(br):%H:%M} BRT")
+          def claro(cid):
+              h = agora.astimezone(br)
+              u = (f"https://programacao.claro.com.br/gatekeeper/exibicao/select?q=id_revel:(1_{cid})+AND+id_cidade:1&wt=json&rows=12"
+                   f"&sort=dh_inicio+asc&fl=dh_inicio+dh_fim+titulo&fq=dh_inicio:[{h.year}-{h.month}-{h.day}T{max(h.hour-3,0):02d}:00:00Z+TO+{h.year}-{h.month}-{h.day}T23:59:00Z]")
+              d = json.load(urllib.request.urlopen(u))["response"]["docs"]
+              return " | ".join(f"{x['dh_inicio'][11:16]}-{x['dh_fim'][11:16]} {x['titulo']}" for x in d[:8])
+          for cid, nome in ((426, "ESPN"), (2432, "ESPN 2 HD"), (1049, "ESPN HD")):
+              print(f"::notice::CLARO {nome}#{cid}: {claro(cid)}")
+          b = gzip.decompress(urllib.request.urlopen("https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz").read())
+          t = ET.fromstring(b)
+          for p in t.findall("programme"):
+              if p.get("channel") in ("ESPN.2.br", "ESPN.br"):
+                  ini = dt.datetime.strptime(p.get("start"), "%Y%m%d%H%M%S %z"); fim = dt.datetime.strptime(p.get("stop"), "%Y%m%d%H%M%S %z")
+                  if ini - dt.timedelta(hours=2) <= agora < fim + dt.timedelta(hours=2):
+                      print(f"::notice::EPGSHARE {p.get('channel')} {ini.astimezone(br):%H:%M}-{fim.astimezone(br):%H:%M} {p.findtext('title')}")
+          PY
