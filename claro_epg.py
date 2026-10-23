@@ -113,12 +113,36 @@ def saidas_padrao(canais, mapa):
     return saidas
 
 
-QUALIDADE = re.compile(r"\b(full\s*hd|fhd|uhd|hd|sd|4k|8k|h\.?265|hevc|h\.?264|alt|alternativo|backup|bkp|reserva)\s*\d*\b")
+# Qualidade/versão: "FHD1", "SD2", "HD" somem; "HD 7" vira "7" (Premiere HD 7 = Premiere 7).
+QUALIDADE = re.compile(r"\b(full\s*hd|fhd|uhd|hd|sd|4k|8k|h\.?265|hevc|h\.?264|alt|alternativo|backup|bkp|reserva)\d*\b")
+SOBRESCRITOS = str.maketrans("", "", "¹²³⁰⁴⁵⁶⁷⁸⁹©®™")
+
+# Nomes da sua lista que não batem com a Claro só pelo texto (já normalizados).
+APELIDOS_PADRAO = {
+    "globospsaopaulo": "globo", "globosp": "globo", "tvglobo": "globo",
+    "bandsp": "band", "recordsp": "record", "tvrecord": "record", "sbtsp": "sbt",
+    "canalsony": "sony", "history": "thehistorychannel",
+    "dischomeehealth": "discoveryhomeehealth", "discoveryhomeandhealth": "discoveryhomeehealth",
+    "travelboxbrazil": "travelboxbrasil", "playboy": "playboytv", "rit": "rittv",
+    "bloomberg": "bloombergtv", "tveinternacional": "tveinternational",
+}
+
+
+# "[CA] HBO", "USL- HBO", "LAT | HBO": canais de outros países, com outra grade.
+PREFIXO_PAIS = re.compile(r"^\s*(?:\[([a-z]{2,3})\]|([a-z]{2,3})\s*[|:\-])", re.I)
+
+
+PAISES = {"us", "usa", "usl", "ca", "lat", "es", "it", "uk", "pt", "ar", "mx", "cl", "co", "fr", "de"}
+
+
+def estrangeiro(nome):
+    m = PREFIXO_PAIS.match(nome)
+    return bool(m) and (m.group(1) or m.group(2)).lower() in PAISES
 
 
 def normalizar(nome):
     """'BR | SporTV FHD1 [H265]' -> 'sportv'. Mantém números que fazem parte do nome (SporTV 2)."""
-    s = unicodedata.normalize("NFKD", nome).encode("ascii", "ignore").decode().lower()
+    s = unicodedata.normalize("NFKD", nome.translate(SOBRESCRITOS)).encode("ascii", "ignore").decode().lower()
     s = re.sub(r"\[.*?\]|\(.*?\)|\{.*?\}", " ", s)
     s = re.sub(r"^\s*[a-z]{2,3}\s*[|:\-]\s*", " ", s)  # prefixos como "BR |", "BR:"
     s = s.replace("+", " plus ").replace("&", " e ")
@@ -148,7 +172,12 @@ def saidas_xc(canais, streams, mapa_nomes):
         nome = (s.get("name") or "").strip()
         if not nome:
             continue
-        chave = mapa_nomes.get(normalizar(nome), normalizar(nome))
+        if estrangeiro(nome):
+            sem_par.append(nome)
+            continue
+        chave = normalizar(nome)
+        if chave not in por_nome:
+            chave = mapa_nomes.get(chave, chave)
         c = por_nome.get(chave)
         if not c:
             sem_par.append(nome)
@@ -357,7 +386,8 @@ def main():
             print(f"Não consegui ler a lista XC ({type(e).__name__}); gerando EPG sem casar canais.", file=sys.stderr)
             a.xc = False
     if a.xc:
-        apelidos = {normalizar(k): normalizar(v) for k, v in (ler_mapa(a.apelidos) if a.apelidos else {}).items()}
+        apelidos = dict(APELIDOS_PADRAO)
+        apelidos.update({normalizar(k): normalizar(v) for k, v in (ler_mapa(a.apelidos) if a.apelidos else {}).items()})
         saidas, casados, sem_par = saidas_xc(canais, streams, apelidos)
         with open("relatorio_canais.txt", "w", encoding="utf-8") as f:
             f.write(f"CASADOS ({len(casados)})\n")
