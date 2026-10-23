@@ -46,15 +46,6 @@ jobs:
           date -u "+Atualizado em %Y-%m-%d %H:%M UTC" >> site/status.txt
           while read -r linha; do echo "::notice::$linha"; done < site/status.txt
           echo '<meta charset="utf-8"><p>EPG Claro: <a href="epg_claro.xml.gz">epg_claro.xml.gz</a></p>' > site/index.html
-      - name: Diagnóstico ESPN
-        continue-on-error: true
-        run: |
-          python3 - <<'PY'
-          import gzip, collections, xml.etree.ElementTree as ET, json, urllib.request
-          t = ET.fromstring(gzip.open("site/epg_claro.xml.gz").read())
-          c = collections.Counter(p.get("channel") for p in t.findall("programme"))
-          print("::notice::" + " | ".join(f"{k}={v}" for k, v in sorted(c.items()) if "espn" in k.lower()))
-          PY
       - name: Guardar relatório no repositório
         run: |
           git config user.name "github-actions[bot]"
