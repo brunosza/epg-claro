@@ -215,13 +215,11 @@ def gerar_xmltv(saidas, programas):
         if chave in vistos or fim <= ini:
             continue
         vistos.add(chave)
-        titulo = p.get("titulo") or p.get("st_titulo") or "Sem título"
-        sub = p.get("st_titulo")
+        # st_titulo é só um código interno (ex.: "vai_que_cola"), não o episódio.
+        titulo = p.get("titulo") or "Sem título"
         for xml_id in por_claro[canal]:
             linhas.append(f"  <programme start=\"{xmltv_hora(ini)}\" stop=\"{xmltv_hora(fim)}\" channel={quoteattr(xml_id)}>")
             linhas.append(f"    <title lang=\"pt\">{escape(titulo)}</title>")
-            if sub and sub != titulo:
-                linhas.append(f"    <sub-title lang=\"pt\">{escape(sub)}</sub-title>")
             linhas.append("  </programme>")
             total += 1
     linhas.append("</tv>")
