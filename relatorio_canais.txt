@@ -596,19 +596,19 @@ CASADOS (869)
   Prime Box Brazil HD  ->  Prime Box Brazil
   Prime Box Brazil SD  ->  Prime Box Brazil
   Prime Box Brazil UHD  ->  Prime Box Brazil
-  RECORD SP 4K  ->  Record
-  REDE TV! 4K  ->  Rede TV
+  RECORD SP 4K  ->  Record HD
+  REDE TV! 4K  ->  Rede TV HD
   RIT FHD  ->  RIT HD  [fonte extra 2]
   Record News FHD  ->  Record News 
   Record News H265  ->  Record News 
   Record News HD  ->  Record News 
   Record News SD  ->  Record News 
   Record News UHD  ->  Record News 
-  Record SP FHD  ->  Record
-  Record SP H265  ->  Record
-  Record SP HD  ->  Record
-  Record SP SD  ->  Record
-  Record SP UHD  ->  Record
+  Record SP FHD  ->  Record HD
+  Record SP H265  ->  Record HD
+  Record SP HD  ->  Record HD
+  Record SP SD  ->  Record HD
+  Record SP UHD  ->  Record HD
   Rede Brasil HD  ->  Rede Brasil HD  [fonte extra 1]
   Rede Familia  ->  Rede Familia HD  [fonte extra 2]
   Rede Gospel FHD  ->  Rede Gospel
@@ -623,11 +623,11 @@ CASADOS (869)
   Rede Vida HD  ->  Rede Vida
   Rede Vida SD  ->  Rede Vida
   Rede Vida UHD  ->  Rede Vida
-  RedeTV! FHD  ->  Rede TV
-  RedeTV! H265  ->  Rede TV
-  RedeTV! HD  ->  Rede TV
-  RedeTV! SD  ->  Rede TV
-  RedeTV! UHD  ->  Rede TV
+  RedeTV! FHD  ->  Rede TV HD
+  RedeTV! H265  ->  Rede TV HD
+  RedeTV! HD  ->  Rede TV HD
+  RedeTV! SD  ->  Rede TV HD
+  RedeTV! UHD  ->  Rede TV HD
   SBT Brasília HD  ->  SBT Brasília HD  [fonte extra 2]
   SBT RS FHD  ->  SBT RS HD  [fonte extra 2]
   SBT RS HD  ->  SBT RS HD  [fonte extra 2]
@@ -676,17 +676,17 @@ CASADOS (869)
   SporTV 2 SD³  ->  SporTV 2
   SporTV 2 SD¹  ->  SporTV 2
   SporTV 2 UHD  ->  SporTV 2
-  SporTV 3 FHD²  ->  SporTV 3 
-  SporTV 3 FHD³  ->  SporTV 3 
-  SporTV 3 FHD¹  ->  SporTV 3 
-  SporTV 3 H265  ->  SporTV 3 
-  SporTV 3 HD²  ->  SporTV 3 
-  SporTV 3 HD³  ->  SporTV 3 
-  SporTV 3 HD¹  ->  SporTV 3 
-  SporTV 3 SD²  ->  SporTV 3 
-  SporTV 3 SD³  ->  SporTV 3 
-  SporTV 3 SD¹  ->  SporTV 3 
-  SporTV 3 UHD  ->  SporTV 3 
+  SporTV 3 FHD²  ->  SporTV 3 HD ³
+  SporTV 3 FHD³  ->  SporTV 3 HD ³
+  SporTV 3 FHD¹  ->  SporTV 3 HD ³
+  SporTV 3 H265  ->  SporTV 3 HD ³
+  SporTV 3 HD²  ->  SporTV 3 HD ³
+  SporTV 3 HD³  ->  SporTV 3 HD ³
+  SporTV 3 HD¹  ->  SporTV 3 HD ³
+  SporTV 3 SD²  ->  SporTV 3 HD ³
+  SporTV 3 SD³  ->  SporTV 3 HD ³
+  SporTV 3 SD¹  ->  SporTV 3 HD ³
+  SporTV 3 UHD  ->  SporTV 3 HD ³
   SporTV 4K  ->  SporTV
   SporTV FHD²  ->  SporTV
   SporTV FHD³  ->  SporTV
@@ -770,7 +770,7 @@ CASADOS (869)
   TV Novo Tempo UHD  ->  TV Novo Tempo HD  [fonte extra 2]
   TV Pai Eterno FHD  ->  TV Pai Eterno
   TV Pai Eterno FHD  ->  TV Pai Eterno
-  TV RECORD HD  ->  Record
+  TV RECORD HD  ->  Record HD
   TV Ra Tim Bum FHD  ->  TV Rá Tim Bum
   TV Ra Tim Bum H265  ->  TV Rá Tim Bum
   TV Ra Tim Bum HD  ->  TV Rá Tim Bum
@@ -956,10 +956,10 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Prime Box Brazil HD ³
   RAI International
   RIT TV
-  Record HD
+  Record
   Rede 21
   Rede Gospel HD
-  Rede TV HD
+  Rede TV
   Rede Vida HD
   SBT
   SIC International
@@ -968,7 +968,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Sony HD ³
   Space HD ³
   SporTV 2 HD ³
-  SporTV 3 HD ³
+  SporTV 3 
   SporTV HD ³
   Studio Universal HD
   Syfy HD
