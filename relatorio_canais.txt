@@ -1,8 +1,8 @@
 TVG-ID ERRADO NA LISTA (5) - acerte o EPG destes à mão no TiviMate
   Cartoonito H265  (tvg-id CartoonNetwork.br = Cartoon Network)
   ESPN 4K  (tvg-id br#espn-1 = ESPN Extra)
-  ESPN FHD²  (tvg-id ESPN4.br = Espn 4)
-  ESPN HD²  (tvg-id ESPN4.br = Espn 4)
+  ESPN FHD²  (tvg-id ESPN4.br = ESPN 4 HD)
+  ESPN HD²  (tvg-id ESPN4.br = ESPN 4 HD)
   ESPN HD³  (tvg-id ESPN2.br = ESPN 2)
 
 CASADOS (869)
@@ -240,15 +240,15 @@ CASADOS (869)
   ESPN 3 SD²  ->  ESPN 3 HD  [fonte extra 1]
   ESPN 3 SD³  ->  ESPN 3 HD  [fonte extra 1]
   ESPN 3 UHD  ->  ESPN 3 HD  [fonte extra 1]
-  ESPN 4 4K  ->  Espn 4  [fonte extra 1]
-  ESPN 4 FHD²  ->  Espn 4  [fonte extra 1]
-  ESPN 4 FHD¹  ->  Espn 4  [fonte extra 1]
-  ESPN 4 H265  ->  Espn 4  [fonte extra 1]
-  ESPN 4 HD²  ->  Espn 4  [fonte extra 1]
-  ESPN 4 HD¹  ->  Espn 4  [fonte extra 1]
-  ESPN 4 SD²  ->  Espn 4  [fonte extra 1]
-  ESPN 4 SD¹  ->  Espn 4  [fonte extra 1]
-  ESPN 4 UHD  ->  Espn 4  [fonte extra 1]
+  ESPN 4 4K  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 FHD²  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 FHD¹  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 H265  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 HD²  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 HD¹  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 SD²  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 SD¹  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 UHD  ->  ESPN 4 HD  [fonte extra 1]
   ESPN 4K  ->  ESPN  [fonte extra 1]
   ESPN 5 FHD²  ->  ESPN 5  [fonte extra 1]
   ESPN 5 FHD¹  ->  ESPN 5  [fonte extra 1]
@@ -573,13 +573,13 @@ CASADOS (869)
   Premiere 7 SD²  ->  Premiere 7
   Premiere 7 SD¹  ->  Premiere 7
   Premiere 7 UHD  ->  Premiere 7
-  Premiere 8 FHD¹  ->  Premiere 8 HD  [fonte extra 2]
-  Premiere 8 H265  ->  Premiere 8 HD  [fonte extra 2]
-  Premiere 8 HD¹  ->  Premiere 8 HD  [fonte extra 2]
-  Premiere 8 SD²  ->  Premiere 8 HD  [fonte extra 2]
-  Premiere 8 SD³  ->  Premiere 8 HD  [fonte extra 2]
-  Premiere 8 SD¹  ->  Premiere 8 HD  [fonte extra 2]
-  Premiere 8 UHD  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 FHD¹  ->  Premiere 8  [fonte extra 2]
+  Premiere 8 H265  ->  Premiere 8  [fonte extra 2]
+  Premiere 8 HD¹  ->  Premiere 8  [fonte extra 2]
+  Premiere 8 SD²  ->  Premiere 8  [fonte extra 2]
+  Premiere 8 SD³  ->  Premiere 8  [fonte extra 2]
+  Premiere 8 SD¹  ->  Premiere 8  [fonte extra 2]
+  Premiere 8 UHD  ->  Premiere 8  [fonte extra 2]
   Premiere Clubes FHD²  ->  Premiere Clubes
   Premiere Clubes FHD³  ->  Premiere Clubes
   Premiere Clubes FHD¹  ->  Premiere Clubes
@@ -631,10 +631,10 @@ CASADOS (869)
   SBT Brasília HD  ->  SBT Brasília HD  [fonte extra 2]
   SBT RS FHD  ->  SBT RS HD  [fonte extra 2]
   SBT RS HD  ->  SBT RS HD  [fonte extra 2]
-  SBT SP FHD  ->  SBT HD
-  SBT SP H265  ->  SBT HD
-  SBT SP HD  ->  SBT HD
-  SBT SP SD  ->  SBT HD
+  SBT SP FHD  ->  SBT
+  SBT SP H265  ->  SBT
+  SBT SP HD  ->  SBT
+  SBT SP SD  ->  SBT
   SIC ( HD HEVC )©  ->  SIC  [fonte extra 2]
   SIC FHD  ->  SIC  [fonte extra 2]
   SIC HD  ->  SIC  [fonte extra 2]
@@ -687,18 +687,18 @@ CASADOS (869)
   SporTV 3 SD³  ->  SporTV 3 
   SporTV 3 SD¹  ->  SporTV 3 
   SporTV 3 UHD  ->  SporTV 3 
-  SporTV 4K  ->  SporTV HD ³
-  SporTV FHD²  ->  SporTV HD ³
-  SporTV FHD³  ->  SporTV HD ³
-  SporTV FHD¹  ->  SporTV HD ³
-  SporTV H265  ->  SporTV HD ³
-  SporTV HD²  ->  SporTV HD ³
-  SporTV HD³  ->  SporTV HD ³
-  SporTV HD¹  ->  SporTV HD ³
-  SporTV SD²  ->  SporTV HD ³
-  SporTV SD³  ->  SporTV HD ³
-  SporTV SD¹  ->  SporTV HD ³
-  SporTV UHD  ->  SporTV HD ³
+  SporTV 4K  ->  SporTV
+  SporTV FHD²  ->  SporTV
+  SporTV FHD³  ->  SporTV
+  SporTV FHD¹  ->  SporTV
+  SporTV H265  ->  SporTV
+  SporTV HD²  ->  SporTV
+  SporTV HD³  ->  SporTV
+  SporTV HD¹  ->  SporTV
+  SporTV SD²  ->  SporTV
+  SporTV SD³  ->  SporTV
+  SporTV SD¹  ->  SporTV
+  SporTV UHD  ->  SporTV
   Studio Universal FHD  ->  Studio Universal
   Studio Universal H265  ->  Studio Universal
   Studio Universal HD  ->  Studio Universal
@@ -961,15 +961,15 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Rede Gospel HD
   Rede TV HD
   Rede Vida HD
-  SBT
+  SBT HD
   SIC International
   Sextreme
   Shoptime
   Sony HD ³
   Space HD ³
-  SporTV
   SporTV 2 HD ³
   SporTV 3 HD ³
+  SporTV HD ³
   Studio Universal HD
   Syfy HD
   TLC HD ³
