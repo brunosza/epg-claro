@@ -573,13 +573,13 @@ CASADOS (869)
   Premiere 7 SD²  ->  Premiere 7
   Premiere 7 SD¹  ->  Premiere 7
   Premiere 7 UHD  ->  Premiere 7
-  Premiere 8 FHD¹  ->  Premiere 8  [fonte extra 2]
-  Premiere 8 H265  ->  Premiere 8  [fonte extra 2]
-  Premiere 8 HD¹  ->  Premiere 8  [fonte extra 2]
-  Premiere 8 SD²  ->  Premiere 8  [fonte extra 2]
-  Premiere 8 SD³  ->  Premiere 8  [fonte extra 2]
-  Premiere 8 SD¹  ->  Premiere 8  [fonte extra 2]
-  Premiere 8 UHD  ->  Premiere 8  [fonte extra 2]
+  Premiere 8 FHD¹  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 H265  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 HD¹  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 SD²  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 SD³  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 SD¹  ->  Premiere 8 HD  [fonte extra 2]
+  Premiere 8 UHD  ->  Premiere 8 HD  [fonte extra 2]
   Premiere Clubes FHD²  ->  Premiere Clubes
   Premiere Clubes FHD³  ->  Premiere Clubes
   Premiere Clubes FHD¹  ->  Premiere Clubes
