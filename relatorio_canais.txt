@@ -865,11 +865,11 @@ CASADOS (869)
   Warner Channel SD  ->  Warner Channel
   Warner Channel SD [LEG]  ->  Warner Channel
   Warner Channel UHD  ->  Warner Channel
-  Woohoo FHD  ->  Woohoo HD
-  Woohoo H265  ->  Woohoo HD
-  Woohoo HD  ->  Woohoo HD
-  Woohoo SD  ->  Woohoo HD
-  Woohoo UHD  ->  Woohoo HD
+  Woohoo FHD  ->  Woohoo
+  Woohoo H265  ->  Woohoo
+  Woohoo HD  ->  Woohoo
+  Woohoo SD  ->  Woohoo
+  Woohoo UHD  ->  Woohoo
   Zoomoo FHD  ->  ZooMoo
   Zoomoo H265  ->  ZooMoo
   Zoomoo HD  ->  ZooMoo
@@ -996,7 +996,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Venus
   Viva HD
   Warner Channel HD
-  Woohoo
+  Woohoo HD
   ZooMoo HD
 
 SEM GRADE NA CLARO (3430)
