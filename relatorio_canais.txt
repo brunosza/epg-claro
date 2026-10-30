@@ -503,7 +503,7 @@ CASADOS (869)
   OFF SD  ->  Off
   OFF UHD  ->  Off
   PREMIERE 2 4K  ->  Premiere 2
-  PREMIERE CLUBES 4K  ->  Premiere Clubes
+  PREMIERE CLUBES 4K  ->  Premiere Clubes HD
   Playboy FHD  ->  Playboy HD
   Playboy H265  ->  Playboy HD
   Playboy HD  ->  Playboy HD
@@ -580,17 +580,17 @@ CASADOS (869)
   Premiere 8 SD³  ->  Premiere 8 HD  [fonte extra 2]
   Premiere 8 SD¹  ->  Premiere 8 HD  [fonte extra 2]
   Premiere 8 UHD  ->  Premiere 8 HD  [fonte extra 2]
-  Premiere Clubes FHD²  ->  Premiere Clubes
-  Premiere Clubes FHD³  ->  Premiere Clubes
-  Premiere Clubes FHD¹  ->  Premiere Clubes
-  Premiere Clubes H265  ->  Premiere Clubes
-  Premiere Clubes HD²  ->  Premiere Clubes
-  Premiere Clubes HD³  ->  Premiere Clubes
-  Premiere Clubes HD¹  ->  Premiere Clubes
-  Premiere Clubes SD²  ->  Premiere Clubes
-  Premiere Clubes SD³  ->  Premiere Clubes
-  Premiere Clubes SD¹  ->  Premiere Clubes
-  Premiere Clubes UHD  ->  Premiere Clubes
+  Premiere Clubes FHD²  ->  Premiere Clubes HD
+  Premiere Clubes FHD³  ->  Premiere Clubes HD
+  Premiere Clubes FHD¹  ->  Premiere Clubes HD
+  Premiere Clubes H265  ->  Premiere Clubes HD
+  Premiere Clubes HD²  ->  Premiere Clubes HD
+  Premiere Clubes HD³  ->  Premiere Clubes HD
+  Premiere Clubes HD¹  ->  Premiere Clubes HD
+  Premiere Clubes SD²  ->  Premiere Clubes HD
+  Premiere Clubes SD³  ->  Premiere Clubes HD
+  Premiere Clubes SD¹  ->  Premiere Clubes HD
+  Premiere Clubes UHD  ->  Premiere Clubes HD
   Prime Box Brazil FHD  ->  Prime Box Brazil
   Prime Box Brazil H265  ->  Prime Box Brazil
   Prime Box Brazil HD  ->  Prime Box Brazil
@@ -676,17 +676,17 @@ CASADOS (869)
   SporTV 2 SD³  ->  SporTV 2
   SporTV 2 SD¹  ->  SporTV 2
   SporTV 2 UHD  ->  SporTV 2
-  SporTV 3 FHD²  ->  SporTV 3 
-  SporTV 3 FHD³  ->  SporTV 3 
-  SporTV 3 FHD¹  ->  SporTV 3 
-  SporTV 3 H265  ->  SporTV 3 
-  SporTV 3 HD²  ->  SporTV 3 
-  SporTV 3 HD³  ->  SporTV 3 
-  SporTV 3 HD¹  ->  SporTV 3 
-  SporTV 3 SD²  ->  SporTV 3 
-  SporTV 3 SD³  ->  SporTV 3 
-  SporTV 3 SD¹  ->  SporTV 3 
-  SporTV 3 UHD  ->  SporTV 3 
+  SporTV 3 FHD²  ->  SporTV 3 HD ³
+  SporTV 3 FHD³  ->  SporTV 3 HD ³
+  SporTV 3 FHD¹  ->  SporTV 3 HD ³
+  SporTV 3 H265  ->  SporTV 3 HD ³
+  SporTV 3 HD²  ->  SporTV 3 HD ³
+  SporTV 3 HD³  ->  SporTV 3 HD ³
+  SporTV 3 HD¹  ->  SporTV 3 HD ³
+  SporTV 3 SD²  ->  SporTV 3 HD ³
+  SporTV 3 SD³  ->  SporTV 3 HD ³
+  SporTV 3 SD¹  ->  SporTV 3 HD ³
+  SporTV 3 UHD  ->  SporTV 3 HD ³
   SporTV 4K  ->  SporTV
   SporTV FHD²  ->  SporTV
   SporTV FHD³  ->  SporTV
@@ -951,7 +951,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Playboy TV 
   Polishop
   Premiere 3
-  Premiere Clubes HD
+  Premiere Clubes
   Premiere HD 2
   Prime Box Brazil HD ³
   RAI International
@@ -968,7 +968,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Sony HD ³
   Space HD ³
   SporTV 2 HD ³
-  SporTV 3 HD ³
+  SporTV 3 
   SporTV HD ³
   Studio Universal HD
   Syfy HD
