@@ -1,16 +1,16 @@
-30/10: 8200 exibições
-31/10: 7881 exibições
-01/11: 7723 exibições
-02/11: 8152 exibições
-03/11: 8107 exibições
-04/11: 8169 exibições
-05/11: 6975 exibições
+31/10: 7907 exibições
+01/11: 7769 exibições
+02/11: 8104 exibições
+03/11: 8165 exibições
+04/11: 8263 exibições
+05/11: 8104 exibições
+06/11: 7018 exibições
 Canais sem grade na Claro:  TV Pai Eterno HD, CANAL DO CLIENTE HD, Canal do Boi HD, Canal do cliente, Cinecanal HD, Comedy Central, Comedy Central HD, ESPN 2, ESPN 3 HD, ESPN 6 HD, Film&Arts, France 24, France 24 HD, HBO, HBO + HD, Hbo Mundi, History 2 HD, JP News HD, Jogos Interativos Cartoon, MTV, MTV HD ³, MTV Live HD, Música, Nick Jr HD ³, Nick Jr., Nickelodeon, Nickelodeon HD, Paramount Network, Paramount Network HD , Polishop TV, Portal do Futebol, Premiere HD 6, Premiere HD 7, STAR CHANNEL HD, Sabor & Arte HD, Shoptime TV, Star Channel, Trace Brazuca HD, Tv Aparecida
 Grade da Claro ignorada (errada): Canal Comunitário, Canal Universitário, ESPN, ESPN HD ³, ESPN 5 HD, Espn 4, ESPN 4 HD, ESPN 2 HD 
 Fonte extra 1: 231 canais com grade
-Fonte extra 2: 589 canais com grade
+Fonte extra 2: 588 canais com grade
 Fonte extra 3: 319 canais com grade
 869 canais da sua lista ligados à Claro, 3430 sem par (veja relatorio_canais.txt)
-23 títulos com código da Claro limpos
-OK: 227 canais, 42383 programas -> site/epg_claro.xml.gz
-Atualizado em 2026-10-30 14:47 UTC
+27 títulos com código da Claro limpos
+OK: 227 canais, 42462 programas -> site/epg_claro.xml.gz
+Atualizado em 2026-10-31 14:15 UTC
