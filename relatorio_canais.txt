@@ -156,11 +156,11 @@ CASADOS (869)
   Combate HD  ->  Combate
   Combate SD  ->  Combate
   Combate UHD  ->  Combate
-  Cultura FHD  ->  Cultura HD
-  Cultura H265  ->  Cultura HD
-  Cultura HD  ->  Cultura HD
-  Cultura SD  ->  Cultura HD
-  Cultura UHD  ->  Cultura HD
+  Cultura FHD  ->  Cultura
+  Cultura H265  ->  Cultura
+  Cultura HD  ->  Cultura
+  Cultura SD  ->  Cultura
+  Cultura UHD  ->  Cultura
   Curta! FHD  ->  Curta!
   Curta! H265  ->  Curta!
   Curta! HD  ->  Curta!
@@ -755,11 +755,11 @@ CASADOS (869)
   TV Aparecida HD  ->   TV Aparecida (espelho)
   TV Aparecida SD  ->   TV Aparecida (espelho)
   TV Aparecida UHD  ->   TV Aparecida (espelho)
-  TV Brasil FHD  ->  TV Brasil
-  TV Brasil H265  ->  TV Brasil
-  TV Brasil HD  ->  TV Brasil
-  TV Brasil SD  ->  TV Brasil
-  TV Brasil UHD  ->  TV Brasil
+  TV Brasil FHD  ->  TV Brasil HD
+  TV Brasil H265  ->  TV Brasil HD
+  TV Brasil HD  ->  TV Brasil HD
+  TV Brasil SD  ->  TV Brasil HD
+  TV Brasil UHD  ->  TV Brasil HD
   TV GLOBO FHD  ->  Globo
   TV GLOBO HD  ->  Globo
   TV GLOBO SD  ->  Globo
@@ -905,7 +905,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Cinecanal
   Cinemax HD ³
   Combate HD
-  Cultura
+  Cultura HD
   Curta! HD
   DW-TV
   Discovery HD ³
@@ -974,7 +974,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Syfy HD
   TLC HD ³
   TNT HD ³
-  TV Brasil HD
+  TV Brasil
   TV Climatempo
   TV Câmara
   TV Escola
