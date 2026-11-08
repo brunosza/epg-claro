@@ -5,7 +5,7 @@ TVG-ID ERRADO NA LISTA (5) - acerte o EPG destes à mão no TiviMate
   ESPN HD²  (tvg-id ESPN4.br = Espn 4)
   ESPN HD³  (tvg-id ESPN2.br = ESPN 2)
 
-CASADOS (869)
+CASADOS (868)
   A&E 4K  ->  A&E
   A&E FHD  ->  A&E
   A&E H265  ->  A&E
@@ -69,7 +69,6 @@ CASADOS (869)
   BIS UHD  ->  BIS
   BLOOMBERG  ->  Bloomberg HD  [fonte extra 2]
   BOOMERANG  ->  Boomerang HD  [fonte extra 2]
-  Band Belém HD  ->  Band Belém  [fonte extra 2]
   Band Brasília HD  ->  Band Brasília HD  [fonte extra 2]
   Band Minas FHD  ->  Band Minas HD  [fonte extra 2]
   Band News FHD  ->  Band News
@@ -427,11 +426,11 @@ CASADOS (869)
   HBO+ SD  ->  HBO +
   HBO+ SD [LEG]  ->  HBO +
   HBO+ UHD  ->  HBO +
-  HGTV FHD  ->  HGTV
-  HGTV H265  ->  HGTV
-  HGTV HD  ->  HGTV
-  HGTV SD  ->  HGTV
-  HGTV UHD  ->  HGTV
+  HGTV FHD  ->  HGTV HD
+  HGTV H265  ->  HGTV HD
+  HGTV HD  ->  HGTV HD
+  HGTV SD  ->  HGTV HD
+  HGTV UHD  ->  HGTV HD
   History 2 FHD  ->  History 2 HD  [fonte extra 1]
   History 2 H265  ->  History 2 HD  [fonte extra 1]
   History 2 HD  ->  History 2 HD  [fonte extra 1]
@@ -876,7 +875,7 @@ CASADOS (869)
   Zoomoo SD  ->  ZooMoo
   Zoomoo UHD  ->  ZooMoo
 
-CANAIS DA CLARO SEM PAR NA SUA LISTA (120)
+CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
    TV Brasil 2
    Universal TV HD
   A&E HD
@@ -931,7 +930,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (120)
   HBO POP HD
   HBO Signature HD ³
   HBO Xtreme HD
-  HGTV HD
+  HGTV
   ID HD ³
   LIKE HD
   Lifetime HD
@@ -942,6 +941,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (120)
   Mosaico Multijogos
   Multishow HD ³
   Music Box Brazil HD ³
+  NHK World Premium
   National Geographic HD ³
   Off HD ³
   PREMIERE HD 4 ³
@@ -998,7 +998,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (120)
   Woohoo HD
   ZooMoo HD
 
-SEM GRADE NA CLARO (3430)
+SEM GRADE NA CLARO (3431)
   ##### IT-  MOVIES |#####
   ##### IT- EGLE/ PRIFAMILLA MOVIES |#####
   ##### IT- KIDS|#####
@@ -1226,6 +1226,7 @@ SEM GRADE NA CLARO (3430)
   Band AC Capital HD
   Band AL Capital HD
   Band BA Capital HD
+  Band Belém HD
   Band CE FHD
   Band CE H265
   Band CE HD
