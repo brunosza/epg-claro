@@ -2,7 +2,8 @@ name: Atualizar EPG
 
 on:
   schedule:
-    - cron: "0 8 * * *"  # 05:00 em Brasília
+    - cron: "0 8 * * *"   # 05:00 em Brasília
+    - cron: "0 20 * * *"  # 17:00, reserva caso o GitHub pule a da manhã
   workflow_dispatch:
 
 permissions:
@@ -51,16 +52,19 @@ jobs:
           date -u "+Atualizado em %Y-%m-%d %H:%M UTC" >> site/status.txt
           while read -r linha; do echo "::notice::$linha"; done < site/status.txt
           echo '<meta charset="utf-8"><p>EPG Claro: <a href="epg_claro.xml.gz">epg_claro.xml.gz</a></p>' > site/index.html
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
       - name: Guardar relatório e status no repositório
+        if: always()
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
           # Um commit por dia: o GitHub pausa agendamentos de repositórios sem commits há 60 dias.
           cp site/status.txt ultima_atualizacao.txt
           git add -f relatorio_canais.txt ultima_atualizacao.txt 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "Atualiza relatório de canais" && git push)
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-      - id: deploy
-        uses: actions/deploy-pages@v4
+          git diff --cached --quiet || git commit -q -m "Atualiza relatório de canais"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done
