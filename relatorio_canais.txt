@@ -628,7 +628,7 @@ CASADOS (869)
   RedeTV! HD  ->  Rede TV
   RedeTV! SD  ->  Rede TV
   RedeTV! UHD  ->  Rede TV
-  SBT Brasília HD  ->  SBT Brasilia  [fonte extra 2]
+  SBT Brasília HD  ->  SBT Brasília HD  [fonte extra 2]
   SBT RS FHD  ->  SBT RS HD  [fonte extra 2]
   SBT RS HD  ->  SBT RS HD  [fonte extra 2]
   SBT SP FHD  ->  SBT
@@ -687,18 +687,18 @@ CASADOS (869)
   SporTV 3 SD³  ->  SporTV 3 
   SporTV 3 SD¹  ->  SporTV 3 
   SporTV 3 UHD  ->  SporTV 3 
-  SporTV 4K  ->  SporTV
-  SporTV FHD²  ->  SporTV
-  SporTV FHD³  ->  SporTV
-  SporTV FHD¹  ->  SporTV
-  SporTV H265  ->  SporTV
-  SporTV HD²  ->  SporTV
-  SporTV HD³  ->  SporTV
-  SporTV HD¹  ->  SporTV
-  SporTV SD²  ->  SporTV
-  SporTV SD³  ->  SporTV
-  SporTV SD¹  ->  SporTV
-  SporTV UHD  ->  SporTV
+  SporTV 4K  ->  SporTV HD ³
+  SporTV FHD²  ->  SporTV HD ³
+  SporTV FHD³  ->  SporTV HD ³
+  SporTV FHD¹  ->  SporTV HD ³
+  SporTV H265  ->  SporTV HD ³
+  SporTV HD²  ->  SporTV HD ³
+  SporTV HD³  ->  SporTV HD ³
+  SporTV HD¹  ->  SporTV HD ³
+  SporTV SD²  ->  SporTV HD ³
+  SporTV SD³  ->  SporTV HD ³
+  SporTV SD¹  ->  SporTV HD ³
+  SporTV UHD  ->  SporTV HD ³
   Studio Universal FHD  ->  Studio Universal
   Studio Universal H265  ->  Studio Universal
   Studio Universal HD  ->  Studio Universal
@@ -855,16 +855,16 @@ CASADOS (869)
   Viva HD  ->  Viva
   Viva SD  ->  Viva
   Viva UHD  ->  Viva
-  WARNER CHANNEL H265 (CANAIS LEGENDADOS)  ->  Warner Channel
-  WARNER CHANNEL HD (CANAIS LEGENDADOS)  ->  Warner Channel
-  Warner Channel FHD  ->  Warner Channel
-  Warner Channel FHD [LEG]  ->  Warner Channel
-  Warner Channel H265  ->  Warner Channel
-  Warner Channel HD  ->  Warner Channel
-  Warner Channel HD [LEG]  ->  Warner Channel
-  Warner Channel SD  ->  Warner Channel
-  Warner Channel SD [LEG]  ->  Warner Channel
-  Warner Channel UHD  ->  Warner Channel
+  WARNER CHANNEL H265 (CANAIS LEGENDADOS)  ->  Warner Channel HD
+  WARNER CHANNEL HD (CANAIS LEGENDADOS)  ->  Warner Channel HD
+  Warner Channel FHD  ->  Warner Channel HD
+  Warner Channel FHD [LEG]  ->  Warner Channel HD
+  Warner Channel H265  ->  Warner Channel HD
+  Warner Channel HD  ->  Warner Channel HD
+  Warner Channel HD [LEG]  ->  Warner Channel HD
+  Warner Channel SD  ->  Warner Channel HD
+  Warner Channel SD [LEG]  ->  Warner Channel HD
+  Warner Channel UHD  ->  Warner Channel HD
   Woohoo FHD  ->  Woohoo
   Woohoo H265  ->  Woohoo
   Woohoo HD  ->  Woohoo
@@ -967,9 +967,9 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Shoptime
   Sony HD ³
   Space HD ³
+  SporTV
   SporTV 2 HD ³
   SporTV 3 HD ³
-  SporTV HD ³
   Studio Universal HD
   Syfy HD
   TLC HD ³
@@ -995,7 +995,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Travel Box Brasil HD 
   Venus
   Viva HD
-  Warner Channel HD
+  Warner Channel
   Woohoo HD
   ZooMoo HD
 
