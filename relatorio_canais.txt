@@ -23,7 +23,7 @@ CASADOS (869)
   AMC SD  ->  AMC
   AMC SD  ->  AMC
   AMC UHD  ->  AMC
-  ANIMAL PLANET 4K  ->  Animal Planet HD
+  ANIMAL PLANET 4K  ->  Animal Planet
   AXN  ->  AXN
   AXN ( HD HEVC )©  ->  AXN
   AXN 4K  ->  AXN
@@ -49,11 +49,11 @@ CASADOS (869)
   AgroMais HD  ->  Agro Mais
   AgroMais SD  ->  Agro Mais
   AgroMais UHD  ->  Agro Mais
-  Animal Planet FHD  ->  Animal Planet HD
-  Animal Planet H265  ->  Animal Planet HD
-  Animal Planet HD  ->  Animal Planet HD
-  Animal Planet SD  ->  Animal Planet HD
-  Animal Planet UHD  ->  Animal Planet HD
+  Animal Planet FHD  ->  Animal Planet
+  Animal Planet H265  ->  Animal Planet
+  Animal Planet HD  ->  Animal Planet
+  Animal Planet SD  ->  Animal Planet
+  Animal Planet UHD  ->  Animal Planet
   Arte 1 FHD  ->  Arte 1
   Arte 1 H265  ->  Arte 1
   Arte 1 HD  ->  Arte 1
@@ -503,7 +503,7 @@ CASADOS (869)
   OFF SD  ->  Off
   OFF UHD  ->  Off
   PREMIERE 2 4K  ->  Premiere 2
-  PREMIERE CLUBES 4K  ->  Premiere Clubes
+  PREMIERE CLUBES 4K  ->  Premiere Clubes HD
   Playboy FHD  ->  Playboy HD
   Playboy H265  ->  Playboy HD
   Playboy HD  ->  Playboy HD
@@ -580,17 +580,17 @@ CASADOS (869)
   Premiere 8 SD³  ->  Premiere 8 HD  [fonte extra 2]
   Premiere 8 SD¹  ->  Premiere 8 HD  [fonte extra 2]
   Premiere 8 UHD  ->  Premiere 8 HD  [fonte extra 2]
-  Premiere Clubes FHD²  ->  Premiere Clubes
-  Premiere Clubes FHD³  ->  Premiere Clubes
-  Premiere Clubes FHD¹  ->  Premiere Clubes
-  Premiere Clubes H265  ->  Premiere Clubes
-  Premiere Clubes HD²  ->  Premiere Clubes
-  Premiere Clubes HD³  ->  Premiere Clubes
-  Premiere Clubes HD¹  ->  Premiere Clubes
-  Premiere Clubes SD²  ->  Premiere Clubes
-  Premiere Clubes SD³  ->  Premiere Clubes
-  Premiere Clubes SD¹  ->  Premiere Clubes
-  Premiere Clubes UHD  ->  Premiere Clubes
+  Premiere Clubes FHD²  ->  Premiere Clubes HD
+  Premiere Clubes FHD³  ->  Premiere Clubes HD
+  Premiere Clubes FHD¹  ->  Premiere Clubes HD
+  Premiere Clubes H265  ->  Premiere Clubes HD
+  Premiere Clubes HD²  ->  Premiere Clubes HD
+  Premiere Clubes HD³  ->  Premiere Clubes HD
+  Premiere Clubes HD¹  ->  Premiere Clubes HD
+  Premiere Clubes SD²  ->  Premiere Clubes HD
+  Premiere Clubes SD³  ->  Premiere Clubes HD
+  Premiere Clubes SD¹  ->  Premiere Clubes HD
+  Premiere Clubes UHD  ->  Premiere Clubes HD
   Prime Box Brazil FHD  ->  Prime Box Brazil
   Prime Box Brazil H265  ->  Prime Box Brazil
   Prime Box Brazil HD  ->  Prime Box Brazil
@@ -639,8 +639,8 @@ CASADOS (869)
   SIC FHD  ->  SIC  [fonte extra 2]
   SIC HD  ->  SIC  [fonte extra 2]
   SIC SD  ->  SIC  [fonte extra 2]
-  SPACE H265 (CANAIS LEGENDADOS )  ->  Space HD ³
-  SPACE HD (CANAIS LEGENDADOS )  ->  Space HD ³
+  SPACE H265 (CANAIS LEGENDADOS )  ->  Space
+  SPACE HD (CANAIS LEGENDADOS )  ->  Space
   STUDIO UNIVERSAL   (LEGENDADOS)  ->  Studio Universal
   STUDIO UNIVERSAL H265 (LEGENDADOS)  ->  Studio Universal
   SYFY  ->  Syfy
@@ -657,14 +657,14 @@ CASADOS (869)
   Sexy Hot HD  ->  Sexy Hot
   Sexy Hot SD  ->  Sexy Hot
   Sexy Hot UHD  ->  Sexy Hot
-  Space FHD  ->  Space HD ³
-  Space FHD [LEG]  ->  Space HD ³
-  Space H265  ->  Space HD ³
-  Space HD  ->  Space HD ³
-  Space HD [LEG]  ->  Space HD ³
-  Space SD  ->  Space HD ³
-  Space SD [LEG]  ->  Space HD ³
-  Space UHD  ->  Space HD ³
+  Space FHD  ->  Space
+  Space FHD [LEG]  ->  Space
+  Space H265  ->  Space
+  Space HD  ->  Space
+  Space HD [LEG]  ->  Space
+  Space SD  ->  Space
+  Space SD [LEG]  ->  Space
+  Space UHD  ->  Space
   SporTV 2  FHD²  ->  SporTV 2
   SporTV 2 FHD³  ->  SporTV 2
   SporTV 2 FHD¹  ->  SporTV 2
@@ -722,22 +722,22 @@ CASADOS (869)
   TLC HD  ->  TLC
   TLC SD  ->  TLC
   TLC UHD  ->  TLC
-  TNT 4K  ->  TNT HD ³
-  TNT 4K  ->  TNT HD ³
-  TNT FHD  ->  TNT HD ³
-  TNT FHD [LEG]  ->  TNT HD ³
-  TNT H265  ->  TNT HD ³
-  TNT H265 (CANAIS LEGENDADOS)  ->  TNT HD ³
-  TNT HD  ->  TNT HD ³
-  TNT HD (CANAIS LEGENDADOS)  ->  TNT HD ³
-  TNT HD [LEG]  ->  TNT HD ³
+  TNT 4K  ->  TNT
+  TNT 4K  ->  TNT
+  TNT FHD  ->  TNT
+  TNT FHD [LEG]  ->  TNT
+  TNT H265  ->  TNT
+  TNT H265 (CANAIS LEGENDADOS)  ->  TNT
+  TNT HD  ->  TNT
+  TNT HD (CANAIS LEGENDADOS)  ->  TNT
+  TNT HD [LEG]  ->  TNT
   TNT Novelas FHD  ->  Tnt novelas
   TNT Novelas H265  ->  Tnt novelas
   TNT Novelas HD  ->  Tnt novelas
   TNT Novelas SD  ->  Tnt novelas
   TNT Novelas UHD  ->  Tnt novelas
-  TNT SD  ->  TNT HD ³
-  TNT SD [LEG]  ->  TNT HD ³
+  TNT SD  ->  TNT
+  TNT SD [LEG]  ->  TNT
   TNT SERIES 4K  ->  TNT SÉRIES HD
   TNT SERIES HD (CANAIS LEGENDADOS)  ->  TNT SÉRIES HD
   TNT Series FHD  ->  TNT SÉRIES HD
@@ -749,7 +749,7 @@ CASADOS (869)
   TNT Series SD [LEG]  ->  TNT SÉRIES HD
   TNT Series UHD  ->  TNT SÉRIES HD
   TNT SÉRIES H265 (CANAIS LEGENDADOS)  ->  TNT SÉRIES HD
-  TNT UHD  ->  TNT HD ³
+  TNT UHD  ->  TNT
   TV Aparecida FHD  ->   TV Aparecida (espelho)
   TV Aparecida H265  ->   TV Aparecida (espelho)
   TV Aparecida HD  ->   TV Aparecida (espelho)
@@ -883,7 +883,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   AMC HD
   AXN HD ³
   Agro Mais HD 
-  Animal Planet
+  Animal Planet HD
   Arte 1 HD
   BBC World News
   BIS HD ³
@@ -951,7 +951,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Playboy TV 
   Polishop
   Premiere 3
-  Premiere Clubes HD
+  Premiere Clubes
   Premiere HD 2
   Prime Box Brazil HD ³
   RAI International
@@ -966,14 +966,14 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Sextreme
   Shoptime
   Sony HD ³
-  Space
+  Space HD ³
   SporTV 2 HD ³
   SporTV 3 HD ³
   SporTV HD ³
   Studio Universal HD
   Syfy HD
   TLC HD ³
-  TNT
+  TNT HD ³
   TV Brasil HD
   TV Climatempo
   TV Câmara
