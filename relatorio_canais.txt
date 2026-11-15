@@ -387,16 +387,16 @@ CASADOS (869)
   HBO Mundi SD [LEG]  ->  HBO MUNDI HD
   HBO PLUS H265 ( CANAIS LEGENDADOS )  ->  HBO +
   HBO PLUS HD ( CANAIS LEGENDADOS )  ->  HBO +
-  HBO POP FHD  ->  Hbo Pop
-  HBO POP H265  ->  Hbo Pop
-  HBO POP H265 ( CANAIS LEGENDADOS )  ->  Hbo Pop
-  HBO POP HD  ->  Hbo Pop
-  HBO POP HD ( CANAIS LEGENDADOS )  ->  Hbo Pop
-  HBO POP SD  ->  Hbo Pop
-  HBO POP UHD  ->  Hbo Pop
-  HBO Pop FHD [LEG]  ->  Hbo Pop
-  HBO Pop HD [LEG]  ->  Hbo Pop
-  HBO Pop SD [LEG]  ->  Hbo Pop
+  HBO POP FHD  ->  HBO POP HD
+  HBO POP H265  ->  HBO POP HD
+  HBO POP H265 ( CANAIS LEGENDADOS )  ->  HBO POP HD
+  HBO POP HD  ->  HBO POP HD
+  HBO POP HD ( CANAIS LEGENDADOS )  ->  HBO POP HD
+  HBO POP SD  ->  HBO POP HD
+  HBO POP UHD  ->  HBO POP HD
+  HBO Pop FHD [LEG]  ->  HBO POP HD
+  HBO Pop HD [LEG]  ->  HBO POP HD
+  HBO Pop SD [LEG]  ->  HBO POP HD
   HBO SD  ->  HBO HD ³
   HBO SD [LEG]  ->  HBO HD ³
   HBO SIGNATURE H265 ( CANAIS LEGENDADOS)  ->  HBO Signature
@@ -503,7 +503,7 @@ CASADOS (869)
   OFF SD  ->  Off
   OFF UHD  ->  Off
   PREMIERE 2 4K  ->  Premiere 2
-  PREMIERE CLUBES 4K  ->  Premiere Clubes HD
+  PREMIERE CLUBES 4K  ->  Premiere Clubes
   Playboy FHD  ->  Playboy HD
   Playboy H265  ->  Playboy HD
   Playboy HD  ->  Playboy HD
@@ -580,24 +580,24 @@ CASADOS (869)
   Premiere 8 SD³  ->  Premiere 8 HD  [fonte extra 2]
   Premiere 8 SD¹  ->  Premiere 8 HD  [fonte extra 2]
   Premiere 8 UHD  ->  Premiere 8 HD  [fonte extra 2]
-  Premiere Clubes FHD²  ->  Premiere Clubes HD
-  Premiere Clubes FHD³  ->  Premiere Clubes HD
-  Premiere Clubes FHD¹  ->  Premiere Clubes HD
-  Premiere Clubes H265  ->  Premiere Clubes HD
-  Premiere Clubes HD²  ->  Premiere Clubes HD
-  Premiere Clubes HD³  ->  Premiere Clubes HD
-  Premiere Clubes HD¹  ->  Premiere Clubes HD
-  Premiere Clubes SD²  ->  Premiere Clubes HD
-  Premiere Clubes SD³  ->  Premiere Clubes HD
-  Premiere Clubes SD¹  ->  Premiere Clubes HD
-  Premiere Clubes UHD  ->  Premiere Clubes HD
+  Premiere Clubes FHD²  ->  Premiere Clubes
+  Premiere Clubes FHD³  ->  Premiere Clubes
+  Premiere Clubes FHD¹  ->  Premiere Clubes
+  Premiere Clubes H265  ->  Premiere Clubes
+  Premiere Clubes HD²  ->  Premiere Clubes
+  Premiere Clubes HD³  ->  Premiere Clubes
+  Premiere Clubes HD¹  ->  Premiere Clubes
+  Premiere Clubes SD²  ->  Premiere Clubes
+  Premiere Clubes SD³  ->  Premiere Clubes
+  Premiere Clubes SD¹  ->  Premiere Clubes
+  Premiere Clubes UHD  ->  Premiere Clubes
   Prime Box Brazil FHD  ->  Prime Box Brazil
   Prime Box Brazil H265  ->  Prime Box Brazil
   Prime Box Brazil HD  ->  Prime Box Brazil
   Prime Box Brazil SD  ->  Prime Box Brazil
   Prime Box Brazil UHD  ->  Prime Box Brazil
   RECORD SP 4K  ->  Record
-  REDE TV! 4K  ->  Rede TV
+  REDE TV! 4K  ->  Rede TV HD
   RIT FHD  ->  RIT HD  [fonte extra 2]
   Record News FHD  ->  Record News 
   Record News H265  ->  Record News 
@@ -618,16 +618,16 @@ CASADOS (869)
   Rede Gospel UHD  ->  Rede Gospel
   Rede Seculo 21 FHD  ->  Rede Século 21 HD  [fonte extra 2]
   Rede Super HD  ->  Rede Super HD  [fonte extra 2]
-  Rede Vida FHD  ->  Rede Vida
-  Rede Vida H265  ->  Rede Vida
-  Rede Vida HD  ->  Rede Vida
-  Rede Vida SD  ->  Rede Vida
-  Rede Vida UHD  ->  Rede Vida
-  RedeTV! FHD  ->  Rede TV
-  RedeTV! H265  ->  Rede TV
-  RedeTV! HD  ->  Rede TV
-  RedeTV! SD  ->  Rede TV
-  RedeTV! UHD  ->  Rede TV
+  Rede Vida FHD  ->  Rede Vida HD
+  Rede Vida H265  ->  Rede Vida HD
+  Rede Vida HD  ->  Rede Vida HD
+  Rede Vida SD  ->  Rede Vida HD
+  Rede Vida UHD  ->  Rede Vida HD
+  RedeTV! FHD  ->  Rede TV HD
+  RedeTV! H265  ->  Rede TV HD
+  RedeTV! HD  ->  Rede TV HD
+  RedeTV! SD  ->  Rede TV HD
+  RedeTV! UHD  ->  Rede TV HD
   SBT Brasília HD  ->  SBT Brasília HD  [fonte extra 2]
   SBT RS FHD  ->  SBT RS HD  [fonte extra 2]
   SBT RS HD  ->  SBT RS HD  [fonte extra 2]
@@ -928,10 +928,10 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Gloobinho HD
   HBO Family HD ³
   HBO HD 2 ³
-  HBO POP HD
   HBO Signature HD ³
   HBO Xtreme HD
   HGTV HD
+  Hbo Pop
   ID HD ³
   LIKE HD
   Lifetime HD
@@ -951,7 +951,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Playboy TV 
   Polishop
   Premiere 3
-  Premiere Clubes
+  Premiere Clubes HD
   Premiere HD 2
   Prime Box Brazil HD ³
   RAI International
@@ -959,8 +959,8 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Record HD
   Rede 21
   Rede Gospel HD
-  Rede TV HD
-  Rede Vida HD
+  Rede TV
+  Rede Vida
   SBT HD
   SIC International
   Sextreme
