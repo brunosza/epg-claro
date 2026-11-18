@@ -1,8 +1,8 @@
 TVG-ID ERRADO NA LISTA (5) - acerte o EPG destes à mão no TiviMate
   Cartoonito H265  (tvg-id CartoonNetwork.br = Cartoon Network)
   ESPN 4K  (tvg-id br#espn-1 = ESPN Extra)
-  ESPN FHD²  (tvg-id ESPN4.br = Espn 4)
-  ESPN HD²  (tvg-id ESPN4.br = Espn 4)
+  ESPN FHD²  (tvg-id ESPN4.br = ESPN 4 HD)
+  ESPN HD²  (tvg-id ESPN4.br = ESPN 4 HD)
   ESPN HD³  (tvg-id ESPN2.br = ESPN 2)
 
 CASADOS (869)
@@ -44,11 +44,11 @@ CASADOS (869)
   Adult Swim HD  ->  Adult Swim HD  [fonte extra 1]
   Adult Swim SD  ->  Adult Swim HD  [fonte extra 1]
   Adult Swim UHD  ->  Adult Swim HD  [fonte extra 1]
-  AgroMais FHD  ->  Agro Mais
-  AgroMais H265  ->  Agro Mais
-  AgroMais HD  ->  Agro Mais
-  AgroMais SD  ->  Agro Mais
-  AgroMais UHD  ->  Agro Mais
+  AgroMais FHD  ->  Agro Mais HD 
+  AgroMais H265  ->  Agro Mais HD 
+  AgroMais HD  ->  Agro Mais HD 
+  AgroMais SD  ->  Agro Mais HD 
+  AgroMais UHD  ->  Agro Mais HD 
   Animal Planet FHD  ->  Animal Planet
   Animal Planet H265  ->  Animal Planet
   Animal Planet HD  ->  Animal Planet
@@ -95,12 +95,12 @@ CASADOS (869)
   CINEMAX H265 (LEGENDADOS)  ->  Cinemax
   CINEMAX HD (LEGENDADOS)  ->  Cinemax
   CNN ( HD HEVC )©  ->  CNN  [fonte extra 2]
-  CNN BRASIL 4K  ->  CNN Brasil
-  CNN Brasil FHD  ->  CNN Brasil
-  CNN Brasil H265  ->  CNN Brasil
-  CNN Brasil HD  ->  CNN Brasil
-  CNN Brasil SD  ->  CNN Brasil
-  CNN Brasil UHD  ->  CNN Brasil
+  CNN BRASIL 4K  ->  CNN Brasil HD
+  CNN Brasil FHD  ->  CNN Brasil HD
+  CNN Brasil H265  ->  CNN Brasil HD
+  CNN Brasil HD  ->  CNN Brasil HD
+  CNN Brasil SD  ->  CNN Brasil HD
+  CNN Brasil UHD  ->  CNN Brasil HD
   CNN FHD  ->  CNN  [fonte extra 2]
   CNN HD  ->  CNN  [fonte extra 2]
   CNN SD  ->  CNN  [fonte extra 2]
@@ -240,15 +240,15 @@ CASADOS (869)
   ESPN 3 SD²  ->  ESPN 3 HD  [fonte extra 1]
   ESPN 3 SD³  ->  ESPN 3 HD  [fonte extra 1]
   ESPN 3 UHD  ->  ESPN 3 HD  [fonte extra 1]
-  ESPN 4 4K  ->  Espn 4  [fonte extra 1]
-  ESPN 4 FHD²  ->  Espn 4  [fonte extra 1]
-  ESPN 4 FHD¹  ->  Espn 4  [fonte extra 1]
-  ESPN 4 H265  ->  Espn 4  [fonte extra 1]
-  ESPN 4 HD²  ->  Espn 4  [fonte extra 1]
-  ESPN 4 HD¹  ->  Espn 4  [fonte extra 1]
-  ESPN 4 SD²  ->  Espn 4  [fonte extra 1]
-  ESPN 4 SD¹  ->  Espn 4  [fonte extra 1]
-  ESPN 4 UHD  ->  Espn 4  [fonte extra 1]
+  ESPN 4 4K  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 FHD²  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 FHD¹  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 H265  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 HD²  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 HD¹  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 SD²  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 SD¹  ->  ESPN 4 HD  [fonte extra 1]
+  ESPN 4 UHD  ->  ESPN 4 HD  [fonte extra 1]
   ESPN 4K  ->  ESPN  [fonte extra 1]
   ESPN 5 FHD²  ->  ESPN 5  [fonte extra 1]
   ESPN 5 FHD¹  ->  ESPN 5  [fonte extra 1]
@@ -882,7 +882,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   A&E HD
   AMC HD
   AXN HD ³
-  Agro Mais HD 
+  Agro Mais
   Animal Planet HD
   Arte 1 HD
   BBC World News
@@ -893,7 +893,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Bloomberg TV
   Boa Vontade TV
   CGTN
-  CNN Brasil HD
+  CNN Brasil
   CNN International
   CONMEBOL TV 4 HD
   Canal 2
