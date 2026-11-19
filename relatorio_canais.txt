@@ -95,12 +95,12 @@ CASADOS (869)
   CINEMAX H265 (LEGENDADOS)  ->  Cinemax
   CINEMAX HD (LEGENDADOS)  ->  Cinemax
   CNN ( HD HEVC )©  ->  CNN  [fonte extra 2]
-  CNN BRASIL 4K  ->  CNN Brasil HD
-  CNN Brasil FHD  ->  CNN Brasil HD
-  CNN Brasil H265  ->  CNN Brasil HD
-  CNN Brasil HD  ->  CNN Brasil HD
-  CNN Brasil SD  ->  CNN Brasil HD
-  CNN Brasil UHD  ->  CNN Brasil HD
+  CNN BRASIL 4K  ->  CNN Brasil
+  CNN Brasil FHD  ->  CNN Brasil
+  CNN Brasil H265  ->  CNN Brasil
+  CNN Brasil HD  ->  CNN Brasil
+  CNN Brasil SD  ->  CNN Brasil
+  CNN Brasil UHD  ->  CNN Brasil
   CNN FHD  ->  CNN  [fonte extra 2]
   CNN HD  ->  CNN  [fonte extra 2]
   CNN SD  ->  CNN  [fonte extra 2]
@@ -717,11 +717,11 @@ CASADOS (869)
   TELECINE PREMIUM HD (CANAIS LEGENDADOS)  ->  Telecine Premium
   TELECINE TOUCH H265 (CANAIS LEGENDADOS)  ->  Telecine Touch
   TELECINE TOUCH HD ( CANAIS LEGENDADOS)  ->  Telecine Touch
-  TLC FHD  ->  TLC
-  TLC H265  ->  TLC
-  TLC HD  ->  TLC
-  TLC SD  ->  TLC
-  TLC UHD  ->  TLC
+  TLC FHD  ->  TLC HD ³
+  TLC H265  ->  TLC HD ³
+  TLC HD  ->  TLC HD ³
+  TLC SD  ->  TLC HD ³
+  TLC UHD  ->  TLC HD ³
   TNT 4K  ->  TNT
   TNT 4K  ->  TNT
   TNT FHD  ->  TNT
@@ -855,16 +855,16 @@ CASADOS (869)
   Viva HD  ->  Viva
   Viva SD  ->  Viva
   Viva UHD  ->  Viva
-  WARNER CHANNEL H265 (CANAIS LEGENDADOS)  ->  Warner Channel
-  WARNER CHANNEL HD (CANAIS LEGENDADOS)  ->  Warner Channel
-  Warner Channel FHD  ->  Warner Channel
-  Warner Channel FHD [LEG]  ->  Warner Channel
-  Warner Channel H265  ->  Warner Channel
-  Warner Channel HD  ->  Warner Channel
-  Warner Channel HD [LEG]  ->  Warner Channel
-  Warner Channel SD  ->  Warner Channel
-  Warner Channel SD [LEG]  ->  Warner Channel
-  Warner Channel UHD  ->  Warner Channel
+  WARNER CHANNEL H265 (CANAIS LEGENDADOS)  ->  Warner Channel HD
+  WARNER CHANNEL HD (CANAIS LEGENDADOS)  ->  Warner Channel HD
+  Warner Channel FHD  ->  Warner Channel HD
+  Warner Channel FHD [LEG]  ->  Warner Channel HD
+  Warner Channel H265  ->  Warner Channel HD
+  Warner Channel HD  ->  Warner Channel HD
+  Warner Channel HD [LEG]  ->  Warner Channel HD
+  Warner Channel SD  ->  Warner Channel HD
+  Warner Channel SD [LEG]  ->  Warner Channel HD
+  Warner Channel UHD  ->  Warner Channel HD
   Woohoo FHD  ->  Woohoo
   Woohoo H265  ->  Woohoo
   Woohoo HD  ->  Woohoo
@@ -893,7 +893,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Bloomberg TV
   Boa Vontade TV
   CGTN
-  CNN Brasil
+  CNN Brasil HD
   CNN International
   CONMEBOL TV 4 HD
   Canal 2
@@ -972,7 +972,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   SporTV HD ³
   Studio Universal HD
   Syfy HD
-  TLC HD ³
+  TLC
   TNT HD ³
   TV Brasil HD
   TV Climatempo
@@ -995,7 +995,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Travel Box Brasil HD 
   Venus
   Viva HD
-  Warner Channel HD
+  Warner Channel
   Woohoo HD
   ZooMoo HD
 
