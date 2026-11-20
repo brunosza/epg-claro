@@ -44,11 +44,11 @@ CASADOS (869)
   Adult Swim HD  ->  Adult Swim HD  [fonte extra 1]
   Adult Swim SD  ->  Adult Swim HD  [fonte extra 1]
   Adult Swim UHD  ->  Adult Swim HD  [fonte extra 1]
-  AgroMais FHD  ->  Agro Mais HD 
-  AgroMais H265  ->  Agro Mais HD 
-  AgroMais HD  ->  Agro Mais HD 
-  AgroMais SD  ->  Agro Mais HD 
-  AgroMais UHD  ->  Agro Mais HD 
+  AgroMais FHD  ->  Agro Mais
+  AgroMais H265  ->  Agro Mais
+  AgroMais HD  ->  Agro Mais
+  AgroMais SD  ->  Agro Mais
+  AgroMais UHD  ->  Agro Mais
   Animal Planet FHD  ->  Animal Planet
   Animal Planet H265  ->  Animal Planet
   Animal Planet HD  ->  Animal Planet
@@ -365,11 +365,11 @@ CASADOS (869)
   HBO 4K  ->  HBO HD ³
   HBO FHD  ->  HBO HD ³
   HBO FHD [LEG]  ->  HBO HD ³
-  HBO Family FHD  ->  HBO Family
-  HBO Family H265  ->  HBO Family
-  HBO Family HD  ->  HBO Family
-  HBO Family SD  ->  HBO Family
-  HBO Family UHD  ->  HBO Family
+  HBO Family FHD  ->  HBO Family HD ³
+  HBO Family H265  ->  HBO Family HD ³
+  HBO Family HD  ->  HBO Family HD ³
+  HBO Family SD  ->  HBO Family HD ³
+  HBO Family UHD  ->  HBO Family HD ³
   HBO H264 ( CANAIS LEGENDADOS )  ->  HBO HD ³
   HBO H265  ->  HBO HD ³
   HBO HD  ->  HBO HD ³
@@ -676,17 +676,17 @@ CASADOS (869)
   SporTV 2 SD³  ->  SporTV 2
   SporTV 2 SD¹  ->  SporTV 2
   SporTV 2 UHD  ->  SporTV 2
-  SporTV 3 FHD²  ->  SporTV 3 
-  SporTV 3 FHD³  ->  SporTV 3 
-  SporTV 3 FHD¹  ->  SporTV 3 
-  SporTV 3 H265  ->  SporTV 3 
-  SporTV 3 HD²  ->  SporTV 3 
-  SporTV 3 HD³  ->  SporTV 3 
-  SporTV 3 HD¹  ->  SporTV 3 
-  SporTV 3 SD²  ->  SporTV 3 
-  SporTV 3 SD³  ->  SporTV 3 
-  SporTV 3 SD¹  ->  SporTV 3 
-  SporTV 3 UHD  ->  SporTV 3 
+  SporTV 3 FHD²  ->  SporTV 3 HD ³
+  SporTV 3 FHD³  ->  SporTV 3 HD ³
+  SporTV 3 FHD¹  ->  SporTV 3 HD ³
+  SporTV 3 H265  ->  SporTV 3 HD ³
+  SporTV 3 HD²  ->  SporTV 3 HD ³
+  SporTV 3 HD³  ->  SporTV 3 HD ³
+  SporTV 3 HD¹  ->  SporTV 3 HD ³
+  SporTV 3 SD²  ->  SporTV 3 HD ³
+  SporTV 3 SD³  ->  SporTV 3 HD ³
+  SporTV 3 SD¹  ->  SporTV 3 HD ³
+  SporTV 3 UHD  ->  SporTV 3 HD ³
   SporTV 4K  ->  SporTV
   SporTV FHD²  ->  SporTV
   SporTV FHD³  ->  SporTV
@@ -855,16 +855,16 @@ CASADOS (869)
   Viva HD  ->  Viva
   Viva SD  ->  Viva
   Viva UHD  ->  Viva
-  WARNER CHANNEL H265 (CANAIS LEGENDADOS)  ->  Warner Channel HD
-  WARNER CHANNEL HD (CANAIS LEGENDADOS)  ->  Warner Channel HD
-  Warner Channel FHD  ->  Warner Channel HD
-  Warner Channel FHD [LEG]  ->  Warner Channel HD
-  Warner Channel H265  ->  Warner Channel HD
-  Warner Channel HD  ->  Warner Channel HD
-  Warner Channel HD [LEG]  ->  Warner Channel HD
-  Warner Channel SD  ->  Warner Channel HD
-  Warner Channel SD [LEG]  ->  Warner Channel HD
-  Warner Channel UHD  ->  Warner Channel HD
+  WARNER CHANNEL H265 (CANAIS LEGENDADOS)  ->  Warner Channel
+  WARNER CHANNEL HD (CANAIS LEGENDADOS)  ->  Warner Channel
+  Warner Channel FHD  ->  Warner Channel
+  Warner Channel FHD [LEG]  ->  Warner Channel
+  Warner Channel H265  ->  Warner Channel
+  Warner Channel HD  ->  Warner Channel
+  Warner Channel HD [LEG]  ->  Warner Channel
+  Warner Channel SD  ->  Warner Channel
+  Warner Channel SD [LEG]  ->  Warner Channel
+  Warner Channel UHD  ->  Warner Channel
   Woohoo FHD  ->  Woohoo
   Woohoo H265  ->  Woohoo
   Woohoo HD  ->  Woohoo
@@ -882,7 +882,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   A&E HD
   AMC HD
   AXN HD ³
-  Agro Mais
+  Agro Mais HD 
   Animal Planet HD
   Arte 1 HD
   BBC World News
@@ -926,7 +926,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   GloboNews HD ³
   Gloob HD ³
   Gloobinho HD
-  HBO Family HD ³
+  HBO Family
   HBO HD 2 ³
   HBO POP HD
   HBO Signature HD ³
@@ -968,7 +968,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Sony HD ³
   Space HD ³
   SporTV 2 HD ³
-  SporTV 3 HD ³
+  SporTV 3 
   SporTV HD ³
   Studio Universal HD
   Syfy HD
@@ -995,7 +995,7 @@ CANAIS DA CLARO SEM PAR NA SUA LISTA (121)
   Travel Box Brasil HD 
   Venus
   Viva HD
-  Warner Channel
+  Warner Channel HD
   Woohoo HD
   ZooMoo HD
 
