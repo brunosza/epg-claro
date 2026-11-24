@@ -12,5 +12,5 @@ Fonte extra 2: 593 canais com grade
 Fonte extra 3: 194 canais com grade
 869 canais da sua lista ligados à Claro, 3430 sem par (veja relatorio_canais.txt)
 33 títulos com código da Claro limpos
-OK: 227 canais, 41927 programas -> site/epg_claro.xml.gz
-Atualizado em 2026-11-24 04:34 UTC
+OK: 227 canais, 42819 programas -> site/epg_claro.xml.gz
+Atualizado em 2026-11-24 19:18 UTC
